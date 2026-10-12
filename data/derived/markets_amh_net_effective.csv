@@ -597,29 +597,29 @@ date,series,value,interpolated
 2026-09-26,Memphis,89.13,False
 2026-09-26,Portland,93.1,False
 2026-09-26,Miami/Fort Lauderdale,94.41,False
-2026-10-03,Other,95.655,True
-2026-10-03,Atlanta,92.455,True
-2026-10-03,Charlotte,95.745,True
-2026-10-03,Jacksonville,95.595,True
-2026-10-03,Nashville,94.02,True
-2026-10-03,Phoenix,88.44,True
-2026-10-03,Las Vegas,95.36,True
-2026-10-03,Salt Lake City,93.535,True
-2026-10-03,Tampa,90.06,True
-2026-10-03,Dallas/Fort Worth,87.565,True
-2026-10-03,Orlando,95.78,True
-2026-10-03,Houston,87.015,True
-2026-10-03,Seattle,95.58,True
-2026-10-03,Raleigh/Durham,94.02,True
-2026-10-03,Denver,95.1,True
-2026-10-03,Charleston,99.295,True
-2026-10-03,Chicago,96.115,True
-2026-10-03,San Antonio,81.18,True
-2026-10-03,Greenville,94.335,True
-2026-10-03,Austin,80.325,True
-2026-10-03,Memphis,88.935,True
-2026-10-03,Portland,93.1,True
-2026-10-03,Miami/Fort Lauderdale,94.48,True
+2026-10-03,Other,95.66,False
+2026-10-03,Atlanta,92.46,False
+2026-10-03,Charlotte,95.74,False
+2026-10-03,Jacksonville,95.59,False
+2026-10-03,Nashville,94.02,False
+2026-10-03,Phoenix,88.44,False
+2026-10-03,Las Vegas,95.36,False
+2026-10-03,Salt Lake City,93.53,False
+2026-10-03,Tampa,90.06,False
+2026-10-03,Dallas/Fort Worth,87.56,False
+2026-10-03,Orlando,95.78,False
+2026-10-03,Houston,87.01,False
+2026-10-03,Seattle,95.58,False
+2026-10-03,Raleigh/Durham,94.02,False
+2026-10-03,Denver,95.1,False
+2026-10-03,Charleston,99.29,False
+2026-10-03,Chicago,96.12,False
+2026-10-03,San Antonio,81.18,False
+2026-10-03,Greenville,94.34,False
+2026-10-03,Austin,80.33,False
+2026-10-03,Memphis,88.94,False
+2026-10-03,Portland,93.1,False
+2026-10-03,Miami/Fort Lauderdale,94.48,False
 2026-10-10,Other,95.65,False
 2026-10-10,Atlanta,92.37,False
 2026-10-10,Charlotte,95.66,False

@@ -458,23 +458,23 @@ date,series,value,interpolated
 2026-09-26,San Francisco,94.0,False
 2026-09-26,Raleigh/Durham,89.9,False
 2026-09-26,San Diego,89.39,False
-2026-10-03,New York,92.08,True
-2026-10-03,Los Angeles,86.255,True
-2026-10-03,Boston,86.985,True
-2026-10-03,"Washington, DC",88.565,True
-2026-10-03,Baltimore,92.625,True
-2026-10-03,Charlotte,92.89,True
-2026-10-03,Seattle,85.75,True
-2026-10-03,Denver,84.62,True
-2026-10-03,San Francisco-East Bay,93.325,True
-2026-10-03,Austin,99.225,True
-2026-10-03,San Jose,94.26,True
-2026-10-03,Dallas/Fort Worth,91.91,True
-2026-10-03,Miami/Fort Lauderdale,88.515,True
-2026-10-03,Orange County,92.03,True
-2026-10-03,San Francisco,92.605,True
-2026-10-03,Raleigh/Durham,89.915,True
-2026-10-03,San Diego,89.14,True
+2026-10-03,New York,92.08,False
+2026-10-03,Los Angeles,86.25,False
+2026-10-03,Boston,86.98,False
+2026-10-03,"Washington, DC",88.56,False
+2026-10-03,Baltimore,92.63,False
+2026-10-03,Charlotte,92.88,False
+2026-10-03,Seattle,85.75,False
+2026-10-03,Denver,84.6,False
+2026-10-03,San Francisco-East Bay,93.32,False
+2026-10-03,Austin,99.22,False
+2026-10-03,San Jose,94.26,False
+2026-10-03,Dallas/Fort Worth,91.91,False
+2026-10-03,Miami/Fort Lauderdale,88.51,False
+2026-10-03,Orange County,92.03,False
+2026-10-03,San Francisco,92.59,False
+2026-10-03,Raleigh/Durham,89.91,False
+2026-10-03,San Diego,89.14,False
 2026-10-10,New York,91.94,False
 2026-10-10,Los Angeles,85.6,False
 2026-10-10,Boston,86.54,False

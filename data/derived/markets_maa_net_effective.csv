@@ -851,40 +851,40 @@ date,series,value,interpolated
 2026-09-26,Louisville,88.27,False
 2026-09-26,Charlottesville,97.57,False
 2026-09-26,Miami/Fort Lauderdale,93.93,False
-2026-10-03,Dallas/Fort Worth,93.995,True
-2026-10-03,Atlanta,90.995,True
-2026-10-03,Austin,93.165,True
-2026-10-03,Charlotte,89.9,True
-2026-10-03,Orlando,87.88,True
-2026-10-03,Raleigh/Durham,90.035,True
-2026-10-03,Tampa,90.045,True
-2026-10-03,Houston,90.615,True
-2026-10-03,Nashville,80.01,True
-2026-10-03,Jacksonville,91.95,True
-2026-10-03,Phoenix,87.12,True
-2026-10-03,"Washington, DC",90.49,True
-2026-10-03,Charleston,95.3,True
+2026-10-03,Dallas/Fort Worth,93.99,False
+2026-10-03,Atlanta,90.99,False
+2026-10-03,Austin,93.1,False
+2026-10-03,Charlotte,89.9,False
+2026-10-03,Orlando,87.88,False
+2026-10-03,Raleigh/Durham,90.03,False
+2026-10-03,Tampa,90.05,False
+2026-10-03,Houston,90.61,False
+2026-10-03,Nashville,80.01,False
+2026-10-03,Jacksonville,91.94,False
+2026-10-03,Phoenix,87.12,False
+2026-10-03,"Washington, DC",90.49,False
+2026-10-03,Charleston,95.3,False
 2026-10-03,Richmond,100.335,True
-2026-10-03,Greenville,84.605,True
-2026-10-03,Memphis,93.07,True
-2026-10-03,Savannah,89.225,True
-2026-10-03,San Antonio,82.465,True
-2026-10-03,Denver,93.415,True
-2026-10-03,Kansas City,88.135,True
-2026-10-03,Huntsville,93.335,True
-2026-10-03,Birmingham,95.3,True
-2026-10-03,Las Vegas,78.8,True
-2026-10-03,Chattanooga,84.915,True
-2026-10-03,Lexington,82.025,True
-2026-10-03,Hampton Roads,106.765,True
-2026-10-03,Tallahassee,94.08,True
-2026-10-03,Gainesville,100.105,True
-2026-10-03,Salt Lake City,103.32,True
-2026-10-03,Gulf Shores,115.82,True
-2026-10-03,Panama City Beach,106.91,True
-2026-10-03,Louisville,89.175,True
-2026-10-03,Charlottesville,95.925,True
-2026-10-03,Miami/Fort Lauderdale,95.48,True
+2026-10-03,Greenville,84.61,False
+2026-10-03,Memphis,93.04,False
+2026-10-03,Savannah,89.18,False
+2026-10-03,San Antonio,82.45,False
+2026-10-03,Denver,93.41,False
+2026-10-03,Kansas City,88.12,False
+2026-10-03,Huntsville,93.31,False
+2026-10-03,Birmingham,95.29,False
+2026-10-03,Las Vegas,78.78,False
+2026-10-03,Chattanooga,84.91,False
+2026-10-03,Lexington,82.02,False
+2026-10-03,Hampton Roads,106.76,False
+2026-10-03,Tallahassee,94.01,False
+2026-10-03,Gainesville,100.07,False
+2026-10-03,Salt Lake City,103.32,False
+2026-10-03,Gulf Shores,115.78,False
+2026-10-03,Panama City Beach,106.9,False
+2026-10-03,Louisville,89.17,False
+2026-10-03,Charlottesville,95.9,False
+2026-10-03,Miami/Fort Lauderdale,95.43,False
 2026-10-10,Dallas/Fort Worth,93.5,False
 2026-10-10,Atlanta,90.08,False
 2026-10-10,Austin,89.71,False

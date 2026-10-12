@@ -360,20 +360,20 @@ date,series,value,interpolated
 2026-09-26,Nashville,95.13,False
 2026-09-26,Miami/Fort Lauderdale,95.37,False
 2026-09-26,Other,101.03,False
-2026-10-03,Houston,93.51,True
-2026-10-03,Charlotte,90.24,True
-2026-10-03,Dallas/Fort Worth,95.72,True
-2026-10-03,Raleigh/Durham,94.005,True
-2026-10-03,Atlanta,93.36,True
-2026-10-03,Phoenix,91.475,True
-2026-10-03,Orlando,92.2,True
-2026-10-03,Austin,89.43,True
-2026-10-03,Denver,91.235,True
-2026-10-03,"Washington, DC",90.605,True
-2026-10-03,Tampa,91.49,True
-2026-10-03,Nashville,94.075,True
-2026-10-03,Miami/Fort Lauderdale,95.155,True
-2026-10-03,Other,100.675,True
+2026-10-03,Houston,93.51,False
+2026-10-03,Charlotte,90.24,False
+2026-10-03,Dallas/Fort Worth,95.72,False
+2026-10-03,Raleigh/Durham,94.01,False
+2026-10-03,Atlanta,93.35,False
+2026-10-03,Phoenix,91.48,False
+2026-10-03,Orlando,92.2,False
+2026-10-03,Austin,89.42,False
+2026-10-03,Denver,91.19,False
+2026-10-03,"Washington, DC",90.6,False
+2026-10-03,Tampa,91.49,False
+2026-10-03,Nashville,94.07,False
+2026-10-03,Miami/Fort Lauderdale,95.15,False
+2026-10-03,Other,100.67,False
 2026-10-10,Houston,92.61,False
 2026-10-10,Charlotte,89.72,False
 2026-10-10,Dallas/Fort Worth,94.95,False

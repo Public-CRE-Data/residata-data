@@ -337,19 +337,19 @@ date,series,value,interpolated
 2026-09-26,San Diego,89.79,False
 2026-09-26,Inland Empire,94.62,False
 2026-09-26,Austin,97.65,False
-2026-10-03,"Washington, DC",85.285,True
-2026-10-03,Los Angeles,81.165,True
-2026-10-03,Boston,86.005,True
-2026-10-03,Atlanta,84.865,True
-2026-10-03,San Francisco,94.17,True
-2026-10-03,Seattle,81.91,True
-2026-10-03,Dallas/Fort Worth,91.89,True
-2026-10-03,New York,93.605,True
-2026-10-03,Denver,81.375,True
-2026-10-03,Orange County,96.715,True
-2026-10-03,San Diego,87.845,True
-2026-10-03,Inland Empire,92.745,True
-2026-10-03,Austin,97.59,True
+2026-10-03,"Washington, DC",85.28,False
+2026-10-03,Los Angeles,81.16,False
+2026-10-03,Boston,86.0,False
+2026-10-03,Atlanta,84.86,False
+2026-10-03,San Francisco,94.17,False
+2026-10-03,Seattle,81.9,False
+2026-10-03,Dallas/Fort Worth,91.89,False
+2026-10-03,New York,93.61,False
+2026-10-03,Denver,81.37,False
+2026-10-03,Orange County,96.71,False
+2026-10-03,San Diego,87.82,False
+2026-10-03,Inland Empire,92.72,False
+2026-10-03,Austin,97.59,False
 2026-10-10,"Washington, DC",84.82,False
 2026-10-10,Los Angeles,80.22,False
 2026-10-10,Boston,85.17,False
