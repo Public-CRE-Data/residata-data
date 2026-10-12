@@ -3,8 +3,8 @@ date,series,value,interpolated
 2026-04-04,Los Angeles,100.0,False
 2026-04-04,Boston,100.0,False
 2026-04-04,Atlanta,100.0,False
-2026-04-04,Seattle,100.0,False
 2026-04-04,San Francisco,100.0,False
+2026-04-04,Seattle,100.0,False
 2026-04-04,Dallas/Fort Worth,100.0,False
 2026-04-04,New York,100.0,False
 2026-04-04,Denver,100.0,False
@@ -16,8 +16,8 @@ date,series,value,interpolated
 2026-04-11,Los Angeles,97.64,False
 2026-04-11,Boston,101.62,False
 2026-04-11,Atlanta,99.21,False
-2026-04-11,Seattle,100.01,False
 2026-04-11,San Francisco,99.96,False
+2026-04-11,Seattle,100.01,False
 2026-04-11,Dallas/Fort Worth,100.13,False
 2026-04-11,New York,99.67,False
 2026-04-11,Denver,99.16,False
@@ -29,8 +29,8 @@ date,series,value,interpolated
 2026-04-18,Los Angeles,96.85,False
 2026-04-18,Boston,102.35,False
 2026-04-18,Atlanta,98.65,False
-2026-04-18,Seattle,99.32,False
 2026-04-18,San Francisco,100.51,False
+2026-04-18,Seattle,99.32,False
 2026-04-18,Dallas/Fort Worth,100.34,False
 2026-04-18,New York,99.82,False
 2026-04-18,Denver,96.9,False
@@ -42,8 +42,8 @@ date,series,value,interpolated
 2026-04-25,Los Angeles,95.13,False
 2026-04-25,Boston,102.41,False
 2026-04-25,Atlanta,97.72,False
-2026-04-25,Seattle,99.67,False
 2026-04-25,San Francisco,100.52,False
+2026-04-25,Seattle,99.67,False
 2026-04-25,Dallas/Fort Worth,98.66,False
 2026-04-25,New York,99.26,False
 2026-04-25,Denver,96.62,False
@@ -55,8 +55,8 @@ date,series,value,interpolated
 2026-05-02,Los Angeles,94.03,False
 2026-05-02,Boston,101.81,False
 2026-05-02,Atlanta,95.79,False
-2026-05-02,Seattle,98.87,False
 2026-05-02,San Francisco,100.53,False
+2026-05-02,Seattle,98.87,False
 2026-05-02,Dallas/Fort Worth,98.25,False
 2026-05-02,New York,98.61,False
 2026-05-02,Denver,95.5,False
@@ -68,8 +68,8 @@ date,series,value,interpolated
 2026-05-09,Los Angeles,92.62,False
 2026-05-09,Boston,101.34,False
 2026-05-09,Atlanta,94.42,False
-2026-05-09,Seattle,97.5,False
 2026-05-09,San Francisco,100.39,False
+2026-05-09,Seattle,97.5,False
 2026-05-09,Dallas/Fort Worth,96.02,False
 2026-05-09,New York,98.71,False
 2026-05-09,Denver,95.37,False
@@ -81,8 +81,8 @@ date,series,value,interpolated
 2026-05-16,Los Angeles,91.61,False
 2026-05-16,Boston,101.29,False
 2026-05-16,Atlanta,93.98,False
-2026-05-16,Seattle,96.06,False
 2026-05-16,San Francisco,100.12,False
+2026-05-16,Seattle,96.06,False
 2026-05-16,Dallas/Fort Worth,96.63,False
 2026-05-16,New York,98.19,False
 2026-05-16,Denver,95.26,False
@@ -94,8 +94,8 @@ date,series,value,interpolated
 2026-05-23,Los Angeles,95.12,False
 2026-05-23,Boston,101.51,False
 2026-05-23,Atlanta,93.87,False
-2026-05-23,Seattle,94.69,False
 2026-05-23,San Francisco,99.32,False
+2026-05-23,Seattle,94.69,False
 2026-05-23,Dallas/Fort Worth,97.0,False
 2026-05-23,New York,98.77,False
 2026-05-23,Denver,96.63,False
@@ -107,8 +107,8 @@ date,series,value,interpolated
 2026-05-30,Los Angeles,92.04,False
 2026-05-30,Boston,100.87,False
 2026-05-30,Atlanta,93.81,False
-2026-05-30,Seattle,93.87,False
 2026-05-30,San Francisco,99.76,False
+2026-05-30,Seattle,93.87,False
 2026-05-30,Dallas/Fort Worth,96.47,False
 2026-05-30,New York,98.95,False
 2026-05-30,Denver,95.17,False
@@ -120,8 +120,8 @@ date,series,value,interpolated
 2026-06-06,Los Angeles,89.98,False
 2026-06-06,Boston,100.23,False
 2026-06-06,Atlanta,94.19,False
-2026-06-06,Seattle,93.52,False
 2026-06-06,San Francisco,100.02,False
+2026-06-06,Seattle,93.52,False
 2026-06-06,Dallas/Fort Worth,96.61,False
 2026-06-06,New York,98.2,False
 2026-06-06,Denver,93.84,False
@@ -133,8 +133,8 @@ date,series,value,interpolated
 2026-06-13,Los Angeles,88.75,False
 2026-06-13,Boston,99.55,False
 2026-06-13,Atlanta,93.51,False
-2026-06-13,Seattle,92.36,False
 2026-06-13,San Francisco,99.73,False
+2026-06-13,Seattle,92.36,False
 2026-06-13,Dallas/Fort Worth,97.07,False
 2026-06-13,New York,97.89,False
 2026-06-13,Denver,92.38,False
@@ -146,8 +146,8 @@ date,series,value,interpolated
 2026-06-20,Los Angeles,88.5,False
 2026-06-20,Boston,99.74,False
 2026-06-20,Atlanta,94.21,False
-2026-06-20,Seattle,93.18,False
 2026-06-20,San Francisco,99.88,False
+2026-06-20,Seattle,93.18,False
 2026-06-20,Dallas/Fort Worth,98.78,False
 2026-06-20,New York,97.55,False
 2026-06-20,Denver,92.93,False
@@ -159,8 +159,8 @@ date,series,value,interpolated
 2026-06-27,Los Angeles,87.84,True
 2026-06-27,Boston,99.33,True
 2026-06-27,Atlanta,94.1475,True
-2026-06-27,Seattle,92.9575,True
 2026-06-27,San Francisco,100.04,True
+2026-06-27,Seattle,92.9575,True
 2026-06-27,Dallas/Fort Worth,98.51,True
 2026-06-27,New York,97.4125,True
 2026-06-27,Denver,92.12,True
@@ -172,8 +172,8 @@ date,series,value,interpolated
 2026-07-04,Los Angeles,87.18,True
 2026-07-04,Boston,98.92,True
 2026-07-04,Atlanta,94.085,True
-2026-07-04,Seattle,92.735,True
 2026-07-04,San Francisco,100.2,True
+2026-07-04,Seattle,92.735,True
 2026-07-04,Dallas/Fort Worth,98.24,True
 2026-07-04,New York,97.275,True
 2026-07-04,Denver,91.31,True
@@ -185,8 +185,8 @@ date,series,value,interpolated
 2026-07-11,Los Angeles,86.52,True
 2026-07-11,Boston,98.51,True
 2026-07-11,Atlanta,94.0225,True
-2026-07-11,Seattle,92.5125,True
 2026-07-11,San Francisco,100.36,True
+2026-07-11,Seattle,92.5125,True
 2026-07-11,Dallas/Fort Worth,97.97,True
 2026-07-11,New York,97.1375,True
 2026-07-11,Denver,90.5,True
@@ -198,8 +198,8 @@ date,series,value,interpolated
 2026-07-18,Los Angeles,85.86,False
 2026-07-18,Boston,98.1,False
 2026-07-18,Atlanta,93.96,False
-2026-07-18,Seattle,92.29,False
 2026-07-18,San Francisco,100.52,False
+2026-07-18,Seattle,92.29,False
 2026-07-18,Dallas/Fort Worth,97.7,False
 2026-07-18,New York,97.0,False
 2026-07-18,Denver,89.69,False
@@ -211,8 +211,8 @@ date,series,value,interpolated
 2026-07-25,Los Angeles,85.445,True
 2026-07-25,Boston,97.42,True
 2026-07-25,Atlanta,92.98,True
-2026-07-25,Seattle,91.985,True
 2026-07-25,San Francisco,100.325,True
+2026-07-25,Seattle,91.985,True
 2026-07-25,Dallas/Fort Worth,97.74,True
 2026-07-25,New York,97.19,True
 2026-07-25,Denver,89.33,True
@@ -224,8 +224,8 @@ date,series,value,interpolated
 2026-08-01,Los Angeles,85.03,False
 2026-08-01,Boston,96.74,False
 2026-08-01,Atlanta,92.0,False
-2026-08-01,Seattle,91.68,False
 2026-08-01,San Francisco,100.13,False
+2026-08-01,Seattle,91.68,False
 2026-08-01,Dallas/Fort Worth,97.78,False
 2026-08-01,New York,97.38,False
 2026-08-01,Denver,88.97,False
@@ -237,8 +237,8 @@ date,series,value,interpolated
 2026-08-08,Los Angeles,84.39,False
 2026-08-08,Boston,95.68,False
 2026-08-08,Atlanta,90.52,False
-2026-08-08,Seattle,90.14,False
 2026-08-08,San Francisco,99.75,False
+2026-08-08,Seattle,90.14,False
 2026-08-08,Dallas/Fort Worth,96.87,False
 2026-08-08,New York,97.55,False
 2026-08-08,Denver,89.39,False
@@ -250,8 +250,8 @@ date,series,value,interpolated
 2026-08-15,Los Angeles,84.26,False
 2026-08-15,Boston,95.1,False
 2026-08-15,Atlanta,89.57,False
-2026-08-15,Seattle,88.96,False
 2026-08-15,San Francisco,98.45,False
+2026-08-15,Seattle,88.96,False
 2026-08-15,Dallas/Fort Worth,97.53,False
 2026-08-15,New York,96.86,False
 2026-08-15,Denver,89.73,False
@@ -263,8 +263,8 @@ date,series,value,interpolated
 2026-08-22,Los Angeles,83.81,False
 2026-08-22,Boston,94.7,False
 2026-08-22,Atlanta,89.55,False
-2026-08-22,Seattle,87.4,False
 2026-08-22,San Francisco,97.56,False
+2026-08-22,Seattle,87.4,False
 2026-08-22,Dallas/Fort Worth,95.57,False
 2026-08-22,New York,96.51,False
 2026-08-22,Denver,88.55,False
@@ -276,8 +276,8 @@ date,series,value,interpolated
 2026-08-29,Los Angeles,83.61,False
 2026-08-29,Boston,94.26,False
 2026-08-29,Atlanta,89.07,False
-2026-08-29,Seattle,86.11,False
 2026-08-29,San Francisco,97.2,False
+2026-08-29,Seattle,86.11,False
 2026-08-29,Dallas/Fort Worth,95.46,False
 2026-08-29,New York,95.16,False
 2026-08-29,Denver,87.41,False
@@ -289,8 +289,8 @@ date,series,value,interpolated
 2026-09-05,Los Angeles,83.55,False
 2026-09-05,Boston,93.15,False
 2026-09-05,Atlanta,88.76,False
-2026-09-05,Seattle,85.03,False
 2026-09-05,San Francisco,96.83,False
+2026-09-05,Seattle,85.03,False
 2026-09-05,Dallas/Fort Worth,95.32,False
 2026-09-05,New York,94.95,False
 2026-09-05,Denver,85.33,False
@@ -302,8 +302,8 @@ date,series,value,interpolated
 2026-09-12,Los Angeles,83.09,False
 2026-09-12,Boston,91.91,False
 2026-09-12,Atlanta,88.13,False
-2026-09-12,Seattle,84.64,False
 2026-09-12,San Francisco,96.3,False
+2026-09-12,Seattle,84.64,False
 2026-09-12,Dallas/Fort Worth,94.43,False
 2026-09-12,New York,94.54,False
 2026-09-12,Denver,84.28,False
@@ -315,8 +315,8 @@ date,series,value,interpolated
 2026-09-19,Los Angeles,82.64,False
 2026-09-19,Boston,90.7,False
 2026-09-19,Atlanta,87.51,False
-2026-09-19,Seattle,84.26,False
 2026-09-19,San Francisco,95.78,False
+2026-09-19,Seattle,84.26,False
 2026-09-19,Dallas/Fort Worth,93.55,False
 2026-09-19,New York,94.13,False
 2026-09-19,Denver,83.25,False
@@ -328,8 +328,8 @@ date,series,value,interpolated
 2026-09-26,Los Angeles,82.11,False
 2026-09-26,Boston,86.84,False
 2026-09-26,Atlanta,85.55,False
-2026-09-26,Seattle,83.04,False
 2026-09-26,San Francisco,94.94,False
+2026-09-26,Seattle,83.04,False
 2026-09-26,Dallas/Fort Worth,92.06,False
 2026-09-26,New York,93.89,False
 2026-09-26,Denver,82.05,False
@@ -337,3 +337,29 @@ date,series,value,interpolated
 2026-09-26,San Diego,89.79,False
 2026-09-26,Inland Empire,94.62,False
 2026-09-26,Austin,97.65,False
+2026-10-03,"Washington, DC",85.285,True
+2026-10-03,Los Angeles,81.165,True
+2026-10-03,Boston,86.005,True
+2026-10-03,Atlanta,84.865,True
+2026-10-03,San Francisco,94.17,True
+2026-10-03,Seattle,81.91,True
+2026-10-03,Dallas/Fort Worth,91.89,True
+2026-10-03,New York,93.605,True
+2026-10-03,Denver,81.375,True
+2026-10-03,Orange County,96.715,True
+2026-10-03,San Diego,87.845,True
+2026-10-03,Inland Empire,92.745,True
+2026-10-03,Austin,97.59,True
+2026-10-10,"Washington, DC",84.82,False
+2026-10-10,Los Angeles,80.22,False
+2026-10-10,Boston,85.17,False
+2026-10-10,Atlanta,84.18,False
+2026-10-10,San Francisco,93.4,False
+2026-10-10,Seattle,80.78,False
+2026-10-10,Dallas/Fort Worth,91.72,False
+2026-10-10,New York,93.32,False
+2026-10-10,Denver,80.7,False
+2026-10-10,Orange County,96.26,False
+2026-10-10,San Diego,85.9,False
+2026-10-10,Inland Empire,90.87,False
+2026-10-10,Austin,97.53,False

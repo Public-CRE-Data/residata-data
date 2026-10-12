@@ -13,8 +13,8 @@ date,series,value,interpolated
 2026-04-04,Jacksonville,100.0,False
 2026-04-04,Houston,100.0,False
 2026-04-04,Nashville,100.0,False
-2026-04-04,Chicago,100.0,False
 2026-04-04,Minneapolis,100.0,False
+2026-04-04,Chicago,100.0,False
 2026-04-04,San Antonio,100.0,False
 2026-04-04,Salt Lake City,100.0,False
 2026-04-04,Austin,100.0,False
@@ -32,8 +32,8 @@ date,series,value,interpolated
 2026-04-11,Jacksonville,99.44,False
 2026-04-11,Houston,98.62,False
 2026-04-11,Nashville,99.19,False
-2026-04-11,Chicago,98.32,False
 2026-04-11,Minneapolis,97.62,False
+2026-04-11,Chicago,98.32,False
 2026-04-11,San Antonio,101.4,False
 2026-04-11,Salt Lake City,100.16,False
 2026-04-11,Austin,98.28,False
@@ -51,8 +51,8 @@ date,series,value,interpolated
 2026-04-18,Jacksonville,97.73,False
 2026-04-18,Houston,99.39,False
 2026-04-18,Nashville,93.97,False
-2026-04-18,Chicago,106.07,False
 2026-04-18,Minneapolis,97.08,False
+2026-04-18,Chicago,106.07,False
 2026-04-18,San Antonio,101.02,False
 2026-04-18,Salt Lake City,101.85,False
 2026-04-18,Austin,98.28,False
@@ -70,8 +70,8 @@ date,series,value,interpolated
 2026-04-25,Jacksonville,93.95,False
 2026-04-25,Houston,99.58,False
 2026-04-25,Nashville,95.4,False
-2026-04-25,Chicago,104.62,False
 2026-04-25,Minneapolis,95.22,False
+2026-04-25,Chicago,104.62,False
 2026-04-25,San Antonio,105.4,False
 2026-04-25,Salt Lake City,103.04,False
 2026-04-25,Austin,77.82,False
@@ -89,8 +89,8 @@ date,series,value,interpolated
 2026-05-02,Jacksonville,93.64,False
 2026-05-02,Houston,100.22,False
 2026-05-02,Nashville,99.46,False
-2026-05-02,Chicago,98.43,False
 2026-05-02,Minneapolis,97.28,False
+2026-05-02,Chicago,98.43,False
 2026-05-02,San Antonio,105.56,False
 2026-05-02,Salt Lake City,103.8,False
 2026-05-02,Austin,77.92,False
@@ -108,8 +108,8 @@ date,series,value,interpolated
 2026-05-09,Jacksonville,93.24,False
 2026-05-09,Houston,97.25,False
 2026-05-09,Nashville,98.75,False
-2026-05-09,Chicago,95.69,False
 2026-05-09,Minneapolis,97.38,False
+2026-05-09,Chicago,95.69,False
 2026-05-09,San Antonio,105.45,False
 2026-05-09,Salt Lake City,103.85,False
 2026-05-09,Austin,77.92,False
@@ -127,8 +127,8 @@ date,series,value,interpolated
 2026-05-16,Jacksonville,93.74,False
 2026-05-16,Houston,101.2,False
 2026-05-16,Nashville,98.63,False
-2026-05-16,Chicago,93.23,False
 2026-05-16,Minneapolis,105.52,False
+2026-05-16,Chicago,93.23,False
 2026-05-16,San Antonio,103.9,False
 2026-05-16,Salt Lake City,103.66,False
 2026-05-16,Austin,78.55,False
@@ -146,8 +146,8 @@ date,series,value,interpolated
 2026-05-23,Jacksonville,100.54,False
 2026-05-23,Houston,101.26,False
 2026-05-23,Nashville,98.48,False
-2026-05-23,Chicago,97.68,False
 2026-05-23,Minneapolis,102.65,False
+2026-05-23,Chicago,97.68,False
 2026-05-23,San Antonio,102.4,False
 2026-05-23,Salt Lake City,101.08,False
 2026-05-23,Austin,78.55,False
@@ -165,8 +165,8 @@ date,series,value,interpolated
 2026-05-30,Jacksonville,99.715,True
 2026-05-30,Houston,101.345,True
 2026-05-30,Nashville,98.675,True
-2026-05-30,Chicago,99.99,True
 2026-05-30,Minneapolis,104.04,True
+2026-05-30,Chicago,99.99,True
 2026-05-30,San Antonio,101.03,True
 2026-05-30,Salt Lake City,100.23,True
 2026-05-30,Austin,74.575,True
@@ -184,8 +184,8 @@ date,series,value,interpolated
 2026-06-06,Jacksonville,98.89,False
 2026-06-06,Houston,101.43,False
 2026-06-06,Nashville,98.87,False
-2026-06-06,Chicago,102.3,False
 2026-06-06,Minneapolis,105.43,False
+2026-06-06,Chicago,102.3,False
 2026-06-06,San Antonio,99.66,False
 2026-06-06,Salt Lake City,99.38,False
 2026-06-06,Austin,70.6,False
@@ -203,8 +203,8 @@ date,series,value,interpolated
 2026-06-13,Jacksonville,98.98,False
 2026-06-13,Houston,100.07,False
 2026-06-13,Nashville,97.52,False
-2026-06-13,Chicago,98.42,False
 2026-06-13,Minneapolis,102.67,False
+2026-06-13,Chicago,98.42,False
 2026-06-13,San Antonio,107.91,False
 2026-06-13,Salt Lake City,99.76,False
 2026-06-13,Austin,74.02,False
@@ -222,8 +222,8 @@ date,series,value,interpolated
 2026-06-20,Jacksonville,98.57,True
 2026-06-20,Houston,100.156,True
 2026-06-20,Nashville,97.672,True
-2026-06-20,Chicago,97.768,True
 2026-06-20,Minneapolis,101.804,True
+2026-06-20,Chicago,97.768,True
 2026-06-20,San Antonio,107.064,True
 2026-06-20,Salt Lake City,100.776,True
 2026-06-20,Austin,76.026,True
@@ -241,8 +241,8 @@ date,series,value,interpolated
 2026-06-27,Jacksonville,98.16,True
 2026-06-27,Houston,100.242,True
 2026-06-27,Nashville,97.824,True
-2026-06-27,Chicago,97.116,True
 2026-06-27,Minneapolis,100.938,True
+2026-06-27,Chicago,97.116,True
 2026-06-27,San Antonio,106.218,True
 2026-06-27,Salt Lake City,101.792,True
 2026-06-27,Austin,78.032,True
@@ -260,8 +260,8 @@ date,series,value,interpolated
 2026-07-04,Jacksonville,97.75,True
 2026-07-04,Houston,100.328,True
 2026-07-04,Nashville,97.976,True
-2026-07-04,Chicago,96.464,True
 2026-07-04,Minneapolis,100.072,True
+2026-07-04,Chicago,96.464,True
 2026-07-04,San Antonio,105.372,True
 2026-07-04,Salt Lake City,102.808,True
 2026-07-04,Austin,80.038,True
@@ -279,8 +279,8 @@ date,series,value,interpolated
 2026-07-11,Jacksonville,97.34,True
 2026-07-11,Houston,100.414,True
 2026-07-11,Nashville,98.128,True
-2026-07-11,Chicago,95.812,True
 2026-07-11,Minneapolis,99.206,True
+2026-07-11,Chicago,95.812,True
 2026-07-11,San Antonio,104.526,True
 2026-07-11,Salt Lake City,103.824,True
 2026-07-11,Austin,82.044,True
@@ -298,8 +298,8 @@ date,series,value,interpolated
 2026-07-18,Jacksonville,96.93,False
 2026-07-18,Houston,100.5,False
 2026-07-18,Nashville,98.28,False
-2026-07-18,Chicago,95.16,False
 2026-07-18,Minneapolis,98.34,False
+2026-07-18,Chicago,95.16,False
 2026-07-18,San Antonio,103.68,False
 2026-07-18,Salt Lake City,104.84,False
 2026-07-18,Austin,84.05,False
@@ -317,8 +317,8 @@ date,series,value,interpolated
 2026-07-25,Jacksonville,96.7,True
 2026-07-25,Houston,100.1,True
 2026-07-25,Nashville,98.05,True
-2026-07-25,Chicago,95.0267,True
 2026-07-25,Minneapolis,98.0533,True
+2026-07-25,Chicago,95.0267,True
 2026-07-25,San Antonio,103.5967,True
 2026-07-25,Salt Lake City,104.7433,True
 2026-07-25,Austin,83.58,True
@@ -336,8 +336,8 @@ date,series,value,interpolated
 2026-08-01,Jacksonville,96.47,True
 2026-08-01,Houston,99.7,True
 2026-08-01,Nashville,97.82,True
-2026-08-01,Chicago,94.8933,True
 2026-08-01,Minneapolis,97.7667,True
+2026-08-01,Chicago,94.8933,True
 2026-08-01,San Antonio,103.5133,True
 2026-08-01,Salt Lake City,104.6467,True
 2026-08-01,Austin,83.11,True
@@ -355,8 +355,8 @@ date,series,value,interpolated
 2026-08-08,Jacksonville,96.24,False
 2026-08-08,Houston,99.3,False
 2026-08-08,Nashville,97.59,False
-2026-08-08,Chicago,94.76,False
 2026-08-08,Minneapolis,97.48,False
+2026-08-08,Chicago,94.76,False
 2026-08-08,San Antonio,103.43,False
 2026-08-08,Salt Lake City,104.55,False
 2026-08-08,Austin,82.64,False
@@ -374,8 +374,8 @@ date,series,value,interpolated
 2026-08-15,Jacksonville,96.09,False
 2026-08-15,Houston,98.78,False
 2026-08-15,Nashville,96.91,False
-2026-08-15,Chicago,93.65,False
 2026-08-15,Minneapolis,96.98,False
+2026-08-15,Chicago,93.65,False
 2026-08-15,San Antonio,102.84,False
 2026-08-15,Salt Lake City,103.19,False
 2026-08-15,Austin,82.64,False
@@ -393,8 +393,8 @@ date,series,value,interpolated
 2026-08-22,Jacksonville,95.65,False
 2026-08-22,Houston,98.36,False
 2026-08-22,Nashville,96.67,False
-2026-08-22,Chicago,94.24,False
 2026-08-22,Minneapolis,96.54,False
+2026-08-22,Chicago,94.24,False
 2026-08-22,San Antonio,102.92,False
 2026-08-22,Salt Lake City,102.63,False
 2026-08-22,Austin,82.64,False
@@ -412,8 +412,8 @@ date,series,value,interpolated
 2026-08-29,Jacksonville,94.88,False
 2026-08-29,Houston,96.77,False
 2026-08-29,Nashville,95.73,False
-2026-08-29,Chicago,93.71,False
 2026-08-29,Minneapolis,95.11,False
+2026-08-29,Chicago,93.71,False
 2026-08-29,San Antonio,102.11,False
 2026-08-29,Salt Lake City,100.83,False
 2026-08-29,Austin,79.76,False
@@ -431,8 +431,8 @@ date,series,value,interpolated
 2026-09-05,Jacksonville,94.52,False
 2026-09-05,Houston,96.25,False
 2026-09-05,Nashville,95.21,False
-2026-09-05,Chicago,94.21,False
 2026-09-05,Minneapolis,94.88,False
+2026-09-05,Chicago,94.21,False
 2026-09-05,San Antonio,101.06,False
 2026-09-05,Salt Lake City,99.58,False
 2026-09-05,Austin,79.17,False
@@ -450,8 +450,8 @@ date,series,value,interpolated
 2026-09-12,Jacksonville,94.31,False
 2026-09-12,Houston,95.54,False
 2026-09-12,Nashville,94.95,False
-2026-09-12,Chicago,94.12,False
 2026-09-12,Minneapolis,94.2,False
+2026-09-12,Chicago,94.12,False
 2026-09-12,San Antonio,100.97,False
 2026-09-12,Salt Lake City,98.84,False
 2026-09-12,Austin,79.17,False
@@ -469,8 +469,8 @@ date,series,value,interpolated
 2026-09-19,Jacksonville,93.39,False
 2026-09-19,Houston,94.43,False
 2026-09-19,Nashville,93.2,False
-2026-09-19,Chicago,94.47,False
 2026-09-19,Minneapolis,93.4,False
+2026-09-19,Chicago,94.47,False
 2026-09-19,San Antonio,100.24,False
 2026-09-19,Salt Lake City,97.92,False
 2026-09-19,Austin,77.01,False
@@ -488,8 +488,46 @@ date,series,value,interpolated
 2026-09-26,Jacksonville,92.41,False
 2026-09-26,Houston,93.44,False
 2026-09-26,Nashville,91.97,False
-2026-09-26,Chicago,94.95,False
 2026-09-26,Minneapolis,92.51,False
+2026-09-26,Chicago,94.95,False
 2026-09-26,San Antonio,99.1,False
 2026-09-26,Salt Lake City,97.59,False
 2026-09-26,Austin,77.01,False
+2026-10-03,Tampa,90.315,True
+2026-10-03,Atlanta,92.625,True
+2026-10-03,Phoenix,85.545,True
+2026-10-03,Charlotte,94.68,True
+2026-10-03,Dallas/Fort Worth,90.54,True
+2026-10-03,Orlando,96.675,True
+2026-10-03,Denver,89.245,True
+2026-10-03,Miami/Fort Lauderdale,76.495,True
+2026-10-03,Los Angeles,102.245,True
+2026-10-03,Seattle,98.75,True
+2026-10-03,Las Vegas,88.45,True
+2026-10-03,Jacksonville,91.81,True
+2026-10-03,Houston,92.745,True
+2026-10-03,Nashville,91.31,True
+2026-10-03,Minneapolis,91.79,True
+2026-10-03,Chicago,95.08,True
+2026-10-03,San Antonio,98.455,True
+2026-10-03,Salt Lake City,97.275,True
+2026-10-03,Austin,77.01,True
+2026-10-10,Tampa,89.61,False
+2026-10-10,Atlanta,91.58,False
+2026-10-10,Phoenix,84.88,False
+2026-10-10,Charlotte,93.88,False
+2026-10-10,Dallas/Fort Worth,90.03,False
+2026-10-10,Orlando,95.99,False
+2026-10-10,Denver,88.79,False
+2026-10-10,Miami/Fort Lauderdale,75.84,False
+2026-10-10,Los Angeles,101.81,False
+2026-10-10,Seattle,98.11,False
+2026-10-10,Las Vegas,87.59,False
+2026-10-10,Jacksonville,91.21,False
+2026-10-10,Houston,92.05,False
+2026-10-10,Nashville,90.65,False
+2026-10-10,Minneapolis,91.07,False
+2026-10-10,Chicago,95.21,False
+2026-10-10,San Antonio,97.81,False
+2026-10-10,Salt Lake City,96.96,False
+2026-10-10,Austin,77.01,False
