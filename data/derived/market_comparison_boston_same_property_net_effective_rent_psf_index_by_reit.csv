@@ -113,3 +113,7 @@ date,series,value,interpolated
 2026-10-10,EQR,85.17,False
 2026-10-10,UDR,84.51,False
 2026-10-10,VMRK,85.41,False
+2026-10-17,AVB,85.42,False
+2026-10-17,EQR,84.46,False
+2026-10-17,UDR,83.16,False
+2026-10-17,VMRK,84.72,False
