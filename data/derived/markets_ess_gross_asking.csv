@@ -285,12 +285,12 @@ date,series,value,interpolated
 2026-10-10,Santa Barbara,104.59,False
 2026-10-10,Salinas/Monterey,96.46,False
 2026-10-10,Denver,110.04,False
-2026-10-17,Seattle,92.23,False
-2026-10-17,Los Angeles,90.92,False
+2026-10-17,Seattle,92.41,False
+2026-10-17,Los Angeles,90.95,False
 2026-10-17,San Francisco-East Bay,102.95,False
-2026-10-17,San Jose,101.42,False
-2026-10-17,San Diego,96.67,False
-2026-10-17,Orange County,100.34,False
+2026-10-17,San Jose,101.5,False
+2026-10-17,San Diego,96.83,False
+2026-10-17,Orange County,100.36,False
 2026-10-17,San Francisco,97.25,False
 2026-10-17,Santa Barbara,104.88,False
 2026-10-17,Salinas/Monterey,95.28,False

@@ -388,14 +388,14 @@ date,series,value,interpolated
 2026-10-10,Nashville,93.02,False
 2026-10-10,Miami/Fort Lauderdale,94.94,False
 2026-10-10,Other,100.32,False
-2026-10-17,Houston,92.36,False
+2026-10-17,Houston,92.37,False
 2026-10-17,Charlotte,89.23,False
-2026-10-17,Dallas/Fort Worth,94.09,False
+2026-10-17,Dallas/Fort Worth,94.06,False
 2026-10-17,Atlanta,91.43,False
-2026-10-17,Raleigh/Durham,91.87,False
-2026-10-17,Phoenix,90.71,False
+2026-10-17,Raleigh/Durham,91.89,False
+2026-10-17,Phoenix,90.73,False
 2026-10-17,Orlando,90.5,False
-2026-10-17,Austin,87.98,False
+2026-10-17,Austin,87.99,False
 2026-10-17,Denver,87.02,False
 2026-10-17,Tampa,90.85,False
 2026-10-17,"Washington, DC",90.09,False
