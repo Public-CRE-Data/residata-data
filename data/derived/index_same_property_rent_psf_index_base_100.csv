@@ -3,6 +3,7 @@ date,series,value,interpolated
 2026-03-28,CPT,100.0,False
 2026-03-28,ESS,100.0,False
 2026-03-28,UDR,100.0,False
+2026-03-28,VMRK,100.0,False
 2026-04-04,AMH,100.0,False
 2026-04-04,AVB,99.91,False
 2026-04-04,CPT,99.67,False
@@ -11,6 +12,7 @@ date,series,value,interpolated
 2026-04-04,INVH,100.0,False
 2026-04-04,MAA,100.0,False
 2026-04-04,UDR,99.29,False
+2026-04-04,VMRK,99.85,False
 2026-04-11,AMH,99.78,False
 2026-04-11,AVB,99.87,False
 2026-04-11,CPT,99.05,False
@@ -19,6 +21,7 @@ date,series,value,interpolated
 2026-04-11,INVH,100.52,False
 2026-04-11,MAA,99.75,False
 2026-04-11,UDR,98.79,False
+2026-04-11,VMRK,99.72,False
 2026-04-18,AMH,99.5,False
 2026-04-18,AVB,99.61,False
 2026-04-18,CPT,99.13,False
@@ -27,6 +30,7 @@ date,series,value,interpolated
 2026-04-18,INVH,99.83,False
 2026-04-18,MAA,99.52,False
 2026-04-18,UDR,98.26,False
+2026-04-18,VMRK,99.55,False
 2026-04-25,AMH,99.37,False
 2026-04-25,AVB,99.65,False
 2026-04-25,CPT,98.93,False
@@ -35,6 +39,7 @@ date,series,value,interpolated
 2026-04-25,INVH,99.84,False
 2026-04-25,MAA,99.01,False
 2026-04-25,UDR,97.83,False
+2026-04-25,VMRK,99.49,False
 2026-05-02,AMH,99.17,False
 2026-05-02,AVB,99.41,False
 2026-05-02,CPT,98.65,False
@@ -43,6 +48,7 @@ date,series,value,interpolated
 2026-05-02,INVH,100.2,False
 2026-05-02,MAA,98.66,False
 2026-05-02,UDR,97.82,False
+2026-05-02,VMRK,99.22,False
 2026-05-09,AMH,98.97,False
 2026-05-09,AVB,99.28,False
 2026-05-09,CPT,98.44,False
@@ -51,6 +57,7 @@ date,series,value,interpolated
 2026-05-09,INVH,99.44,False
 2026-05-09,MAA,98.45,False
 2026-05-09,UDR,97.68,False
+2026-05-09,VMRK,98.95,False
 2026-05-16,AMH,98.76,False
 2026-05-16,AVB,98.77,False
 2026-05-16,CPT,98.64,False
@@ -59,6 +66,7 @@ date,series,value,interpolated
 2026-05-16,INVH,99.61,False
 2026-05-16,MAA,98.18,False
 2026-05-16,UDR,97.59,False
+2026-05-16,VMRK,98.62,False
 2026-05-23,AMH,98.46,False
 2026-05-23,AVB,98.26,False
 2026-05-23,CPT,98.89,False
@@ -67,6 +75,7 @@ date,series,value,interpolated
 2026-05-23,INVH,100.01,False
 2026-05-23,MAA,97.73,False
 2026-05-23,UDR,97.34,False
+2026-05-23,VMRK,98.28,False
 2026-05-30,AMH,98.33,False
 2026-05-30,AVB,98.02,False
 2026-05-30,CPT,99.29,False
@@ -75,6 +84,7 @@ date,series,value,interpolated
 2026-05-30,INVH,99.85,True
 2026-05-30,MAA,97.46,False
 2026-05-30,UDR,97.24,False
+2026-05-30,VMRK,98.02,False
 2026-06-06,AMH,98.01,False
 2026-06-06,AVB,97.84,False
 2026-06-06,CPT,98.55,False
@@ -83,6 +93,7 @@ date,series,value,interpolated
 2026-06-06,INVH,99.69,False
 2026-06-06,MAA,96.94,False
 2026-06-06,UDR,97.2,False
+2026-06-06,VMRK,97.82,False
 2026-06-13,AMH,97.81,False
 2026-06-13,AVB,97.66,False
 2026-06-13,CPT,98.08,False
@@ -91,6 +102,7 @@ date,series,value,interpolated
 2026-06-13,INVH,99.6,False
 2026-06-13,MAA,96.32,False
 2026-06-13,UDR,96.96,False
+2026-06-13,VMRK,97.48,False
 2026-06-20,AMH,97.516,True
 2026-06-20,AVB,97.42,False
 2026-06-20,CPT,98.21,False
@@ -99,6 +111,7 @@ date,series,value,interpolated
 2026-06-20,INVH,99.214,True
 2026-06-20,MAA,95.79,False
 2026-06-20,UDR,96.73,False
+2026-06-20,VMRK,97.33,False
 2026-06-27,AMH,97.222,True
 2026-06-27,AVB,96.8825,True
 2026-06-27,CPT,98.1575,True
@@ -107,6 +120,7 @@ date,series,value,interpolated
 2026-06-27,INVH,98.828,True
 2026-06-27,MAA,95.4775,True
 2026-06-27,UDR,96.235,True
+2026-06-27,VMRK,96.9275,True
 2026-07-04,AMH,96.928,True
 2026-07-04,AVB,96.345,True
 2026-07-04,CPT,98.105,True
@@ -115,6 +129,7 @@ date,series,value,interpolated
 2026-07-04,INVH,98.442,True
 2026-07-04,MAA,95.165,True
 2026-07-04,UDR,95.74,True
+2026-07-04,VMRK,96.525,True
 2026-07-11,AMH,96.634,True
 2026-07-11,AVB,95.8075,True
 2026-07-11,CPT,98.0525,True
@@ -123,6 +138,7 @@ date,series,value,interpolated
 2026-07-11,INVH,98.056,True
 2026-07-11,MAA,94.8525,True
 2026-07-11,UDR,95.245,True
+2026-07-11,VMRK,96.1225,True
 2026-07-18,AMH,96.34,False
 2026-07-18,AVB,95.27,False
 2026-07-18,CPT,98.0,False
@@ -131,6 +147,7 @@ date,series,value,interpolated
 2026-07-18,INVH,97.67,False
 2026-07-18,MAA,94.54,False
 2026-07-18,UDR,94.75,False
+2026-07-18,VMRK,95.72,False
 2026-07-25,AMH,96.075,True
 2026-07-25,AVB,94.725,True
 2026-07-25,CPT,97.97,True
@@ -139,6 +156,7 @@ date,series,value,interpolated
 2026-07-25,INVH,97.29,True
 2026-07-25,MAA,94.31,True
 2026-07-25,UDR,94.035,True
+2026-07-25,VMRK,95.3,True
 2026-08-01,AMH,95.81,False
 2026-08-01,AVB,94.18,False
 2026-08-01,CPT,97.94,False
@@ -147,6 +165,7 @@ date,series,value,interpolated
 2026-08-01,INVH,96.91,True
 2026-08-01,MAA,94.08,False
 2026-08-01,UDR,93.32,False
+2026-08-01,VMRK,94.88,False
 2026-08-08,AMH,95.43,False
 2026-08-08,AVB,93.75,False
 2026-08-08,CPT,97.28,False
@@ -155,6 +174,7 @@ date,series,value,interpolated
 2026-08-08,INVH,96.53,False
 2026-08-08,MAA,93.65,False
 2026-08-08,UDR,92.6,False
+2026-08-08,VMRK,94.46,False
 2026-08-15,AMH,95.08,False
 2026-08-15,AVB,93.08,False
 2026-08-15,CPT,96.44,False
@@ -163,6 +183,7 @@ date,series,value,interpolated
 2026-08-15,INVH,95.9,False
 2026-08-15,MAA,92.82,False
 2026-08-15,UDR,91.7,False
+2026-08-15,VMRK,93.89,False
 2026-08-22,AMH,94.67,False
 2026-08-22,AVB,92.59,False
 2026-08-22,CPT,96.12,False
@@ -171,6 +192,7 @@ date,series,value,interpolated
 2026-08-22,INVH,95.29,False
 2026-08-22,MAA,92.28,False
 2026-08-22,UDR,91.03,False
+2026-08-22,VMRK,93.37,False
 2026-08-29,AMH,94.05,False
 2026-08-29,AVB,91.92,False
 2026-08-29,CPT,93.94,False
@@ -179,6 +201,7 @@ date,series,value,interpolated
 2026-08-29,INVH,93.86,False
 2026-08-29,MAA,91.67,False
 2026-08-29,UDR,90.47,False
+2026-08-29,VMRK,92.73,False
 2026-09-05,AMH,93.78,False
 2026-09-05,AVB,91.31,False
 2026-09-05,CPT,93.66,False
@@ -187,6 +210,7 @@ date,series,value,interpolated
 2026-09-05,INVH,93.46,False
 2026-09-05,MAA,91.17,False
 2026-09-05,UDR,89.84,False
+2026-09-05,VMRK,92.19,False
 2026-09-12,AMH,93.58,False
 2026-09-12,AVB,90.72,False
 2026-09-12,CPT,93.31,False
@@ -195,6 +219,7 @@ date,series,value,interpolated
 2026-09-12,INVH,92.99,False
 2026-09-12,MAA,90.98,False
 2026-09-12,UDR,89.72,False
+2026-09-12,VMRK,91.73,False
 2026-09-19,AMH,93.08,False
 2026-09-19,AVB,90.35,False
 2026-09-19,CPT,94.01,False
@@ -203,6 +228,7 @@ date,series,value,interpolated
 2026-09-19,INVH,92.01,False
 2026-09-19,MAA,90.53,False
 2026-09-19,UDR,89.33,False
+2026-09-19,VMRK,91.28,False
 2026-09-26,AMH,92.95,False
 2026-09-26,AVB,90.09,False
 2026-09-26,CPT,93.75,False
@@ -211,6 +237,7 @@ date,series,value,interpolated
 2026-09-26,INVH,90.84,False
 2026-09-26,MAA,90.08,False
 2026-09-26,UDR,89.24,False
+2026-09-26,VMRK,90.74,False
 2026-10-03,AMH,92.85,False
 2026-10-03,AVB,89.69,False
 2026-10-03,CPT,93.14,False
@@ -219,6 +246,7 @@ date,series,value,interpolated
 2026-10-03,INVH,90.16,False
 2026-10-03,MAA,89.73,False
 2026-10-03,UDR,88.86,False
+2026-10-03,VMRK,90.31,False
 2026-10-10,AMH,92.75,False
 2026-10-10,AVB,89.3,False
 2026-10-10,CPT,92.54,False
@@ -227,3 +255,4 @@ date,series,value,interpolated
 2026-10-10,INVH,89.48,False
 2026-10-10,MAA,89.38,False
 2026-10-10,UDR,88.49,False
+2026-10-10,VMRK,89.88,False
