@@ -1,5 +1,29 @@
 # Derived analysis series
 
+> **Method change, 2026-10-19 — headline rent indices restated.**
+> The `index_same_property_*`, `markets_*` and `market_comparison_*` series
+> are now a **constant-mix rent index**: rents compared within the same
+> building and bedroom count (same ZIP and bedroom count for single-family),
+> all weeks estimated jointly. Full detail and the per-series index with
+> sample sizes: `data/summary/rent_index_history.csv`.
+>
+> The previous method chained week-over-week changes on units listed in both
+> weeks. With listings data that pool is the units that have *not* leased,
+> which get marked down while cheaper units lease and leave; the chain
+> recorded every cut and never the turnover, so it overstated rent declines by
+> roughly 1.5-2 pts a month for every REIT (Apr-Oct 2026: index -4% to -11%
+> while rents in the same buildings were roughly flat). **Figures taken from
+> these files before 2026-10-19 overstate declines and should not be used.**
+>
+> Also corrected: INVH series start 2026-08-01 (before that its scraper
+> recorded a neighbouring home's price; recovered history to follow);
+> Richmond VA (MAA, UDR) and ESS Bay Area properties no longer mis-mapped
+> (ESS had a spurious Denver series); market series with a typical week under
+> 30 listings are no longer published. The `same_prop_*` week-over-week
+> series in `summary_history.csv` are retained as a measure of price-cut
+> activity on listed units, not of rent levels.
+
+
 CSV exports of the computed series behind the analysis workbook. Regenerated
 by `build_excel.py` on every weekly run and committed by `weekly_run.py`
 (STEP 7), so the repo carries the numbers behind the charts, not just the raw
