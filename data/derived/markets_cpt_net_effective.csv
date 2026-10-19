@@ -17,7 +17,7 @@ date,series,value,interpolated
 2026-04-04,Dallas/Fort Worth,100.21,False
 2026-04-04,Atlanta,99.99,False
 2026-04-04,Raleigh/Durham,99.69,False
-2026-04-04,Phoenix,100.17,False
+2026-04-04,Phoenix,100.33,False
 2026-04-04,Orlando,100.25,False
 2026-04-04,Austin,100.63,False
 2026-04-04,Denver,101.57,False
@@ -30,7 +30,7 @@ date,series,value,interpolated
 2026-04-11,Dallas/Fort Worth,101.32,False
 2026-04-11,Atlanta,99.64,False
 2026-04-11,Raleigh/Durham,99.88,False
-2026-04-11,Phoenix,100.5,False
+2026-04-11,Phoenix,100.68,False
 2026-04-11,Orlando,101.76,False
 2026-04-11,Austin,98.64,False
 2026-04-11,Denver,103.2,False
@@ -43,7 +43,7 @@ date,series,value,interpolated
 2026-04-18,Dallas/Fort Worth,101.49,False
 2026-04-18,Atlanta,99.9,False
 2026-04-18,Raleigh/Durham,101.02,False
-2026-04-18,Phoenix,100.75,False
+2026-04-18,Phoenix,100.95,False
 2026-04-18,Orlando,102.64,False
 2026-04-18,Austin,99.62,False
 2026-04-18,Denver,103.05,False
@@ -56,7 +56,7 @@ date,series,value,interpolated
 2026-04-25,Dallas/Fort Worth,101.4,False
 2026-04-25,Atlanta,100.66,False
 2026-04-25,Raleigh/Durham,101.71,False
-2026-04-25,Phoenix,100.64,False
+2026-04-25,Phoenix,100.73,False
 2026-04-25,Orlando,101.62,False
 2026-04-25,Austin,100.97,False
 2026-04-25,Denver,102.29,False
@@ -69,7 +69,7 @@ date,series,value,interpolated
 2026-05-02,Dallas/Fort Worth,101.95,False
 2026-05-02,Atlanta,99.6,False
 2026-05-02,Raleigh/Durham,101.41,False
-2026-05-02,Phoenix,100.78,False
+2026-05-02,Phoenix,100.93,False
 2026-05-02,Orlando,101.62,False
 2026-05-02,Austin,101.0,False
 2026-05-02,Denver,102.8,False
@@ -82,7 +82,7 @@ date,series,value,interpolated
 2026-05-09,Dallas/Fort Worth,101.42,False
 2026-05-09,Atlanta,99.13,False
 2026-05-09,Raleigh/Durham,101.8,False
-2026-05-09,Phoenix,100.74,False
+2026-05-09,Phoenix,100.86,False
 2026-05-09,Orlando,101.53,False
 2026-05-09,Austin,102.03,False
 2026-05-09,Denver,104.48,False
@@ -95,7 +95,7 @@ date,series,value,interpolated
 2026-05-16,Dallas/Fort Worth,101.73,False
 2026-05-16,Atlanta,99.58,False
 2026-05-16,Raleigh/Durham,102.59,False
-2026-05-16,Phoenix,101.05,False
+2026-05-16,Phoenix,101.19,False
 2026-05-16,Orlando,99.52,False
 2026-05-16,Austin,103.54,False
 2026-05-16,Denver,106.35,False
@@ -108,7 +108,7 @@ date,series,value,interpolated
 2026-05-23,Dallas/Fort Worth,102.75,False
 2026-05-23,Atlanta,100.11,False
 2026-05-23,Raleigh/Durham,102.97,False
-2026-05-23,Phoenix,101.5,False
+2026-05-23,Phoenix,101.71,False
 2026-05-23,Orlando,100.24,False
 2026-05-23,Austin,102.93,False
 2026-05-23,Denver,107.11,False
@@ -121,7 +121,7 @@ date,series,value,interpolated
 2026-05-30,Dallas/Fort Worth,103.97,False
 2026-05-30,Atlanta,101.63,False
 2026-05-30,Raleigh/Durham,103.22,False
-2026-05-30,Phoenix,102.24,False
+2026-05-30,Phoenix,102.47,False
 2026-05-30,Orlando,100.06,False
 2026-05-30,Austin,104.27,False
 2026-05-30,Denver,106.78,False
@@ -134,7 +134,7 @@ date,series,value,interpolated
 2026-06-06,Dallas/Fort Worth,103.02,False
 2026-06-06,Atlanta,100.55,False
 2026-06-06,Raleigh/Durham,102.17,False
-2026-06-06,Phoenix,101.13,False
+2026-06-06,Phoenix,101.27,False
 2026-06-06,Orlando,100.03,False
 2026-06-06,Austin,103.83,False
 2026-06-06,Denver,107.92,False
@@ -147,7 +147,7 @@ date,series,value,interpolated
 2026-06-13,Dallas/Fort Worth,102.61,False
 2026-06-13,Atlanta,100.91,False
 2026-06-13,Raleigh/Durham,102.55,False
-2026-06-13,Phoenix,100.18,False
+2026-06-13,Phoenix,100.48,False
 2026-06-13,Orlando,100.26,False
 2026-06-13,Austin,103.57,False
 2026-06-13,Denver,106.92,False
@@ -160,7 +160,7 @@ date,series,value,interpolated
 2026-06-20,Dallas/Fort Worth,104.37,False
 2026-06-20,Atlanta,102.6,False
 2026-06-20,Raleigh/Durham,102.71,False
-2026-06-20,Phoenix,99.93,False
+2026-06-20,Phoenix,100.28,False
 2026-06-20,Orlando,100.52,False
 2026-06-20,Austin,104.49,False
 2026-06-20,Denver,105.56,False
@@ -173,7 +173,7 @@ date,series,value,interpolated
 2026-06-27,Dallas/Fort Worth,104.445,True
 2026-06-27,Atlanta,102.825,True
 2026-06-27,Raleigh/Durham,103.2525,True
-2026-06-27,Phoenix,100.5525,True
+2026-06-27,Phoenix,100.93,True
 2026-06-27,Orlando,101.1,True
 2026-06-27,Austin,105.285,True
 2026-06-27,Denver,105.5475,True
@@ -186,7 +186,7 @@ date,series,value,interpolated
 2026-07-04,Dallas/Fort Worth,104.52,True
 2026-07-04,Atlanta,103.05,True
 2026-07-04,Raleigh/Durham,103.795,True
-2026-07-04,Phoenix,101.175,True
+2026-07-04,Phoenix,101.58,True
 2026-07-04,Orlando,101.68,True
 2026-07-04,Austin,106.08,True
 2026-07-04,Denver,105.535,True
@@ -199,7 +199,7 @@ date,series,value,interpolated
 2026-07-11,Dallas/Fort Worth,104.595,True
 2026-07-11,Atlanta,103.275,True
 2026-07-11,Raleigh/Durham,104.3375,True
-2026-07-11,Phoenix,101.7975,True
+2026-07-11,Phoenix,102.23,True
 2026-07-11,Orlando,102.26,True
 2026-07-11,Austin,106.875,True
 2026-07-11,Denver,105.5225,True
@@ -212,7 +212,7 @@ date,series,value,interpolated
 2026-07-18,Dallas/Fort Worth,104.67,False
 2026-07-18,Atlanta,103.5,False
 2026-07-18,Raleigh/Durham,104.88,False
-2026-07-18,Phoenix,102.42,False
+2026-07-18,Phoenix,102.88,False
 2026-07-18,Orlando,102.84,False
 2026-07-18,Austin,107.67,False
 2026-07-18,Denver,105.51,False
@@ -225,7 +225,7 @@ date,series,value,interpolated
 2026-07-25,Dallas/Fort Worth,104.615,True
 2026-07-25,Atlanta,103.93,True
 2026-07-25,Raleigh/Durham,104.325,True
-2026-07-25,Phoenix,101.745,True
+2026-07-25,Phoenix,102.085,True
 2026-07-25,Orlando,102.61,True
 2026-07-25,Austin,107.945,True
 2026-07-25,Denver,104.77,True
@@ -238,7 +238,7 @@ date,series,value,interpolated
 2026-08-01,Dallas/Fort Worth,104.56,False
 2026-08-01,Atlanta,104.36,False
 2026-08-01,Raleigh/Durham,103.77,False
-2026-08-01,Phoenix,101.07,False
+2026-08-01,Phoenix,101.29,False
 2026-08-01,Orlando,102.38,False
 2026-08-01,Austin,108.22,False
 2026-08-01,Denver,104.03,False
@@ -251,7 +251,7 @@ date,series,value,interpolated
 2026-08-08,Dallas/Fort Worth,103.98,False
 2026-08-08,Atlanta,104.44,False
 2026-08-08,Raleigh/Durham,103.16,False
-2026-08-08,Phoenix,100.03,False
+2026-08-08,Phoenix,100.25,False
 2026-08-08,Orlando,101.78,False
 2026-08-08,Austin,107.39,False
 2026-08-08,Denver,103.59,False
@@ -264,7 +264,7 @@ date,series,value,interpolated
 2026-08-15,Dallas/Fort Worth,103.09,False
 2026-08-15,Atlanta,103.89,False
 2026-08-15,Raleigh/Durham,102.48,False
-2026-08-15,Phoenix,99.48,False
+2026-08-15,Phoenix,99.7,False
 2026-08-15,Orlando,100.38,False
 2026-08-15,Austin,106.85,False
 2026-08-15,Denver,103.02,False
@@ -277,7 +277,7 @@ date,series,value,interpolated
 2026-08-22,Dallas/Fort Worth,103.68,False
 2026-08-22,Atlanta,103.66,False
 2026-08-22,Raleigh/Durham,102.27,False
-2026-08-22,Phoenix,99.11,False
+2026-08-22,Phoenix,99.34,False
 2026-08-22,Orlando,100.06,False
 2026-08-22,Austin,107.45,False
 2026-08-22,Denver,102.4,False
@@ -290,7 +290,7 @@ date,series,value,interpolated
 2026-08-29,Dallas/Fort Worth,101.89,False
 2026-08-29,Atlanta,101.56,False
 2026-08-29,Raleigh/Durham,99.76,False
-2026-08-29,Phoenix,98.21,False
+2026-08-29,Phoenix,98.44,False
 2026-08-29,Orlando,98.0,False
 2026-08-29,Austin,102.77,False
 2026-08-29,Denver,100.31,False
@@ -303,7 +303,7 @@ date,series,value,interpolated
 2026-09-05,Dallas/Fort Worth,101.84,False
 2026-09-05,Atlanta,100.93,False
 2026-09-05,Raleigh/Durham,99.08,False
-2026-09-05,Phoenix,98.57,False
+2026-09-05,Phoenix,98.8,False
 2026-09-05,Orlando,98.51,False
 2026-09-05,Austin,103.12,False
 2026-09-05,Denver,101.1,False
@@ -316,7 +316,7 @@ date,series,value,interpolated
 2026-09-12,Dallas/Fort Worth,102.02,False
 2026-09-12,Atlanta,100.47,False
 2026-09-12,Raleigh/Durham,99.02,False
-2026-09-12,Phoenix,98.05,False
+2026-09-12,Phoenix,98.27,False
 2026-09-12,Orlando,98.01,False
 2026-09-12,Austin,102.77,False
 2026-09-12,Denver,100.39,False
@@ -329,7 +329,7 @@ date,series,value,interpolated
 2026-09-19,Dallas/Fort Worth,103.04,False
 2026-09-19,Atlanta,101.56,False
 2026-09-19,Raleigh/Durham,99.89,False
-2026-09-19,Phoenix,99.71,False
+2026-09-19,Phoenix,99.93,False
 2026-09-19,Orlando,99.94,False
 2026-09-19,Austin,103.89,False
 2026-09-19,Denver,103.96,False
@@ -342,7 +342,7 @@ date,series,value,interpolated
 2026-09-26,Dallas/Fort Worth,104.08,False
 2026-09-26,Atlanta,102.53,False
 2026-09-26,Raleigh/Durham,98.8,False
-2026-09-26,Phoenix,100.58,False
+2026-09-26,Phoenix,100.81,False
 2026-09-26,Orlando,101.57,False
 2026-09-26,Austin,103.03,False
 2026-09-26,Denver,102.63,False
@@ -355,7 +355,7 @@ date,series,value,interpolated
 2026-10-03,Dallas/Fort Worth,103.3,True
 2026-10-03,Atlanta,101.665,True
 2026-10-03,Raleigh/Durham,98.55,True
-2026-10-03,Phoenix,101.015,True
+2026-10-03,Phoenix,101.24,True
 2026-10-03,Orlando,101.105,True
 2026-10-03,Austin,102.335,True
 2026-10-03,Denver,99.64,True
@@ -368,7 +368,7 @@ date,series,value,interpolated
 2026-10-10,Dallas/Fort Worth,102.52,False
 2026-10-10,Atlanta,100.8,False
 2026-10-10,Raleigh/Durham,98.3,False
-2026-10-10,Phoenix,101.45,False
+2026-10-10,Phoenix,101.67,False
 2026-10-10,Orlando,100.64,False
 2026-10-10,Austin,101.64,False
 2026-10-10,Denver,96.65,False
@@ -381,7 +381,7 @@ date,series,value,interpolated
 2026-10-17,Dallas/Fort Worth,101.81,False
 2026-10-17,Atlanta,100.01,False
 2026-10-17,Raleigh/Durham,96.3,False
-2026-10-17,Phoenix,100.77,False
+2026-10-17,Phoenix,101.0,False
 2026-10-17,Orlando,100.22,False
 2026-10-17,Austin,101.31,False
 2026-10-17,Denver,95.49,False
