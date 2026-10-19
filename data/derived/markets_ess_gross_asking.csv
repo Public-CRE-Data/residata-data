@@ -5,175 +5,175 @@ date,series,value,interpolated
 2026-03-28,San Jose,100.0,False
 2026-03-28,San Diego,100.0,False
 2026-03-28,Orange County,100.0,False
-2026-04-04,Seattle,100.46,False
-2026-04-04,Los Angeles,99.56,False
+2026-04-04,Seattle,100.45,False
+2026-04-04,Los Angeles,99.53,False
 2026-04-04,San Francisco-East Bay,99.89,False
 2026-04-04,San Jose,99.44,False
 2026-04-04,San Diego,99.85,False
 2026-04-04,Orange County,100.4,False
-2026-04-11,Seattle,101.44,False
-2026-04-11,Los Angeles,99.02,False
+2026-04-11,Seattle,101.45,False
+2026-04-11,Los Angeles,98.99,False
 2026-04-11,San Francisco-East Bay,101.08,False
 2026-04-11,San Jose,100.88,False
 2026-04-11,San Diego,100.27,False
 2026-04-11,Orange County,101.69,False
-2026-04-18,Seattle,101.58,False
-2026-04-18,Los Angeles,98.44,False
+2026-04-18,Seattle,101.59,False
+2026-04-18,Los Angeles,98.45,False
 2026-04-18,San Francisco-East Bay,101.45,False
 2026-04-18,San Jose,102.25,False
 2026-04-18,San Diego,100.7,False
 2026-04-18,Orange County,101.89,False
-2026-04-25,Seattle,100.91,False
-2026-04-25,Los Angeles,98.73,False
+2026-04-25,Seattle,100.92,False
+2026-04-25,Los Angeles,98.86,False
 2026-04-25,San Francisco-East Bay,102.41,False
 2026-04-25,San Jose,101.84,False
 2026-04-25,San Diego,100.8,False
 2026-04-25,Orange County,101.67,False
-2026-05-02,Seattle,101.12,False
-2026-05-02,Los Angeles,98.82,False
+2026-05-02,Seattle,101.13,False
+2026-05-02,Los Angeles,98.94,False
 2026-05-02,San Francisco-East Bay,102.48,False
 2026-05-02,San Jose,102.43,False
 2026-05-02,San Diego,100.99,False
 2026-05-02,Orange County,101.83,False
-2026-05-09,Seattle,101.72,False
-2026-05-09,Los Angeles,99.21,False
+2026-05-09,Seattle,101.74,False
+2026-05-09,Los Angeles,99.37,False
 2026-05-09,San Francisco-East Bay,103.82,False
 2026-05-09,San Jose,103.27,False
 2026-05-09,San Diego,102.73,False
 2026-05-09,Orange County,101.34,False
-2026-05-16,Seattle,102.17,False
-2026-05-16,Los Angeles,99.48,False
+2026-05-16,Seattle,102.18,False
+2026-05-16,Los Angeles,99.58,False
 2026-05-16,San Francisco-East Bay,104.7,False
 2026-05-16,San Jose,104.8,False
 2026-05-16,San Diego,102.14,False
 2026-05-16,Orange County,101.27,False
-2026-05-23,Seattle,102.86,False
-2026-05-23,Los Angeles,99.39,False
+2026-05-23,Seattle,102.87,False
+2026-05-23,Los Angeles,99.38,False
 2026-05-23,San Francisco-East Bay,104.71,False
 2026-05-23,San Jose,105.92,False
 2026-05-23,San Diego,101.47,False
 2026-05-23,Orange County,101.56,False
-2026-05-30,Seattle,103.09,False
-2026-05-30,Los Angeles,99.13,False
+2026-05-30,Seattle,103.08,False
+2026-05-30,Los Angeles,99.14,False
 2026-05-30,San Francisco-East Bay,105.08,False
 2026-05-30,San Jose,106.9,False
 2026-05-30,San Diego,101.46,False
 2026-05-30,Orange County,101.13,False
-2026-06-06,Seattle,102.76,False
-2026-06-06,Los Angeles,99.38,False
+2026-06-06,Seattle,102.84,False
+2026-06-06,Los Angeles,99.37,False
 2026-06-06,San Francisco-East Bay,105.9,False
 2026-06-06,San Jose,108.63,False
 2026-06-06,San Diego,101.73,False
 2026-06-06,Orange County,101.76,False
-2026-06-13,Seattle,101.8,False
+2026-06-13,Seattle,101.88,False
 2026-06-13,Los Angeles,98.85,False
 2026-06-13,San Francisco-East Bay,105.18,False
 2026-06-13,San Jose,108.57,False
 2026-06-13,San Diego,101.98,False
 2026-06-13,Orange County,102.13,False
-2026-06-20,Seattle,102.33,False
+2026-06-20,Seattle,102.39,False
 2026-06-20,Los Angeles,99.0,False
 2026-06-20,San Francisco-East Bay,106.46,False
 2026-06-20,San Jose,109.38,False
 2026-06-20,San Diego,100.91,False
 2026-06-20,Orange County,102.14,False
-2026-06-27,Seattle,102.43,True
-2026-06-27,Los Angeles,98.7675,True
+2026-06-27,Seattle,102.49,True
+2026-06-27,Los Angeles,98.7625,True
 2026-06-27,San Francisco-East Bay,106.6775,True
 2026-06-27,San Jose,109.42,True
 2026-06-27,San Diego,100.955,True
 2026-06-27,Orange County,101.7625,True
-2026-07-04,Seattle,102.53,True
-2026-07-04,Los Angeles,98.535,True
+2026-07-04,Seattle,102.59,True
+2026-07-04,Los Angeles,98.525,True
 2026-07-04,San Francisco-East Bay,106.895,True
 2026-07-04,San Jose,109.46,True
 2026-07-04,San Diego,101.0,True
 2026-07-04,Orange County,101.385,True
-2026-07-11,Seattle,102.63,True
-2026-07-11,Los Angeles,98.3025,True
+2026-07-11,Seattle,102.69,True
+2026-07-11,Los Angeles,98.2875,True
 2026-07-11,San Francisco-East Bay,107.1125,True
 2026-07-11,San Jose,109.5,True
 2026-07-11,San Diego,101.045,True
 2026-07-11,Orange County,101.0075,True
-2026-07-18,Seattle,102.73,False
-2026-07-18,Los Angeles,98.07,False
+2026-07-18,Seattle,102.79,False
+2026-07-18,Los Angeles,98.05,False
 2026-07-18,San Francisco-East Bay,107.33,False
 2026-07-18,San Jose,109.54,False
 2026-07-18,San Diego,101.09,False
 2026-07-18,Orange County,100.63,False
-2026-07-25,Seattle,102.07,True
-2026-07-25,Los Angeles,98.355,True
+2026-07-25,Seattle,102.115,True
+2026-07-25,Los Angeles,98.34,True
 2026-07-25,San Francisco-East Bay,107.73,True
 2026-07-25,San Jose,110.45,True
 2026-07-25,San Diego,101.76,True
 2026-07-25,Orange County,101.305,True
-2026-08-01,Seattle,101.41,False
-2026-08-01,Los Angeles,98.64,False
+2026-08-01,Seattle,101.44,False
+2026-08-01,Los Angeles,98.63,False
 2026-08-01,San Francisco-East Bay,108.13,False
 2026-08-01,San Jose,111.36,False
 2026-08-01,San Diego,102.43,False
 2026-08-01,Orange County,101.98,False
-2026-08-08,Seattle,101.09,False
-2026-08-08,Los Angeles,98.59,False
+2026-08-08,Seattle,101.15,False
+2026-08-08,Los Angeles,98.58,False
 2026-08-08,San Francisco-East Bay,108.25,False
 2026-08-08,San Jose,111.72,False
 2026-08-08,San Diego,101.89,False
 2026-08-08,Orange County,101.91,False
-2026-08-15,Seattle,101.28,False
-2026-08-15,Los Angeles,98.89,False
+2026-08-15,Seattle,101.35,False
+2026-08-15,Los Angeles,98.9,False
 2026-08-15,San Francisco-East Bay,108.92,False
 2026-08-15,San Jose,110.53,False
 2026-08-15,San Diego,101.18,False
 2026-08-15,Orange County,101.94,False
-2026-08-22,Seattle,100.45,False
-2026-08-22,Los Angeles,98.88,False
+2026-08-22,Seattle,100.52,False
+2026-08-22,Los Angeles,98.87,False
 2026-08-22,San Francisco-East Bay,108.39,False
 2026-08-22,San Jose,110.94,False
 2026-08-22,San Diego,100.68,False
 2026-08-22,Orange County,102.35,False
-2026-08-29,Seattle,99.63,False
+2026-08-29,Seattle,99.67,False
 2026-08-29,Los Angeles,99.19,False
 2026-08-29,San Francisco-East Bay,108.75,False
 2026-08-29,San Jose,109.28,False
 2026-08-29,San Diego,101.37,False
 2026-08-29,Orange County,103.08,False
-2026-09-05,Seattle,98.57,False
+2026-09-05,Seattle,98.6,False
 2026-09-05,Los Angeles,98.29,False
 2026-09-05,San Francisco-East Bay,107.51,False
 2026-09-05,San Jose,108.62,False
 2026-09-05,San Diego,101.13,False
 2026-09-05,Orange County,104.12,False
-2026-09-12,Seattle,98.49,False
-2026-09-12,Los Angeles,98.28,False
+2026-09-12,Seattle,98.54,False
+2026-09-12,Los Angeles,98.3,False
 2026-09-12,San Francisco-East Bay,107.23,False
 2026-09-12,San Jose,108.64,False
 2026-09-12,San Diego,100.67,False
 2026-09-12,Orange County,103.86,False
-2026-09-19,Seattle,97.29,False
-2026-09-19,Los Angeles,98.53,False
+2026-09-19,Seattle,97.34,False
+2026-09-19,Los Angeles,98.55,False
 2026-09-19,San Francisco-East Bay,107.13,False
 2026-09-19,San Jose,108.76,False
 2026-09-19,San Diego,101.58,False
 2026-09-19,Orange County,103.33,False
-2026-09-26,Seattle,98.65,False
-2026-09-26,Los Angeles,98.08,False
+2026-09-26,Seattle,98.7,False
+2026-09-26,Los Angeles,98.09,False
 2026-09-26,San Francisco-East Bay,107.8,False
 2026-09-26,San Jose,107.67,False
 2026-09-26,San Diego,101.64,False
 2026-09-26,Orange County,102.9,False
-2026-10-03,Seattle,97.905,True
-2026-10-03,Los Angeles,98.0,True
+2026-10-03,Seattle,97.945,True
+2026-10-03,Los Angeles,98.005,True
 2026-10-03,San Francisco-East Bay,106.83,True
 2026-10-03,San Jose,107.63,True
 2026-10-03,San Diego,101.755,True
 2026-10-03,Orange County,102.895,True
-2026-10-10,Seattle,97.16,False
+2026-10-10,Seattle,97.19,False
 2026-10-10,Los Angeles,97.92,False
 2026-10-10,San Francisco-East Bay,105.86,False
 2026-10-10,San Jose,107.59,False
 2026-10-10,San Diego,101.87,False
 2026-10-10,Orange County,102.89,False
-2026-10-17,Seattle,97.02,False
+2026-10-17,Seattle,97.05,False
 2026-10-17,Los Angeles,97.5,False
 2026-10-17,San Francisco-East Bay,106.39,False
 2026-10-17,San Jose,107.19,False

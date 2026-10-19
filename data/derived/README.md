@@ -27,6 +27,24 @@
 > of net effective rent rather than counted as no concession. The `same_prop_*` week-over-week
 > series in `summary_history.csv` are retained as a measure of price-cut
 > activity on listed units, not of rent levels.
+>
+> **New series, 2026-10-19 — new-lease rent index.** `new_lease_ner_4wk_index_by_reit`
+> and `new_lease_rent_4wk_index_by_reit` (4-week averages, 2026-08-01 = 100,
+> history from 2026-03); weekly detail by REIT and market, with lease counts,
+> in `data/summary/new_lease_index_history.csv`. Where the listings index above
+> measures rents on everything advertised, this measures rents on units **as
+> they lease**: a unit listed one week and gone the next is a lease, counted
+> once at its last advertised rent, compared within the same building and
+> bedroom count (ZIP and bedroom count for single-family). Communities
+> completed or acquired since 2024-10 that are also listing an abnormal number
+> of units (lease-ups) are excluded. Weeks spanning missed scrapes are bridged,
+> with the stale last price adjusted for the typical final-weeks markdown
+> (tested by deleting real weeks: within ~0.2-0.5 pt for a two-week gap). Each
+> week appears once the following scrape has run. It tracks the trend in
+> new-lease rents, not lease-over-lease growth (possible from 2027-03); a
+> withdrawn unit is indistinguishable from a leased one; ESS lists floor plans,
+> not units, so its series is the thinnest. Renamed communities (e.g. ESS
+> TENTEN Downtown -> Skylux on Wilshire) are now merged in all series.
 
 
 CSV exports of the computed series behind the analysis workbook. Regenerated
@@ -67,6 +85,7 @@ a gap is omitted rather than guessed.
   levels ($) by REIT
 - `index_*` — chain-linked same-property indices (base 100)
 - `charts_concession_rate` — share of listings carrying a concession, by REIT
+- `new_lease_<ner|rent>_4wk_index_by_reit` — new-lease rent index, 4-week average (see top)
 - `markets_<reit>_*` — per-REIT index by macro market
 - `market_comparison_<market>_*` — cross-REIT index within one market
 
