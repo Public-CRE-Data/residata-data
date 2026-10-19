@@ -19,10 +19,12 @@
 > recorded a neighbouring home's price; recovered history to follow);
 > Richmond VA (MAA, UDR) and ESS Bay Area properties no longer mis-mapped
 > (ESS had a spurious Denver series); market series with a typical week under
-> 30 listings are no longer published. Concession offers with no stated
-> value (e.g. MAA's "up to one month free", a quarter of MAA listings by
-> Oct 2026) are left out of net effective rent rather than counted as no
-> concession; they still count toward concession rates. The `same_prop_*` week-over-week
+> 30 listings are no longer published. "Up to" concession offers (e.g. MAA's
+> "up to one month of free base rent", a quarter of MAA listings by Oct 2026)
+> are valued at their stated maximum, as "up to $X" offers already were; a
+> click-through quote at MAA Addison Circle granted the full advertised amount.
+> Offers with no stated amount at all ("check out our specials") are left out
+> of net effective rent rather than counted as no concession. The `same_prop_*` week-over-week
 > series in `summary_history.csv` are retained as a measure of price-cut
 > activity on listed units, not of rent levels.
 

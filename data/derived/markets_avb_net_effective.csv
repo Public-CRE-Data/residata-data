@@ -56,7 +56,7 @@ date,series,value,interpolated
 2026-04-18,"Washington, DC",102.14,False
 2026-04-18,Baltimore,100.71,False
 2026-04-18,Denver,99.33,False
-2026-04-18,Charlotte,99.02,False
+2026-04-18,Charlotte,99.03,False
 2026-04-18,Seattle,99.81,False
 2026-04-18,San Francisco-East Bay,100.55,False
 2026-04-18,Austin,110.67,False
@@ -226,7 +226,7 @@ date,series,value,interpolated
 2026-06-27,"Washington, DC",99.79,True
 2026-06-27,Baltimore,101.335,True
 2026-06-27,Denver,102.4325,True
-2026-06-27,Charlotte,104.0375,True
+2026-06-27,Charlotte,104.065,True
 2026-06-27,Seattle,99.415,True
 2026-06-27,San Francisco-East Bay,99.8,True
 2026-06-27,Austin,110.9825,True
@@ -243,7 +243,7 @@ date,series,value,interpolated
 2026-07-04,"Washington, DC",99.18,True
 2026-07-04,Baltimore,100.66,True
 2026-07-04,Denver,101.845,True
-2026-07-04,Charlotte,103.545,True
+2026-07-04,Charlotte,103.6,True
 2026-07-04,Seattle,98.26,True
 2026-07-04,San Francisco-East Bay,99.58,True
 2026-07-04,Austin,110.415,True
@@ -260,7 +260,7 @@ date,series,value,interpolated
 2026-07-11,"Washington, DC",98.57,True
 2026-07-11,Baltimore,99.985,True
 2026-07-11,Denver,101.2575,True
-2026-07-11,Charlotte,103.0525,True
+2026-07-11,Charlotte,103.135,True
 2026-07-11,Seattle,97.105,True
 2026-07-11,San Francisco-East Bay,99.36,True
 2026-07-11,Austin,109.8475,True
@@ -277,7 +277,7 @@ date,series,value,interpolated
 2026-07-18,"Washington, DC",97.96,False
 2026-07-18,Baltimore,99.31,False
 2026-07-18,Denver,100.67,False
-2026-07-18,Charlotte,102.56,False
+2026-07-18,Charlotte,102.67,False
 2026-07-18,Seattle,95.95,False
 2026-07-18,San Francisco-East Bay,99.14,False
 2026-07-18,Austin,109.28,False
@@ -294,7 +294,7 @@ date,series,value,interpolated
 2026-07-25,"Washington, DC",97.72,True
 2026-07-25,Baltimore,100.15,True
 2026-07-25,Denver,100.675,True
-2026-07-25,Charlotte,101.735,True
+2026-07-25,Charlotte,101.79,True
 2026-07-25,Seattle,96.87,True
 2026-07-25,San Francisco-East Bay,99.115,True
 2026-07-25,Austin,110.655,True

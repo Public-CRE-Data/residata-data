@@ -16,10 +16,10 @@ date,series,value,interpolated
 2026-04-04,Seattle,100.82,False
 2026-04-04,San Francisco,100.09,False
 2026-04-04,Atlanta,100.0,False
-2026-04-04,Boston,100.17,False
+2026-04-04,Boston,100.19,False
 2026-04-04,Dallas/Fort Worth,102.3,False
 2026-04-04,New York,100.56,False
-2026-04-04,Denver,100.5,False
+2026-04-04,Denver,100.39,False
 2026-04-04,Orange County,99.25,False
 2026-04-04,San Diego,99.92,False
 2026-04-04,Inland Empire,100.88,False
@@ -32,7 +32,7 @@ date,series,value,interpolated
 2026-04-11,Boston,102.81,False
 2026-04-11,Dallas/Fort Worth,102.85,False
 2026-04-11,New York,100.53,False
-2026-04-11,Denver,100.26,False
+2026-04-11,Denver,99.89,False
 2026-04-11,Orange County,99.29,False
 2026-04-11,San Diego,100.85,False
 2026-04-11,Inland Empire,98.83,False
@@ -42,10 +42,10 @@ date,series,value,interpolated
 2026-04-18,Seattle,102.44,False
 2026-04-18,San Francisco,102.14,False
 2026-04-18,Atlanta,99.88,False
-2026-04-18,Boston,103.83,False
+2026-04-18,Boston,103.86,False
 2026-04-18,Dallas/Fort Worth,103.72,False
 2026-04-18,New York,101.32,False
-2026-04-18,Denver,97.11,False
+2026-04-18,Denver,97.72,False
 2026-04-18,Orange County,99.07,False
 2026-04-18,San Diego,101.19,False
 2026-04-18,Inland Empire,99.33,False
@@ -55,10 +55,10 @@ date,series,value,interpolated
 2026-04-25,Seattle,103.21,False
 2026-04-25,San Francisco,102.34,False
 2026-04-25,Atlanta,99.72,False
-2026-04-25,Boston,104.51,False
+2026-04-25,Boston,104.54,False
 2026-04-25,Dallas/Fort Worth,101.85,False
 2026-04-25,New York,101.08,False
-2026-04-25,Denver,96.95,False
+2026-04-25,Denver,97.58,False
 2026-04-25,Orange County,98.63,False
 2026-04-25,San Diego,101.81,False
 2026-04-25,Inland Empire,102.02,False
@@ -68,10 +68,10 @@ date,series,value,interpolated
 2026-05-02,Seattle,103.76,False
 2026-05-02,San Francisco,102.62,False
 2026-05-02,Atlanta,98.18,False
-2026-05-02,Boston,105.32,False
+2026-05-02,Boston,105.35,False
 2026-05-02,Dallas/Fort Worth,101.88,False
 2026-05-02,New York,101.06,False
-2026-05-02,Denver,94.16,False
+2026-05-02,Denver,94.78,False
 2026-05-02,Orange County,99.11,False
 2026-05-02,San Diego,101.75,False
 2026-05-02,Inland Empire,102.25,False
@@ -81,10 +81,10 @@ date,series,value,interpolated
 2026-05-09,Seattle,102.73,False
 2026-05-09,San Francisco,103.08,False
 2026-05-09,Atlanta,97.31,False
-2026-05-09,Boston,105.01,False
+2026-05-09,Boston,105.05,False
 2026-05-09,Dallas/Fort Worth,99.68,False
 2026-05-09,New York,101.25,False
-2026-05-09,Denver,93.53,False
+2026-05-09,Denver,94.14,False
 2026-05-09,Orange County,99.61,False
 2026-05-09,San Diego,101.66,False
 2026-05-09,Inland Empire,102.52,False
@@ -94,10 +94,10 @@ date,series,value,interpolated
 2026-05-16,Seattle,102.37,False
 2026-05-16,San Francisco,103.71,False
 2026-05-16,Atlanta,97.65,False
-2026-05-16,Boston,104.55,False
+2026-05-16,Boston,104.61,False
 2026-05-16,Dallas/Fort Worth,100.56,False
 2026-05-16,New York,101.43,False
-2026-05-16,Denver,94.9,False
+2026-05-16,Denver,95.53,False
 2026-05-16,Orange County,101.14,False
 2026-05-16,San Diego,101.83,False
 2026-05-16,Inland Empire,102.84,False
@@ -107,10 +107,10 @@ date,series,value,interpolated
 2026-05-23,Seattle,102.32,False
 2026-05-23,San Francisco,103.51,False
 2026-05-23,Atlanta,97.81,False
-2026-05-23,Boston,106.08,False
+2026-05-23,Boston,106.09,False
 2026-05-23,Dallas/Fort Worth,101.46,False
 2026-05-23,New York,102.34,False
-2026-05-23,Denver,97.71,False
+2026-05-23,Denver,98.34,False
 2026-05-23,Orange County,101.73,False
 2026-05-23,San Diego,102.34,False
 2026-05-23,Inland Empire,103.75,False
@@ -123,7 +123,7 @@ date,series,value,interpolated
 2026-05-30,Boston,105.47,False
 2026-05-30,Dallas/Fort Worth,101.28,False
 2026-05-30,New York,102.86,False
-2026-05-30,Denver,95.72,False
+2026-05-30,Denver,96.33,False
 2026-05-30,Orange County,101.98,False
 2026-05-30,San Diego,103.0,False
 2026-05-30,Inland Empire,104.86,False
@@ -133,10 +133,10 @@ date,series,value,interpolated
 2026-06-06,Seattle,103.03,False
 2026-06-06,San Francisco,104.9,False
 2026-06-06,Atlanta,99.11,False
-2026-06-06,Boston,105.49,False
+2026-06-06,Boston,105.47,False
 2026-06-06,Dallas/Fort Worth,101.57,False
 2026-06-06,New York,103.28,False
-2026-06-06,Denver,95.63,False
+2026-06-06,Denver,96.23,False
 2026-06-06,Orange County,102.19,False
 2026-06-06,San Diego,102.94,False
 2026-06-06,Inland Empire,102.57,False
@@ -146,10 +146,10 @@ date,series,value,interpolated
 2026-06-13,Seattle,102.95,False
 2026-06-13,San Francisco,104.27,False
 2026-06-13,Atlanta,99.0,False
-2026-06-13,Boston,105.65,False
+2026-06-13,Boston,105.6,False
 2026-06-13,Dallas/Fort Worth,102.21,False
 2026-06-13,New York,103.47,False
-2026-06-13,Denver,94.63,False
+2026-06-13,Denver,95.23,False
 2026-06-13,Orange County,102.08,False
 2026-06-13,San Diego,102.63,False
 2026-06-13,Inland Empire,102.77,False
@@ -162,7 +162,7 @@ date,series,value,interpolated
 2026-06-20,Boston,106.08,False
 2026-06-20,Dallas/Fort Worth,105.01,False
 2026-06-20,New York,103.78,False
-2026-06-20,Denver,96.87,False
+2026-06-20,Denver,97.48,False
 2026-06-20,Orange County,101.92,False
 2026-06-20,San Diego,102.58,False
 2026-06-20,Inland Empire,104.34,False
@@ -172,10 +172,10 @@ date,series,value,interpolated
 2026-06-27,Seattle,104.55,True
 2026-06-27,San Francisco,106.0625,True
 2026-06-27,Atlanta,100.63,True
-2026-06-27,Boston,106.27,True
+2026-06-27,Boston,106.22,True
 2026-06-27,Dallas/Fort Worth,105.0975,True
 2026-06-27,New York,103.8525,True
-2026-06-27,Denver,95.7025,True
+2026-06-27,Denver,96.3125,True
 2026-06-27,Orange County,101.9825,True
 2026-06-27,San Diego,102.96,True
 2026-06-27,Inland Empire,104.57,True
@@ -185,10 +185,10 @@ date,series,value,interpolated
 2026-07-04,Seattle,105.08,True
 2026-07-04,San Francisco,106.715,True
 2026-07-04,Atlanta,101.05,True
-2026-07-04,Boston,106.46,True
+2026-07-04,Boston,106.36,True
 2026-07-04,Dallas/Fort Worth,105.185,True
 2026-07-04,New York,103.925,True
-2026-07-04,Denver,94.535,True
+2026-07-04,Denver,95.145,True
 2026-07-04,Orange County,102.045,True
 2026-07-04,San Diego,103.34,True
 2026-07-04,Inland Empire,104.8,True
@@ -198,10 +198,10 @@ date,series,value,interpolated
 2026-07-11,Seattle,105.61,True
 2026-07-11,San Francisco,107.3675,True
 2026-07-11,Atlanta,101.47,True
-2026-07-11,Boston,106.65,True
+2026-07-11,Boston,106.5,True
 2026-07-11,Dallas/Fort Worth,105.2725,True
 2026-07-11,New York,103.9975,True
-2026-07-11,Denver,93.3675,True
+2026-07-11,Denver,93.9775,True
 2026-07-11,Orange County,102.1075,True
 2026-07-11,San Diego,103.72,True
 2026-07-11,Inland Empire,105.03,True
@@ -211,10 +211,10 @@ date,series,value,interpolated
 2026-07-18,Seattle,106.14,False
 2026-07-18,San Francisco,108.02,False
 2026-07-18,Atlanta,101.89,False
-2026-07-18,Boston,106.84,False
+2026-07-18,Boston,106.64,False
 2026-07-18,Dallas/Fort Worth,105.36,False
 2026-07-18,New York,104.07,False
-2026-07-18,Denver,92.2,False
+2026-07-18,Denver,92.81,False
 2026-07-18,Orange County,102.17,False
 2026-07-18,San Diego,104.1,False
 2026-07-18,Inland Empire,105.26,False
@@ -224,10 +224,10 @@ date,series,value,interpolated
 2026-07-25,Seattle,106.86,True
 2026-07-25,San Francisco,108.14,True
 2026-07-25,Atlanta,101.5,True
-2026-07-25,Boston,106.205,True
+2026-07-25,Boston,106.06,True
 2026-07-25,Dallas/Fort Worth,105.52,True
 2026-07-25,New York,104.225,True
-2026-07-25,Denver,93.585,True
+2026-07-25,Denver,94.2,True
 2026-07-25,Orange County,101.685,True
 2026-07-25,San Diego,105.055,True
 2026-07-25,Inland Empire,105.025,True
@@ -237,10 +237,10 @@ date,series,value,interpolated
 2026-08-01,Seattle,107.58,False
 2026-08-01,San Francisco,108.26,False
 2026-08-01,Atlanta,101.11,False
-2026-08-01,Boston,105.57,False
+2026-08-01,Boston,105.48,False
 2026-08-01,Dallas/Fort Worth,105.68,False
 2026-08-01,New York,104.38,False
-2026-08-01,Denver,94.97,False
+2026-08-01,Denver,95.59,False
 2026-08-01,Orange County,101.2,False
 2026-08-01,San Diego,106.01,False
 2026-08-01,Inland Empire,104.79,False
@@ -250,10 +250,10 @@ date,series,value,interpolated
 2026-08-08,Seattle,106.77,False
 2026-08-08,San Francisco,108.5,False
 2026-08-08,Atlanta,99.58,False
-2026-08-08,Boston,104.23,False
+2026-08-08,Boston,103.61,False
 2026-08-08,Dallas/Fort Worth,105.38,False
 2026-08-08,New York,105.14,False
-2026-08-08,Denver,95.65,False
+2026-08-08,Denver,96.3,False
 2026-08-08,Orange County,100.61,False
 2026-08-08,San Diego,104.88,False
 2026-08-08,Inland Empire,104.1,False
@@ -263,10 +263,10 @@ date,series,value,interpolated
 2026-08-15,Seattle,107.14,False
 2026-08-15,San Francisco,107.54,False
 2026-08-15,Atlanta,98.92,False
-2026-08-15,Boston,104.01,False
+2026-08-15,Boston,103.36,False
 2026-08-15,Dallas/Fort Worth,106.62,False
 2026-08-15,New York,105.05,False
-2026-08-15,Denver,97.78,False
+2026-08-15,Denver,98.44,False
 2026-08-15,Orange County,100.44,False
 2026-08-15,San Diego,104.49,False
 2026-08-15,Inland Empire,104.24,False
@@ -276,10 +276,10 @@ date,series,value,interpolated
 2026-08-22,Seattle,106.32,False
 2026-08-22,San Francisco,106.93,False
 2026-08-22,Atlanta,99.94,False
-2026-08-22,Boston,104.19,False
+2026-08-22,Boston,103.84,False
 2026-08-22,Dallas/Fort Worth,104.0,False
 2026-08-22,New York,104.72,False
-2026-08-22,Denver,94.72,False
+2026-08-22,Denver,95.37,False
 2026-08-22,Orange County,98.96,False
 2026-08-22,San Diego,103.49,False
 2026-08-22,Inland Empire,103.9,False
@@ -289,10 +289,10 @@ date,series,value,interpolated
 2026-08-29,Seattle,105.93,False
 2026-08-29,San Francisco,107.29,False
 2026-08-29,Atlanta,100.12,False
-2026-08-29,Boston,104.7,False
+2026-08-29,Boston,104.66,False
 2026-08-29,Dallas/Fort Worth,104.7,False
 2026-08-29,New York,103.34,False
-2026-08-29,Denver,93.32,False
+2026-08-29,Denver,93.93,False
 2026-08-29,Orange County,98.81,False
 2026-08-29,San Diego,104.53,False
 2026-08-29,Inland Empire,103.91,False
@@ -302,10 +302,10 @@ date,series,value,interpolated
 2026-09-05,Seattle,105.26,False
 2026-09-05,San Francisco,106.96,False
 2026-09-05,Atlanta,99.91,False
-2026-09-05,Boston,103.49,False
+2026-09-05,Boston,103.45,False
 2026-09-05,Dallas/Fort Worth,104.83,False
 2026-09-05,New York,103.29,False
-2026-09-05,Denver,92.06,False
+2026-09-05,Denver,92.72,False
 2026-09-05,Orange County,101.14,False
 2026-09-05,San Diego,104.14,False
 2026-09-05,Inland Empire,104.51,False
@@ -315,10 +315,10 @@ date,series,value,interpolated
 2026-09-12,Seattle,105.58,True
 2026-09-12,San Francisco,106.7,True
 2026-09-12,Atlanta,99.58,True
-2026-09-12,Boston,102.53,True
+2026-09-12,Boston,102.5,True
 2026-09-12,Dallas/Fort Worth,104.465,True
 2026-09-12,New York,103.26,True
-2026-09-12,Denver,90.515,True
+2026-09-12,Denver,91.195,True
 2026-09-12,Orange County,101.27,True
 2026-09-12,San Diego,103.225,True
 2026-09-12,Inland Empire,105.185,True
@@ -328,10 +328,10 @@ date,series,value,interpolated
 2026-09-19,Seattle,105.9,False
 2026-09-19,San Francisco,106.44,False
 2026-09-19,Atlanta,99.25,False
-2026-09-19,Boston,101.57,False
+2026-09-19,Boston,101.55,False
 2026-09-19,Dallas/Fort Worth,104.1,False
 2026-09-19,New York,103.23,False
-2026-09-19,Denver,88.97,False
+2026-09-19,Denver,89.67,False
 2026-09-19,Orange County,101.4,False
 2026-09-19,San Diego,102.31,False
 2026-09-19,Inland Empire,105.86,False
@@ -341,10 +341,10 @@ date,series,value,interpolated
 2026-09-26,Seattle,105.57,False
 2026-09-26,San Francisco,105.85,False
 2026-09-26,Atlanta,98.34,False
-2026-09-26,Boston,97.27,False
+2026-09-26,Boston,97.24,False
 2026-09-26,Dallas/Fort Worth,103.13,False
 2026-09-26,New York,103.58,False
-2026-09-26,Denver,87.11,False
+2026-09-26,Denver,87.81,False
 2026-09-26,Orange County,102.36,False
 2026-09-26,San Diego,101.56,False
 2026-09-26,Inland Empire,105.75,False
@@ -354,10 +354,10 @@ date,series,value,interpolated
 2026-10-03,Seattle,105.185,True
 2026-10-03,San Francisco,105.475,True
 2026-10-03,Atlanta,98.155,True
-2026-10-03,Boston,96.51,True
+2026-10-03,Boston,96.475,True
 2026-10-03,Dallas/Fort Worth,102.985,True
 2026-10-03,New York,103.255,True
-2026-10-03,Denver,87.31,True
+2026-10-03,Denver,88.0,True
 2026-10-03,Orange County,102.035,True
 2026-10-03,San Diego,99.81,True
 2026-10-03,Inland Empire,104.025,True
@@ -367,10 +367,10 @@ date,series,value,interpolated
 2026-10-10,Seattle,104.8,False
 2026-10-10,San Francisco,105.1,False
 2026-10-10,Atlanta,97.97,False
-2026-10-10,Boston,95.75,False
+2026-10-10,Boston,95.71,False
 2026-10-10,Dallas/Fort Worth,102.84,False
 2026-10-10,New York,102.93,False
-2026-10-10,Denver,87.51,False
+2026-10-10,Denver,88.19,False
 2026-10-10,Orange County,101.71,False
 2026-10-10,San Diego,98.06,False
 2026-10-10,Inland Empire,102.3,False
@@ -380,10 +380,10 @@ date,series,value,interpolated
 2026-10-17,Seattle,102.89,False
 2026-10-17,San Francisco,104.56,False
 2026-10-17,Atlanta,97.23,False
-2026-10-17,Boston,95.6,False
+2026-10-17,Boston,95.57,False
 2026-10-17,Dallas/Fort Worth,102.63,False
 2026-10-17,New York,102.52,False
-2026-10-17,Denver,88.22,False
+2026-10-17,Denver,88.91,False
 2026-10-17,Orange County,101.67,False
 2026-10-17,San Diego,97.52,False
 2026-10-17,Inland Empire,101.13,False
