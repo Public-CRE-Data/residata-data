@@ -89,7 +89,7 @@ a gap is omitted rather than guessed.
 - `index_*` — chain-linked same-property indices (base 100)
 - `charts_concession_rate` — share of listings carrying a concession, by REIT
 - `new_lease_<ner|rent>_4wk_index_by_reit` — new-lease rent index, 4-week average (see top)
-- `new_lease_ner_4wk_index_by_market` — the same by market and REIT, from 2026-08-08 (= 100); `thin` = under 60 leases a week
+- `new_lease_ner_4wk_index_by_market` — the same by market and REIT, from 2026-08-08 (= 100); `thin` = under 60 leases a week; `interpolated` as below
 - `markets_<reit>_*` — per-REIT index by macro market
 - `market_comparison_<market>_*` — cross-REIT index within one market
 
