@@ -29,7 +29,7 @@
 > activity on listed units, not of rent levels.
 >
 > **New series, 2026-10-19 — new-lease rent index.** `new_lease_ner_4wk_index_by_reit`
-> and `new_lease_rent_4wk_index_by_reit` (4-week averages, 2026-08-01 = 100,
+> and `new_lease_rent_4wk_index_by_reit` (4-week averages, 2026-08-08 = 100,
 > history from 2026-03); weekly detail by REIT and market, with lease counts,
 > in `data/summary/new_lease_index_history.csv`. Where the listings index above
 > measures rents on everything advertised, this measures rents on units **as
@@ -40,7 +40,10 @@
 > of units (lease-ups) are excluded. Weeks spanning missed scrapes are bridged,
 > with the stale last price adjusted for the typical final-weeks markdown
 > (tested by deleting real weeks: within ~0.2-0.5 pt for a two-week gap). Each
-> week appears once the following scrape has run. It tracks the trend in
+> point in these 4-week files is dated by the end of its leasing week -- the
+> scrape that showed the units gone -- so the latest point carries the latest
+> scrape's date (`new_lease_index_history.csv` dates each week by its start,
+> the last scrape the units were listed in). It tracks the trend in
 > new-lease rents, not lease-over-lease growth (possible from 2027-03); a
 > withdrawn unit is indistinguishable from a leased one; ESS lists floor plans,
 > not units, so its series is the thinnest. Renamed communities (e.g. ESS
@@ -86,7 +89,7 @@ a gap is omitted rather than guessed.
 - `index_*` — chain-linked same-property indices (base 100)
 - `charts_concession_rate` — share of listings carrying a concession, by REIT
 - `new_lease_<ner|rent>_4wk_index_by_reit` — new-lease rent index, 4-week average (see top)
-- `new_lease_ner_4wk_index_by_market` — the same by market and REIT, from 2026-08-01 (= 100); `thin` = under 60 leases a week
+- `new_lease_ner_4wk_index_by_market` — the same by market and REIT, from 2026-08-08 (= 100); `thin` = under 60 leases a week
 - `markets_<reit>_*` — per-REIT index by macro market
 - `market_comparison_<market>_*` — cross-REIT index within one market
 
