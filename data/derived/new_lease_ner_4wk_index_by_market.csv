@@ -11,16 +11,16 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Atlanta,MAA,98.13,False,False
 2026-10-17,Atlanta,MAA,97.783,False,False
 2026-08-08,Atlanta,CPT,100.0,True,False
-2026-08-15,Atlanta,CPT,99.896,True,False
-2026-08-22,Atlanta,CPT,99.44,True,False
-2026-08-29,Atlanta,CPT,99.57,True,False
-2026-09-05,Atlanta,CPT,99.174,True,False
-2026-09-12,Atlanta,CPT,97.992,True,False
-2026-09-19,Atlanta,CPT,96.932,True,False
-2026-09-26,Atlanta,CPT,95.987,True,False
-2026-10-03,Atlanta,CPT,96.229,True,True
-2026-10-10,Atlanta,CPT,96.472,True,False
-2026-10-17,Atlanta,CPT,97.213,True,False
+2026-08-15,Atlanta,CPT,99.916,True,False
+2026-08-22,Atlanta,CPT,99.463,True,False
+2026-08-29,Atlanta,CPT,99.596,True,False
+2026-09-05,Atlanta,CPT,99.209,True,False
+2026-09-12,Atlanta,CPT,98.014,True,False
+2026-09-19,Atlanta,CPT,96.775,True,False
+2026-09-26,Atlanta,CPT,95.813,True,False
+2026-10-03,Atlanta,CPT,96.077,True,True
+2026-10-10,Atlanta,CPT,96.342,True,False
+2026-10-17,Atlanta,CPT,97.199,True,False
 2026-08-08,Atlanta,INVH,100.0,False,False
 2026-08-15,Atlanta,INVH,99.55,False,False
 2026-08-22,Atlanta,INVH,98.904,False,False
@@ -55,27 +55,27 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Atlanta,VMRK,98.618,False,False
 2026-10-17,Atlanta,VMRK,97.26,False,False
 2026-08-08,Dallas/Fort Worth,MAA,100.0,False,False
-2026-08-15,Dallas/Fort Worth,MAA,99.783,False,False
-2026-08-22,Dallas/Fort Worth,MAA,99.224,False,False
-2026-08-29,Dallas/Fort Worth,MAA,99.607,False,False
-2026-09-05,Dallas/Fort Worth,MAA,99.639,False,False
-2026-09-12,Dallas/Fort Worth,MAA,99.43,False,False
-2026-09-19,Dallas/Fort Worth,MAA,99.54,False,True
-2026-09-26,Dallas/Fort Worth,MAA,99.65,False,False
-2026-10-03,Dallas/Fort Worth,MAA,100.139,False,True
-2026-10-10,Dallas/Fort Worth,MAA,100.628,False,False
-2026-10-17,Dallas/Fort Worth,MAA,103.089,False,False
-2026-08-08,Dallas/Fort Worth,CPT,100.0,False,False
-2026-08-15,Dallas/Fort Worth,CPT,100.076,False,False
-2026-08-22,Dallas/Fort Worth,CPT,99.323,False,False
-2026-08-29,Dallas/Fort Worth,CPT,99.016,False,False
-2026-09-05,Dallas/Fort Worth,CPT,97.98,False,False
-2026-09-12,Dallas/Fort Worth,CPT,96.375,False,False
-2026-09-19,Dallas/Fort Worth,CPT,95.679,False,False
-2026-09-26,Dallas/Fort Worth,CPT,95.311,False,False
-2026-10-03,Dallas/Fort Worth,CPT,95.485,False,True
-2026-10-10,Dallas/Fort Worth,CPT,95.66,False,False
-2026-10-17,Dallas/Fort Worth,CPT,96.675,False,False
+2026-08-15,Dallas/Fort Worth,MAA,99.819,False,False
+2026-08-22,Dallas/Fort Worth,MAA,99.344,False,False
+2026-08-29,Dallas/Fort Worth,MAA,99.74,False,False
+2026-09-05,Dallas/Fort Worth,MAA,99.764,False,False
+2026-09-12,Dallas/Fort Worth,MAA,99.592,False,False
+2026-09-19,Dallas/Fort Worth,MAA,99.7,False,True
+2026-09-26,Dallas/Fort Worth,MAA,99.808,False,False
+2026-10-03,Dallas/Fort Worth,MAA,100.304,False,True
+2026-10-10,Dallas/Fort Worth,MAA,100.8,False,False
+2026-10-17,Dallas/Fort Worth,MAA,103.082,False,False
+2026-08-08,Dallas/Fort Worth,CPT,100.0,True,False
+2026-08-15,Dallas/Fort Worth,CPT,100.077,True,False
+2026-08-22,Dallas/Fort Worth,CPT,99.321,True,False
+2026-08-29,Dallas/Fort Worth,CPT,99.014,True,False
+2026-09-05,Dallas/Fort Worth,CPT,97.977,True,False
+2026-09-12,Dallas/Fort Worth,CPT,96.335,True,False
+2026-09-19,Dallas/Fort Worth,CPT,95.642,True,False
+2026-09-26,Dallas/Fort Worth,CPT,95.277,True,False
+2026-10-03,Dallas/Fort Worth,CPT,95.451,True,True
+2026-10-10,Dallas/Fort Worth,CPT,95.626,True,False
+2026-10-17,Dallas/Fort Worth,CPT,96.676,True,False
 2026-08-08,Dallas/Fort Worth,UDR,100.0,False,False
 2026-08-15,Dallas/Fort Worth,UDR,98.702,False,False
 2026-08-22,Dallas/Fort Worth,UDR,97.443,False,False
@@ -110,27 +110,27 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Dallas/Fort Worth,VMRK,97.488,False,False
 2026-10-17,Dallas/Fort Worth,VMRK,97.141,False,False
 2026-08-08,"Washington, DC",MAA,100.0,True,False
-2026-08-15,"Washington, DC",MAA,99.44,True,False
-2026-08-22,"Washington, DC",MAA,97.898,True,False
-2026-08-29,"Washington, DC",MAA,97.165,True,False
-2026-09-05,"Washington, DC",MAA,95.699,True,False
-2026-09-12,"Washington, DC",MAA,96.22,True,False
-2026-09-19,"Washington, DC",MAA,97.291,True,True
-2026-09-26,"Washington, DC",MAA,98.362,True,False
-2026-10-03,"Washington, DC",MAA,99.899,True,True
-2026-10-10,"Washington, DC",MAA,101.436,True,False
-2026-10-17,"Washington, DC",MAA,104.192,True,False
+2026-08-15,"Washington, DC",MAA,99.362,True,False
+2026-08-22,"Washington, DC",MAA,97.844,True,False
+2026-08-29,"Washington, DC",MAA,97.221,True,False
+2026-09-05,"Washington, DC",MAA,95.763,True,False
+2026-09-12,"Washington, DC",MAA,94.602,True,False
+2026-09-19,"Washington, DC",MAA,96.274,True,True
+2026-09-26,"Washington, DC",MAA,97.945,True,False
+2026-10-03,"Washington, DC",MAA,100.104,True,True
+2026-10-10,"Washington, DC",MAA,102.263,True,False
+2026-10-17,"Washington, DC",MAA,103.989,True,False
 2026-08-08,"Washington, DC",CPT,100.0,True,False
 2026-08-15,"Washington, DC",CPT,100.0,True,False
-2026-08-22,"Washington, DC",CPT,98.808,True,True
-2026-08-29,"Washington, DC",CPT,97.616,True,True
-2026-09-05,"Washington, DC",CPT,96.424,True,True
-2026-09-12,"Washington, DC",CPT,95.232,True,False
-2026-09-19,"Washington, DC",CPT,95.5,True,False
-2026-09-26,"Washington, DC",CPT,95.5,True,False
-2026-10-03,"Washington, DC",CPT,95.485,True,True
-2026-10-10,"Washington, DC",CPT,95.471,True,False
-2026-10-17,"Washington, DC",CPT,95.414,True,False
+2026-08-22,"Washington, DC",CPT,98.791,True,True
+2026-08-29,"Washington, DC",CPT,97.581,True,True
+2026-09-05,"Washington, DC",CPT,96.372,True,True
+2026-09-12,"Washington, DC",CPT,95.162,True,False
+2026-09-19,"Washington, DC",CPT,95.162,True,False
+2026-09-26,"Washington, DC",CPT,95.162,True,False
+2026-10-03,"Washington, DC",CPT,95.18,True,True
+2026-10-10,"Washington, DC",CPT,95.197,True,False
+2026-10-17,"Washington, DC",CPT,95.231,True,False
 2026-08-08,"Washington, DC",UDR,100.0,False,False
 2026-08-15,"Washington, DC",UDR,99.577,False,False
 2026-08-22,"Washington, DC",UDR,98.91,False,False
@@ -143,16 +143,16 @@ date,market,reit,value,thin,interpolated
 2026-10-10,"Washington, DC",UDR,97.525,False,False
 2026-10-17,"Washington, DC",UDR,98.171,False,False
 2026-08-08,"Washington, DC",VMRK,100.0,False,False
-2026-08-15,"Washington, DC",VMRK,100.285,False,False
-2026-08-22,"Washington, DC",VMRK,99.93,False,False
-2026-08-29,"Washington, DC",VMRK,99.572,False,False
-2026-09-05,"Washington, DC",VMRK,98.756,False,False
-2026-09-12,"Washington, DC",VMRK,98.279,False,True
-2026-09-19,"Washington, DC",VMRK,97.802,False,False
-2026-09-26,"Washington, DC",VMRK,96.658,False,False
-2026-10-03,"Washington, DC",VMRK,96.308,False,True
-2026-10-10,"Washington, DC",VMRK,95.959,False,False
-2026-10-17,"Washington, DC",VMRK,95.851,False,False
+2026-08-15,"Washington, DC",VMRK,100.284,False,False
+2026-08-22,"Washington, DC",VMRK,99.933,False,False
+2026-08-29,"Washington, DC",VMRK,99.735,False,False
+2026-09-05,"Washington, DC",VMRK,98.925,False,False
+2026-09-12,"Washington, DC",VMRK,98.446,False,True
+2026-09-19,"Washington, DC",VMRK,97.967,False,False
+2026-09-26,"Washington, DC",VMRK,96.667,False,False
+2026-10-03,"Washington, DC",VMRK,96.31,False,True
+2026-10-10,"Washington, DC",VMRK,95.953,False,False
+2026-10-17,"Washington, DC",VMRK,95.839,False,False
 2026-08-08,Tampa,MAA,100.0,True,False
 2026-08-15,Tampa,MAA,100.554,True,False
 2026-08-22,Tampa,MAA,101.553,True,False
@@ -165,16 +165,16 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Tampa,MAA,100.861,True,False
 2026-10-17,Tampa,MAA,98.889,True,False
 2026-08-08,Tampa,CPT,100.0,True,False
-2026-08-15,Tampa,CPT,99.128,True,False
-2026-08-22,Tampa,CPT,99.585,True,False
-2026-08-29,Tampa,CPT,99.762,True,False
-2026-09-05,Tampa,CPT,99.258,True,False
-2026-09-12,Tampa,CPT,98.386,True,False
-2026-09-19,Tampa,CPT,97.043,True,False
-2026-09-26,Tampa,CPT,96.734,True,False
-2026-10-03,Tampa,CPT,96.814,True,True
-2026-10-10,Tampa,CPT,96.895,True,False
-2026-10-17,Tampa,CPT,98.371,True,False
+2026-08-15,Tampa,CPT,99.163,True,False
+2026-08-22,Tampa,CPT,99.706,True,False
+2026-08-29,Tampa,CPT,99.88,True,False
+2026-09-05,Tampa,CPT,99.37,True,False
+2026-09-12,Tampa,CPT,98.479,True,False
+2026-09-19,Tampa,CPT,97.054,True,False
+2026-09-26,Tampa,CPT,96.729,True,False
+2026-10-03,Tampa,CPT,96.806,True,True
+2026-10-10,Tampa,CPT,96.883,True,False
+2026-10-17,Tampa,CPT,98.388,True,False
 2026-08-08,Tampa,UDR,100.0,True,False
 2026-08-15,Tampa,UDR,100.848,True,False
 2026-08-22,Tampa,UDR,101.332,True,False
@@ -273,27 +273,27 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Charlotte,AMH,98.395,True,False
 2026-10-17,Charlotte,AMH,98.395,True,False
 2026-08-08,Houston,MAA,100.0,True,False
-2026-08-15,Houston,MAA,100.454,True,False
-2026-08-22,Houston,MAA,100.39,True,False
-2026-08-29,Houston,MAA,99.657,True,False
-2026-09-05,Houston,MAA,99.178,True,False
-2026-09-12,Houston,MAA,97.152,True,False
-2026-09-19,Houston,MAA,96.645,True,True
-2026-09-26,Houston,MAA,96.137,True,False
-2026-10-03,Houston,MAA,96.244,True,True
-2026-10-10,Houston,MAA,96.351,True,False
-2026-10-17,Houston,MAA,96.428,True,False
+2026-08-15,Houston,MAA,100.416,True,False
+2026-08-22,Houston,MAA,100.434,True,False
+2026-08-29,Houston,MAA,99.689,True,False
+2026-09-05,Houston,MAA,99.166,True,False
+2026-09-12,Houston,MAA,97.175,True,False
+2026-09-19,Houston,MAA,96.647,True,True
+2026-09-26,Houston,MAA,96.12,True,False
+2026-10-03,Houston,MAA,96.158,True,True
+2026-10-10,Houston,MAA,96.197,True,False
+2026-10-17,Houston,MAA,96.197,True,False
 2026-08-08,Houston,CPT,100.0,False,False
-2026-08-15,Houston,CPT,100.475,False,False
-2026-08-22,Houston,CPT,100.335,False,False
-2026-08-29,Houston,CPT,100.232,False,False
-2026-09-05,Houston,CPT,99.717,False,False
-2026-09-12,Houston,CPT,98.916,False,False
-2026-09-19,Houston,CPT,98.003,False,False
-2026-09-26,Houston,CPT,98.109,False,False
-2026-10-03,Houston,CPT,98.355,False,True
-2026-10-10,Houston,CPT,98.601,False,False
-2026-10-17,Houston,CPT,99.363,False,False
+2026-08-15,Houston,CPT,100.472,False,False
+2026-08-22,Houston,CPT,100.315,False,False
+2026-08-29,Houston,CPT,100.214,False,False
+2026-09-05,Houston,CPT,99.707,False,False
+2026-09-12,Houston,CPT,98.891,False,False
+2026-09-19,Houston,CPT,97.99,False,False
+2026-09-26,Houston,CPT,98.089,False,False
+2026-10-03,Houston,CPT,98.328,False,True
+2026-10-10,Houston,CPT,98.567,False,False
+2026-10-17,Houston,CPT,99.346,False,False
 2026-08-08,Boston,UDR,100.0,True,False
 2026-08-15,Boston,UDR,99.001,True,False
 2026-08-22,Boston,UDR,98.704,True,False
@@ -306,16 +306,16 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Boston,UDR,96.886,True,False
 2026-10-17,Boston,UDR,96.226,True,False
 2026-08-08,Boston,VMRK,100.0,False,False
-2026-08-15,Boston,VMRK,99.799,False,False
-2026-08-22,Boston,VMRK,99.659,False,False
-2026-08-29,Boston,VMRK,99.847,False,False
-2026-09-05,Boston,VMRK,100.369,False,False
-2026-09-12,Boston,VMRK,100.345,False,True
-2026-09-19,Boston,VMRK,100.321,False,False
-2026-09-26,Boston,VMRK,99.404,False,False
-2026-10-03,Boston,VMRK,98.225,False,True
-2026-10-10,Boston,VMRK,97.046,False,False
-2026-10-17,Boston,VMRK,94.561,False,False
+2026-08-15,Boston,VMRK,99.704,False,False
+2026-08-22,Boston,VMRK,99.435,False,False
+2026-08-29,Boston,VMRK,99.627,False,False
+2026-09-05,Boston,VMRK,100.145,False,False
+2026-09-12,Boston,VMRK,100.13,False,True
+2026-09-19,Boston,VMRK,100.116,False,False
+2026-09-26,Boston,VMRK,99.202,False,False
+2026-10-03,Boston,VMRK,98.026,False,True
+2026-10-10,Boston,VMRK,96.849,False,False
+2026-10-17,Boston,VMRK,94.366,False,False
 2026-08-08,Orlando,MAA,100.0,False,False
 2026-08-15,Orlando,MAA,100.004,False,False
 2026-08-22,Orlando,MAA,100.565,False,False
@@ -328,16 +328,16 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Orlando,MAA,97.585,False,False
 2026-10-17,Orlando,MAA,97.584,False,False
 2026-08-08,Orlando,CPT,100.0,True,False
-2026-08-15,Orlando,CPT,100.304,True,False
-2026-08-22,Orlando,CPT,99.947,True,False
-2026-08-29,Orlando,CPT,99.317,True,False
-2026-09-05,Orlando,CPT,99.024,True,False
-2026-09-12,Orlando,CPT,97.41,True,False
-2026-09-19,Orlando,CPT,96.723,True,False
-2026-09-26,Orlando,CPT,97.208,True,False
-2026-10-03,Orlando,CPT,97.67,True,True
-2026-10-10,Orlando,CPT,98.132,True,False
-2026-10-17,Orlando,CPT,99.891,True,False
+2026-08-15,Orlando,CPT,100.294,True,False
+2026-08-22,Orlando,CPT,99.963,True,False
+2026-08-29,Orlando,CPT,99.346,True,False
+2026-09-05,Orlando,CPT,99.036,True,False
+2026-09-12,Orlando,CPT,97.405,True,False
+2026-09-19,Orlando,CPT,96.7,True,False
+2026-09-26,Orlando,CPT,97.138,True,False
+2026-10-03,Orlando,CPT,97.615,True,True
+2026-10-10,Orlando,CPT,98.092,True,False
+2026-10-17,Orlando,CPT,99.881,True,False
 2026-08-08,Orlando,UDR,100.0,True,False
 2026-08-15,Orlando,UDR,97.491,True,False
 2026-08-22,Orlando,UDR,94.982,True,False
@@ -394,60 +394,38 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Orange County,UDR,99.996,True,False
 2026-10-17,Orange County,UDR,100.535,True,False
 2026-08-08,Orange County,VMRK,100.0,False,False
-2026-08-15,Orange County,VMRK,100.202,False,False
-2026-08-22,Orange County,VMRK,100.206,False,False
-2026-08-29,Orange County,VMRK,99.948,False,False
-2026-09-05,Orange County,VMRK,99.319,False,False
-2026-09-12,Orange County,VMRK,98.934,False,True
-2026-09-19,Orange County,VMRK,98.55,False,False
-2026-09-26,Orange County,VMRK,97.583,False,False
-2026-10-03,Orange County,VMRK,97.597,False,True
-2026-10-10,Orange County,VMRK,97.611,False,False
-2026-10-17,Orange County,VMRK,98.237,False,False
-2026-08-08,San Francisco-East Bay,UDR,100.0,True,False
-2026-08-15,San Francisco-East Bay,UDR,99.227,True,False
-2026-08-22,San Francisco-East Bay,UDR,97.583,True,False
-2026-08-29,San Francisco-East Bay,UDR,97.208,True,False
-2026-09-05,San Francisco-East Bay,UDR,96.626,True,False
-2026-09-12,San Francisco-East Bay,UDR,96.274,True,False
-2026-09-19,San Francisco-East Bay,UDR,97.383,True,False
-2026-09-26,San Francisco-East Bay,UDR,98.526,True,False
-2026-10-03,San Francisco-East Bay,UDR,98.526,True,True
-2026-10-10,San Francisco-East Bay,UDR,98.526,True,False
-2026-10-17,San Francisco-East Bay,UDR,99.51,True,False
-2026-08-08,San Francisco-East Bay,VMRK,100.0,True,False
-2026-08-15,San Francisco-East Bay,VMRK,99.972,True,False
-2026-08-22,San Francisco-East Bay,VMRK,100.771,True,False
-2026-08-29,San Francisco-East Bay,VMRK,101.024,True,False
-2026-09-05,San Francisco-East Bay,VMRK,101.243,True,False
-2026-09-12,San Francisco-East Bay,VMRK,101.466,True,True
-2026-09-19,San Francisco-East Bay,VMRK,101.688,True,False
-2026-09-26,San Francisco-East Bay,VMRK,102.533,True,False
-2026-10-03,San Francisco-East Bay,VMRK,102.388,True,True
-2026-10-10,San Francisco-East Bay,VMRK,102.243,True,False
-2026-10-17,San Francisco-East Bay,VMRK,102.19,True,False
+2026-08-15,Orange County,VMRK,100.207,False,False
+2026-08-22,Orange County,VMRK,100.165,False,False
+2026-08-29,Orange County,VMRK,99.848,False,False
+2026-09-05,Orange County,VMRK,99.221,False,False
+2026-09-12,Orange County,VMRK,98.844,False,True
+2026-09-19,Orange County,VMRK,98.466,False,False
+2026-09-26,Orange County,VMRK,97.618,False,False
+2026-10-03,Orange County,VMRK,97.642,False,True
+2026-10-10,Orange County,VMRK,97.665,False,False
+2026-10-17,Orange County,VMRK,98.281,False,False
 2026-08-08,Seattle,ESS,100.0,True,False
-2026-08-15,Seattle,ESS,99.43,True,False
-2026-08-22,Seattle,ESS,98.065,True,False
-2026-08-29,Seattle,ESS,97.532,True,False
-2026-09-05,Seattle,ESS,97.378,True,False
-2026-09-12,Seattle,ESS,94.904,True,False
-2026-09-19,Seattle,ESS,94.414,True,False
-2026-09-26,Seattle,ESS,93.161,True,False
-2026-10-03,Seattle,ESS,92.838,True,True
-2026-10-10,Seattle,ESS,92.515,True,False
-2026-10-17,Seattle,ESS,91.641,True,False
+2026-08-15,Seattle,ESS,99.348,True,False
+2026-08-22,Seattle,ESS,97.822,True,False
+2026-08-29,Seattle,ESS,97.301,True,False
+2026-09-05,Seattle,ESS,97.152,True,False
+2026-09-12,Seattle,ESS,94.682,True,False
+2026-09-19,Seattle,ESS,94.152,True,False
+2026-09-26,Seattle,ESS,92.89,True,False
+2026-10-03,Seattle,ESS,92.577,True,True
+2026-10-10,Seattle,ESS,92.263,True,False
+2026-10-17,Seattle,ESS,91.427,True,False
 2026-08-08,Seattle,VMRK,100.0,False,False
-2026-08-15,Seattle,VMRK,99.633,False,False
-2026-08-22,Seattle,VMRK,98.929,False,False
-2026-08-29,Seattle,VMRK,98.779,False,False
-2026-09-05,Seattle,VMRK,98.353,False,False
-2026-09-12,Seattle,VMRK,97.996,False,True
-2026-09-19,Seattle,VMRK,97.64,False,False
-2026-09-26,Seattle,VMRK,97.141,False,False
-2026-10-03,Seattle,VMRK,96.782,False,True
-2026-10-10,Seattle,VMRK,96.424,False,False
-2026-10-17,Seattle,VMRK,96.337,False,False
+2026-08-15,Seattle,VMRK,99.264,False,False
+2026-08-22,Seattle,VMRK,97.936,False,False
+2026-08-29,Seattle,VMRK,97.748,False,False
+2026-09-05,Seattle,VMRK,97.255,False,False
+2026-09-12,Seattle,VMRK,96.912,False,True
+2026-09-19,Seattle,VMRK,96.568,False,False
+2026-09-26,Seattle,VMRK,96.148,False,False
+2026-10-03,Seattle,VMRK,95.823,False,True
+2026-10-10,Seattle,VMRK,95.498,False,False
+2026-10-17,Seattle,VMRK,95.48,False,False
 2026-08-08,Austin,MAA,100.0,False,False
 2026-08-15,Austin,MAA,99.94,False,False
 2026-08-22,Austin,MAA,99.146,False,False
@@ -471,38 +449,60 @@ date,market,reit,value,thin,interpolated
 2026-10-10,Austin,CPT,94.467,True,False
 2026-10-17,Austin,CPT,93.976,True,False
 2026-08-08,Los Angeles,ESS,100.0,True,False
-2026-08-15,Los Angeles,ESS,100.217,True,False
-2026-08-22,Los Angeles,ESS,101.273,True,False
-2026-08-29,Los Angeles,ESS,101.157,True,False
-2026-09-05,Los Angeles,ESS,101.002,True,False
-2026-09-12,Los Angeles,ESS,100.728,True,False
-2026-09-19,Los Angeles,ESS,101.271,True,False
-2026-09-26,Los Angeles,ESS,100.77,True,False
-2026-10-03,Los Angeles,ESS,100.696,True,True
-2026-10-10,Los Angeles,ESS,100.622,True,False
-2026-10-17,Los Angeles,ESS,99.741,True,False
+2026-08-15,Los Angeles,ESS,100.252,True,False
+2026-08-22,Los Angeles,ESS,101.048,True,False
+2026-08-29,Los Angeles,ESS,101.048,True,False
+2026-09-05,Los Angeles,ESS,100.775,True,False
+2026-09-12,Los Angeles,ESS,100.299,True,False
+2026-09-19,Los Angeles,ESS,101.414,True,False
+2026-09-26,Los Angeles,ESS,100.637,True,False
+2026-10-03,Los Angeles,ESS,100.581,True,True
+2026-10-10,Los Angeles,ESS,100.525,True,False
+2026-10-17,Los Angeles,ESS,99.637,True,False
 2026-08-08,Los Angeles,VMRK,100.0,False,False
-2026-08-15,Los Angeles,VMRK,100.077,False,False
-2026-08-22,Los Angeles,VMRK,100.387,False,False
-2026-08-29,Los Angeles,VMRK,100.412,False,False
-2026-09-05,Los Angeles,VMRK,100.522,False,False
-2026-09-12,Los Angeles,VMRK,100.229,False,True
-2026-09-19,Los Angeles,VMRK,99.936,False,False
-2026-09-26,Los Angeles,VMRK,99.568,False,False
-2026-10-03,Los Angeles,VMRK,99.358,False,True
-2026-10-10,Los Angeles,VMRK,99.148,False,False
-2026-10-17,Los Angeles,VMRK,99.161,False,False
+2026-08-15,Los Angeles,VMRK,100.067,False,False
+2026-08-22,Los Angeles,VMRK,99.905,False,False
+2026-08-29,Los Angeles,VMRK,99.576,False,False
+2026-09-05,Los Angeles,VMRK,99.018,False,False
+2026-09-12,Los Angeles,VMRK,98.708,False,True
+2026-09-19,Los Angeles,VMRK,98.397,False,False
+2026-09-26,Los Angeles,VMRK,98.644,False,False
+2026-10-03,Los Angeles,VMRK,98.882,False,True
+2026-10-10,Los Angeles,VMRK,99.121,False,False
+2026-10-17,Los Angeles,VMRK,99.212,False,False
+2026-08-08,San Francisco-East Bay,UDR,100.0,True,False
+2026-08-15,San Francisco-East Bay,UDR,99.227,True,False
+2026-08-22,San Francisco-East Bay,UDR,97.583,True,False
+2026-08-29,San Francisco-East Bay,UDR,97.208,True,False
+2026-09-05,San Francisco-East Bay,UDR,96.626,True,False
+2026-09-12,San Francisco-East Bay,UDR,96.274,True,False
+2026-09-19,San Francisco-East Bay,UDR,97.383,True,False
+2026-09-26,San Francisco-East Bay,UDR,98.526,True,False
+2026-10-03,San Francisco-East Bay,UDR,98.526,True,True
+2026-10-10,San Francisco-East Bay,UDR,98.526,True,False
+2026-10-17,San Francisco-East Bay,UDR,99.51,True,False
+2026-08-08,San Francisco-East Bay,VMRK,100.0,True,False
+2026-08-15,San Francisco-East Bay,VMRK,99.971,True,False
+2026-08-22,San Francisco-East Bay,VMRK,100.773,True,False
+2026-08-29,San Francisco-East Bay,VMRK,101.025,True,False
+2026-09-05,San Francisco-East Bay,VMRK,101.243,True,False
+2026-09-12,San Francisco-East Bay,VMRK,101.467,True,True
+2026-09-19,San Francisco-East Bay,VMRK,101.691,True,False
+2026-09-26,San Francisco-East Bay,VMRK,102.403,True,False
+2026-10-03,San Francisco-East Bay,VMRK,102.278,True,True
+2026-10-10,San Francisco-East Bay,VMRK,102.154,True,False
+2026-10-17,San Francisco-East Bay,VMRK,102.101,True,False
 2026-08-08,Raleigh/Durham,MAA,100.0,True,False
-2026-08-15,Raleigh/Durham,MAA,99.885,True,False
-2026-08-22,Raleigh/Durham,MAA,99.996,True,False
-2026-08-29,Raleigh/Durham,MAA,99.32,True,False
-2026-09-05,Raleigh/Durham,MAA,99.221,True,False
-2026-09-12,Raleigh/Durham,MAA,98.385,True,False
-2026-09-19,Raleigh/Durham,MAA,97.649,True,True
-2026-09-26,Raleigh/Durham,MAA,96.914,True,False
-2026-10-03,Raleigh/Durham,MAA,97.64,True,True
-2026-10-10,Raleigh/Durham,MAA,98.366,True,False
-2026-10-17,Raleigh/Durham,MAA,102.305,True,False
+2026-08-15,Raleigh/Durham,MAA,99.882,True,False
+2026-08-22,Raleigh/Durham,MAA,99.986,True,False
+2026-08-29,Raleigh/Durham,MAA,99.311,True,False
+2026-09-05,Raleigh/Durham,MAA,99.205,True,False
+2026-09-12,Raleigh/Durham,MAA,98.373,True,False
+2026-09-19,Raleigh/Durham,MAA,97.644,True,True
+2026-09-26,Raleigh/Durham,MAA,96.915,True,False
+2026-10-03,Raleigh/Durham,MAA,97.638,True,True
+2026-10-10,Raleigh/Durham,MAA,98.362,True,False
+2026-10-17,Raleigh/Durham,MAA,102.282,True,False
 2026-08-08,Raleigh/Durham,CPT,100.0,True,False
 2026-08-15,Raleigh/Durham,CPT,99.189,True,False
 2026-08-22,Raleigh/Durham,CPT,98.248,True,False
@@ -516,23 +516,23 @@ date,market,reit,value,thin,interpolated
 2026-10-17,Raleigh/Durham,CPT,95.075,True,False
 2026-08-08,San Jose,ESS,100.0,True,False
 2026-08-15,San Jose,ESS,100.0,True,False
-2026-08-22,San Jose,ESS,100.396,True,True
-2026-08-29,San Jose,ESS,100.792,True,True
-2026-09-05,San Jose,ESS,101.188,True,True
-2026-09-12,San Jose,ESS,101.584,True,True
-2026-09-19,San Jose,ESS,101.98,True,False
-2026-09-26,San Jose,ESS,101.98,True,False
-2026-10-03,San Jose,ESS,101.357,True,True
-2026-10-10,San Jose,ESS,100.734,True,False
-2026-10-17,San Jose,ESS,99.489,True,False
+2026-08-22,San Jose,ESS,100.427,True,True
+2026-08-29,San Jose,ESS,100.854,True,True
+2026-09-05,San Jose,ESS,101.281,True,True
+2026-09-12,San Jose,ESS,101.709,True,True
+2026-09-19,San Jose,ESS,102.136,True,False
+2026-09-26,San Jose,ESS,102.136,True,False
+2026-10-03,San Jose,ESS,101.513,True,True
+2026-10-10,San Jose,ESS,100.89,True,False
+2026-10-17,San Jose,ESS,99.644,True,False
 2026-08-08,San Jose,VMRK,100.0,True,False
-2026-08-15,San Jose,VMRK,100.046,True,False
-2026-08-22,San Jose,VMRK,99.768,True,False
-2026-08-29,San Jose,VMRK,99.218,True,False
-2026-09-05,San Jose,VMRK,99.218,True,False
-2026-09-12,San Jose,VMRK,98.556,True,True
-2026-09-19,San Jose,VMRK,97.895,True,False
-2026-09-26,San Jose,VMRK,96.071,True,False
-2026-10-03,San Jose,VMRK,96.088,True,True
-2026-10-10,San Jose,VMRK,96.106,True,False
+2026-08-15,San Jose,VMRK,100.114,True,False
+2026-08-22,San Jose,VMRK,99.847,True,False
+2026-08-29,San Jose,VMRK,99.163,True,False
+2026-09-05,San Jose,VMRK,99.163,True,False
+2026-09-12,San Jose,VMRK,98.478,True,True
+2026-09-19,San Jose,VMRK,97.792,True,False
+2026-09-26,San Jose,VMRK,96.069,True,False
+2026-10-03,San Jose,VMRK,96.087,True,True
+2026-10-10,San Jose,VMRK,96.105,True,False
 2026-10-17,San Jose,VMRK,95.951,True,False
