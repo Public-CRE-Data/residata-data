@@ -8,384 +8,397 @@ date,series,value,interpolated
 2026-03-28,Orlando,100.0,False
 2026-03-28,Austin,100.0,False
 2026-03-28,Denver,100.0,False
-2026-03-28,Tampa,100.0,False
 2026-03-28,"Washington, DC",100.0,False
+2026-03-28,Tampa,100.0,False
 2026-03-28,Nashville,100.0,False
 2026-03-28,Miami/Fort Lauderdale,100.0,False
 2026-04-04,Houston,99.53,False
 2026-04-04,Charlotte,99.47,False
 2026-04-04,Dallas/Fort Worth,100.21,False
-2026-04-04,Atlanta,99.96,False
-2026-04-04,Raleigh/Durham,99.69,False
+2026-04-04,Atlanta,99.97,False
+2026-04-04,Raleigh/Durham,99.68,False
 2026-04-04,Phoenix,100.17,False
-2026-04-04,Orlando,100.21,False
+2026-04-04,Orlando,100.2,False
 2026-04-04,Austin,100.32,False
 2026-04-04,Denver,101.57,False
-2026-04-04,Tampa,100.2,False
 2026-04-04,"Washington, DC",99.46,False
+2026-04-04,Tampa,100.2,False
 2026-04-04,Nashville,100.58,False
-2026-04-04,Miami/Fort Lauderdale,100.18,False
+2026-04-04,Miami/Fort Lauderdale,100.19,False
 2026-04-11,Houston,99.2,False
-2026-04-11,Charlotte,98.95,False
+2026-04-11,Charlotte,98.94,False
 2026-04-11,Dallas/Fort Worth,101.11,False
 2026-04-11,Atlanta,99.91,False
-2026-04-11,Raleigh/Durham,99.87,False
+2026-04-11,Raleigh/Durham,99.86,False
 2026-04-11,Phoenix,100.26,False
-2026-04-11,Orlando,100.23,False
+2026-04-11,Orlando,100.24,False
 2026-04-11,Austin,98.34,False
 2026-04-11,Denver,103.19,False
-2026-04-11,Tampa,99.88,False
-2026-04-11,"Washington, DC",97.61,False
+2026-04-11,"Washington, DC",97.58,False
+2026-04-11,Tampa,99.89,False
 2026-04-11,Nashville,100.54,False
-2026-04-11,Miami/Fort Lauderdale,100.23,False
+2026-04-11,Miami/Fort Lauderdale,100.25,False
 2026-04-18,Houston,100.11,False
-2026-04-18,Charlotte,101.27,False
+2026-04-18,Charlotte,101.28,False
 2026-04-18,Dallas/Fort Worth,101.22,False
-2026-04-18,Atlanta,100.09,False
-2026-04-18,Raleigh/Durham,101.02,False
-2026-04-18,Phoenix,100.52,False
+2026-04-18,Atlanta,100.1,False
+2026-04-18,Raleigh/Durham,101.0,False
+2026-04-18,Phoenix,100.53,False
 2026-04-18,Orlando,101.05,False
-2026-04-18,Austin,99.29,False
+2026-04-18,Austin,99.28,False
 2026-04-18,Denver,103.03,False
-2026-04-18,Tampa,99.81,False
-2026-04-18,"Washington, DC",98.15,False
-2026-04-18,Nashville,100.95,False
-2026-04-18,Miami/Fort Lauderdale,99.73,False
+2026-04-18,"Washington, DC",98.13,False
+2026-04-18,Tampa,99.82,False
+2026-04-18,Nashville,100.94,False
+2026-04-18,Miami/Fort Lauderdale,99.74,False
 2026-04-25,Houston,100.03,False
-2026-04-25,Charlotte,102.23,False
+2026-04-25,Charlotte,102.24,False
 2026-04-25,Dallas/Fort Worth,101.11,False
 2026-04-25,Atlanta,100.84,False
-2026-04-25,Raleigh/Durham,101.69,False
+2026-04-25,Raleigh/Durham,101.67,False
 2026-04-25,Phoenix,100.41,False
 2026-04-25,Orlando,100.06,False
-2026-04-25,Austin,100.62,False
+2026-04-25,Austin,100.61,False
 2026-04-25,Denver,102.28,False
-2026-04-25,Tampa,99.84,False
-2026-04-25,"Washington, DC",99.55,False
-2026-04-25,Nashville,101.08,False
-2026-04-25,Miami/Fort Lauderdale,99.32,False
-2026-05-02,Houston,99.95,False
+2026-04-25,"Washington, DC",99.54,False
+2026-04-25,Tampa,99.86,False
+2026-04-25,Nashville,101.06,False
+2026-04-25,Miami/Fort Lauderdale,99.33,False
+2026-05-02,Houston,99.96,False
 2026-05-02,Charlotte,103.18,False
 2026-05-02,Dallas/Fort Worth,101.12,False
-2026-05-02,Atlanta,99.85,False
+2026-05-02,Atlanta,99.87,False
 2026-05-02,Raleigh/Durham,101.37,False
 2026-05-02,Phoenix,100.55,False
 2026-05-02,Orlando,100.08,False
-2026-05-02,Austin,100.64,False
+2026-05-02,Austin,100.63,False
 2026-05-02,Denver,102.81,False
-2026-05-02,Tampa,100.02,False
-2026-05-02,"Washington, DC",100.33,False
+2026-05-02,"Washington, DC",100.32,False
+2026-05-02,Tampa,100.04,False
 2026-05-02,Nashville,99.84,False
-2026-05-02,Miami/Fort Lauderdale,99.65,False
-2026-05-09,Houston,100.54,False
+2026-05-02,Miami/Fort Lauderdale,99.66,False
+2026-05-09,Houston,100.55,False
 2026-05-09,Charlotte,103.65,False
 2026-05-09,Dallas/Fort Worth,100.57,False
-2026-05-09,Atlanta,99.28,False
-2026-05-09,Raleigh/Durham,101.76,False
-2026-05-09,Phoenix,100.5,False
-2026-05-09,Orlando,99.82,False
+2026-05-09,Atlanta,99.3,False
+2026-05-09,Raleigh/Durham,101.75,False
+2026-05-09,Phoenix,100.51,False
+2026-05-09,Orlando,99.83,False
 2026-05-09,Austin,101.67,False
-2026-05-09,Denver,104.52,False
-2026-05-09,Tampa,99.13,False
+2026-05-09,Denver,104.53,False
 2026-05-09,"Washington, DC",100.85,False
-2026-05-09,Nashville,98.61,False
+2026-05-09,Tampa,99.15,False
+2026-05-09,Nashville,98.62,False
 2026-05-09,Miami/Fort Lauderdale,99.48,False
-2026-05-16,Houston,100.86,False
-2026-05-16,Charlotte,103.94,False
+2026-05-16,Houston,100.87,False
+2026-05-16,Charlotte,103.95,False
 2026-05-16,Dallas/Fort Worth,100.89,False
-2026-05-16,Atlanta,99.71,False
+2026-05-16,Atlanta,99.73,False
 2026-05-16,Raleigh/Durham,102.53,False
 2026-05-16,Phoenix,100.81,False
 2026-05-16,Orlando,99.34,False
-2026-05-16,Austin,103.16,False
+2026-05-16,Austin,103.17,False
 2026-05-16,Denver,106.4,False
-2026-05-16,Tampa,98.47,False
-2026-05-16,"Washington, DC",101.29,False
-2026-05-16,Nashville,99.81,False
-2026-05-16,Miami/Fort Lauderdale,100.06,False
-2026-05-23,Houston,102.75,False
+2026-05-16,"Washington, DC",101.28,False
+2026-05-16,Tampa,98.48,False
+2026-05-16,Nashville,99.83,False
+2026-05-16,Miami/Fort Lauderdale,100.07,False
+2026-05-23,Houston,102.76,False
 2026-05-23,Charlotte,103.64,False
-2026-05-23,Dallas/Fort Worth,101.91,False
-2026-05-23,Atlanta,100.61,False
+2026-05-23,Dallas/Fort Worth,101.92,False
+2026-05-23,Atlanta,100.63,False
 2026-05-23,Raleigh/Durham,102.91,False
 2026-05-23,Phoenix,101.24,False
-2026-05-23,Orlando,100.06,False
-2026-05-23,Austin,103.2,False
+2026-05-23,Orlando,100.05,False
+2026-05-23,Austin,103.23,False
 2026-05-23,Denver,107.13,False
-2026-05-23,Tampa,98.62,False
 2026-05-23,"Washington, DC",99.39,False
+2026-05-23,Tampa,98.64,False
 2026-05-23,Nashville,101.02,False
-2026-05-23,Miami/Fort Lauderdale,100.78,False
-2026-05-30,Houston,103.86,False
+2026-05-23,Miami/Fort Lauderdale,100.79,False
+2026-05-30,Houston,103.87,False
 2026-05-30,Charlotte,104.26,False
 2026-05-30,Dallas/Fort Worth,103.13,False
-2026-05-30,Atlanta,102.18,False
-2026-05-30,Raleigh/Durham,103.14,False
-2026-05-30,Phoenix,101.97,False
+2026-05-30,Atlanta,102.2,False
+2026-05-30,Raleigh/Durham,103.15,False
+2026-05-30,Phoenix,101.95,False
 2026-05-30,Orlando,99.87,False
-2026-05-30,Austin,104.56,False
-2026-05-30,Denver,106.79,False
-2026-05-30,Tampa,99.44,False
-2026-05-30,"Washington, DC",100.31,False
-2026-05-30,Nashville,101.88,False
+2026-05-30,Austin,104.59,False
+2026-05-30,Denver,106.78,False
+2026-05-30,"Washington, DC",100.3,False
+2026-05-30,Tampa,99.46,False
+2026-05-30,Nashville,101.9,False
 2026-05-30,Miami/Fort Lauderdale,101.35,False
-2026-06-06,Houston,103.3,False
+2026-06-06,Houston,103.32,False
 2026-06-06,Charlotte,103.37,False
 2026-06-06,Dallas/Fort Worth,102.16,False
-2026-06-06,Atlanta,100.86,False
-2026-06-06,Raleigh/Durham,102.08,False
-2026-06-06,Phoenix,100.85,False
+2026-06-06,Atlanta,100.87,False
+2026-06-06,Raleigh/Durham,102.11,False
+2026-06-06,Phoenix,100.83,False
 2026-06-06,Orlando,99.86,False
-2026-06-06,Austin,104.14,False
-2026-06-06,Denver,107.93,False
-2026-06-06,Tampa,98.18,False
-2026-06-06,"Washington, DC",101.04,False
-2026-06-06,Nashville,101.62,False
-2026-06-06,Miami/Fort Lauderdale,101.7,False
-2026-06-13,Houston,103.35,False
+2026-06-06,Austin,104.17,False
+2026-06-06,Denver,107.91,False
+2026-06-06,"Washington, DC",101.03,False
+2026-06-06,Tampa,98.19,False
+2026-06-06,Nashville,101.64,False
+2026-06-06,Miami/Fort Lauderdale,101.71,False
+2026-06-13,Houston,103.36,False
 2026-06-13,Charlotte,102.19,False
 2026-06-13,Dallas/Fort Worth,101.72,False
-2026-06-13,Atlanta,101.18,False
-2026-06-13,Raleigh/Durham,102.47,False
-2026-06-13,Phoenix,99.91,False
-2026-06-13,Orlando,99.9,False
-2026-06-13,Austin,103.85,False
-2026-06-13,Denver,106.92,False
-2026-06-13,Tampa,98.11,False
-2026-06-13,"Washington, DC",100.06,False
-2026-06-13,Nashville,101.36,False
-2026-06-13,Miami/Fort Lauderdale,101.17,False
-2026-06-20,Houston,104.7,False
+2026-06-13,Atlanta,101.19,False
+2026-06-13,Raleigh/Durham,102.5,False
+2026-06-13,Phoenix,99.89,False
+2026-06-13,Orlando,99.91,False
+2026-06-13,Austin,103.87,False
+2026-06-13,Denver,106.9,False
+2026-06-13,"Washington, DC",100.05,False
+2026-06-13,Tampa,98.12,False
+2026-06-13,Nashville,101.37,False
+2026-06-13,Miami/Fort Lauderdale,101.18,False
+2026-06-20,Houston,104.72,False
 2026-06-20,Charlotte,102.29,False
-2026-06-20,Dallas/Fort Worth,103.49,False
-2026-06-20,Atlanta,102.81,False
-2026-06-20,Raleigh/Durham,102.66,False
-2026-06-20,Phoenix,99.64,False
-2026-06-20,Orlando,100.14,False
-2026-06-20,Austin,104.82,False
-2026-06-20,Denver,105.55,False
-2026-06-20,Tampa,98.69,False
-2026-06-20,"Washington, DC",98.16,False
-2026-06-20,Nashville,102.14,False
-2026-06-20,Miami/Fort Lauderdale,101.19,False
-2026-06-27,Houston,104.47,True
-2026-06-27,Charlotte,102.7,True
-2026-06-27,Dallas/Fort Worth,103.5925,True
-2026-06-27,Atlanta,102.9925,True
-2026-06-27,Raleigh/Durham,103.185,True
-2026-06-27,Phoenix,99.8325,True
-2026-06-27,Orlando,100.4275,True
-2026-06-27,Austin,105.58,True
-2026-06-27,Denver,105.54,True
-2026-06-27,Tampa,98.99,True
-2026-06-27,"Washington, DC",99.315,True
-2026-06-27,Nashville,101.5925,True
-2026-06-27,Miami/Fort Lauderdale,101.15,True
-2026-07-04,Houston,104.24,True
-2026-07-04,Charlotte,103.11,True
-2026-07-04,Dallas/Fort Worth,103.695,True
-2026-07-04,Atlanta,103.175,True
-2026-07-04,Raleigh/Durham,103.71,True
-2026-07-04,Phoenix,100.025,True
-2026-07-04,Orlando,100.715,True
-2026-07-04,Austin,106.34,True
-2026-07-04,Denver,105.53,True
-2026-07-04,Tampa,99.29,True
-2026-07-04,"Washington, DC",100.47,True
-2026-07-04,Nashville,101.045,True
-2026-07-04,Miami/Fort Lauderdale,101.11,True
-2026-07-11,Houston,104.01,True
-2026-07-11,Charlotte,103.52,True
-2026-07-11,Dallas/Fort Worth,103.7975,True
-2026-07-11,Atlanta,103.3575,True
-2026-07-11,Raleigh/Durham,104.235,True
-2026-07-11,Phoenix,100.2175,True
-2026-07-11,Orlando,101.0025,True
-2026-07-11,Austin,107.1,True
-2026-07-11,Denver,105.52,True
-2026-07-11,Tampa,99.59,True
-2026-07-11,"Washington, DC",101.625,True
+2026-06-20,Dallas/Fort Worth,103.5,False
+2026-06-20,Atlanta,102.82,False
+2026-06-20,Raleigh/Durham,102.69,False
+2026-06-20,Phoenix,99.61,False
+2026-06-20,Orlando,100.13,False
+2026-06-20,Austin,104.83,False
+2026-06-20,Denver,105.53,False
+2026-06-20,"Washington, DC",98.15,False
+2026-06-20,Tampa,98.71,False
+2026-06-20,Nashville,102.11,False
+2026-06-20,Miami/Fort Lauderdale,101.2,False
+2026-06-27,Houston,104.4875,True
+2026-06-27,Charlotte,102.6975,True
+2026-06-27,Dallas/Fort Worth,103.6,True
+2026-06-27,Atlanta,103.005,True
+2026-06-27,Raleigh/Durham,103.2225,True
+2026-06-27,Phoenix,99.81,True
+2026-06-27,Orlando,100.42,True
+2026-06-27,Austin,105.59,True
+2026-06-27,Denver,105.5225,True
+2026-06-27,"Washington, DC",99.305,True
+2026-06-27,Tampa,99.0125,True
+2026-06-27,Nashville,101.5725,True
+2026-06-27,Miami/Fort Lauderdale,101.165,True
+2026-07-04,Houston,104.255,True
+2026-07-04,Charlotte,103.105,True
+2026-07-04,Dallas/Fort Worth,103.7,True
+2026-07-04,Atlanta,103.19,True
+2026-07-04,Raleigh/Durham,103.755,True
+2026-07-04,Phoenix,100.01,True
+2026-07-04,Orlando,100.71,True
+2026-07-04,Austin,106.35,True
+2026-07-04,Denver,105.515,True
+2026-07-04,"Washington, DC",100.46,True
+2026-07-04,Tampa,99.315,True
+2026-07-04,Nashville,101.035,True
+2026-07-04,Miami/Fort Lauderdale,101.13,True
+2026-07-11,Houston,104.0225,True
+2026-07-11,Charlotte,103.5125,True
+2026-07-11,Dallas/Fort Worth,103.8,True
+2026-07-11,Atlanta,103.375,True
+2026-07-11,Raleigh/Durham,104.2875,True
+2026-07-11,Phoenix,100.21,True
+2026-07-11,Orlando,101.0,True
+2026-07-11,Austin,107.11,True
+2026-07-11,Denver,105.5075,True
+2026-07-11,"Washington, DC",101.615,True
+2026-07-11,Tampa,99.6175,True
 2026-07-11,Nashville,100.4975,True
-2026-07-11,Miami/Fort Lauderdale,101.07,True
-2026-07-18,Houston,103.78,False
-2026-07-18,Charlotte,103.93,False
+2026-07-11,Miami/Fort Lauderdale,101.095,True
+2026-07-18,Houston,103.79,False
+2026-07-18,Charlotte,103.92,False
 2026-07-18,Dallas/Fort Worth,103.9,False
-2026-07-18,Atlanta,103.54,False
-2026-07-18,Raleigh/Durham,104.76,False
+2026-07-18,Atlanta,103.56,False
+2026-07-18,Raleigh/Durham,104.82,False
 2026-07-18,Phoenix,100.41,False
 2026-07-18,Orlando,101.29,False
-2026-07-18,Austin,107.86,False
-2026-07-18,Denver,105.51,False
-2026-07-18,Tampa,99.89,False
-2026-07-18,"Washington, DC",102.78,False
-2026-07-18,Nashville,99.95,False
-2026-07-18,Miami/Fort Lauderdale,101.03,False
-2026-07-25,Houston,103.685,True
-2026-07-25,Charlotte,104.1,True
+2026-07-18,Austin,107.87,False
+2026-07-18,Denver,105.5,False
+2026-07-18,"Washington, DC",102.77,False
+2026-07-18,Tampa,99.92,False
+2026-07-18,Nashville,99.96,False
+2026-07-18,Miami/Fort Lauderdale,101.06,False
+2026-07-25,Houston,103.7,True
+2026-07-25,Charlotte,104.09,True
 2026-07-25,Dallas/Fort Worth,104.31,True
-2026-07-25,Atlanta,103.945,True
-2026-07-25,Raleigh/Durham,104.605,True
-2026-07-25,Phoenix,100.765,True
-2026-07-25,Orlando,101.45,True
-2026-07-25,Austin,108.165,True
-2026-07-25,Denver,105.61,True
-2026-07-25,Tampa,100.24,True
-2026-07-25,"Washington, DC",102.65,True
+2026-07-25,Atlanta,103.97,True
+2026-07-25,Raleigh/Durham,104.67,True
+2026-07-25,Phoenix,100.775,True
+2026-07-25,Orlando,101.455,True
+2026-07-25,Austin,108.175,True
+2026-07-25,Denver,105.605,True
+2026-07-25,"Washington, DC",102.645,True
+2026-07-25,Tampa,100.27,True
 2026-07-25,Nashville,100.25,True
-2026-07-25,Miami/Fort Lauderdale,101.62,True
-2026-08-01,Houston,103.59,False
-2026-08-01,Charlotte,104.27,False
+2026-07-25,Miami/Fort Lauderdale,101.645,True
+2026-08-01,Houston,103.61,False
+2026-08-01,Charlotte,104.26,False
 2026-08-01,Dallas/Fort Worth,104.72,False
-2026-08-01,Atlanta,104.35,False
-2026-08-01,Raleigh/Durham,104.45,False
-2026-08-01,Phoenix,101.12,False
-2026-08-01,Orlando,101.61,False
-2026-08-01,Austin,108.47,False
+2026-08-01,Atlanta,104.38,False
+2026-08-01,Raleigh/Durham,104.52,False
+2026-08-01,Phoenix,101.14,False
+2026-08-01,Orlando,101.62,False
+2026-08-01,Austin,108.48,False
 2026-08-01,Denver,105.71,False
-2026-08-01,Tampa,100.59,False
 2026-08-01,"Washington, DC",102.52,False
-2026-08-01,Nashville,100.55,False
-2026-08-01,Miami/Fort Lauderdale,102.21,False
-2026-08-08,Houston,103.23,False
+2026-08-01,Tampa,100.62,False
+2026-08-01,Nashville,100.54,False
+2026-08-01,Miami/Fort Lauderdale,102.23,False
+2026-08-08,Houston,103.25,False
 2026-08-08,Charlotte,104.0,False
-2026-08-08,Dallas/Fort Worth,104.19,False
-2026-08-08,Atlanta,104.39,False
-2026-08-08,Raleigh/Durham,103.81,False
-2026-08-08,Phoenix,100.07,False
+2026-08-08,Dallas/Fort Worth,104.2,False
+2026-08-08,Atlanta,104.42,False
+2026-08-08,Raleigh/Durham,103.88,False
+2026-08-08,Phoenix,100.1,False
 2026-08-08,Orlando,100.97,False
-2026-08-08,Austin,107.59,False
-2026-08-08,Denver,105.24,False
-2026-08-08,Tampa,99.51,False
+2026-08-08,Austin,107.6,False
+2026-08-08,Denver,105.23,False
 2026-08-08,"Washington, DC",103.13,False
-2026-08-08,Nashville,99.93,False
-2026-08-08,Miami/Fort Lauderdale,101.41,False
-2026-08-15,Houston,102.26,False
-2026-08-15,Charlotte,103.55,False
+2026-08-08,Tampa,99.55,False
+2026-08-08,Nashville,99.92,False
+2026-08-08,Miami/Fort Lauderdale,101.44,False
+2026-08-15,Houston,102.28,False
+2026-08-15,Charlotte,103.54,False
 2026-08-15,Dallas/Fort Worth,103.28,False
-2026-08-15,Atlanta,103.8,False
-2026-08-15,Raleigh/Durham,103.14,False
-2026-08-15,Phoenix,100.07,False
-2026-08-15,Orlando,99.63,False
-2026-08-15,Austin,106.96,False
-2026-08-15,Denver,104.67,False
-2026-08-15,Tampa,99.46,False
+2026-08-15,Atlanta,103.82,False
+2026-08-15,Raleigh/Durham,103.21,False
+2026-08-15,Phoenix,100.09,False
+2026-08-15,Orlando,99.64,False
+2026-08-15,Austin,106.97,False
+2026-08-15,Denver,104.68,False
 2026-08-15,"Washington, DC",102.7,False
-2026-08-15,Nashville,99.06,False
-2026-08-15,Miami/Fort Lauderdale,100.35,False
-2026-08-22,Houston,101.9,False
+2026-08-15,Tampa,99.5,False
+2026-08-15,Nashville,99.05,False
+2026-08-15,Miami/Fort Lauderdale,100.39,False
+2026-08-22,Houston,101.93,False
 2026-08-22,Charlotte,103.48,False
 2026-08-22,Dallas/Fort Worth,103.55,False
-2026-08-22,Atlanta,103.6,False
-2026-08-22,Raleigh/Durham,102.91,False
-2026-08-22,Phoenix,99.73,False
+2026-08-22,Atlanta,103.62,False
+2026-08-22,Raleigh/Durham,102.97,False
+2026-08-22,Phoenix,99.75,False
 2026-08-22,Orlando,99.31,False
-2026-08-22,Austin,106.77,False
+2026-08-22,Austin,106.78,False
 2026-08-22,Denver,104.06,False
-2026-08-22,Tampa,99.92,False
-2026-08-22,"Washington, DC",101.78,False
+2026-08-22,"Washington, DC",101.79,False
+2026-08-22,Tampa,99.98,False
 2026-08-22,Nashville,99.22,False
-2026-08-22,Miami/Fort Lauderdale,100.04,False
-2026-08-29,Houston,99.79,False
-2026-08-29,Charlotte,102.33,False
+2026-08-22,Miami/Fort Lauderdale,100.08,False
+2026-08-29,Houston,99.8,False
+2026-08-29,Charlotte,102.31,False
 2026-08-29,Dallas/Fort Worth,101.66,False
-2026-08-29,Atlanta,101.75,False
-2026-08-29,Raleigh/Durham,100.42,False
-2026-08-29,Phoenix,98.69,False
+2026-08-29,Atlanta,101.77,False
+2026-08-29,Raleigh/Durham,100.48,False
+2026-08-29,Phoenix,98.72,False
 2026-08-29,Orlando,97.03,False
-2026-08-29,Austin,102.08,False
+2026-08-29,Austin,102.12,False
 2026-08-29,Denver,101.99,False
-2026-08-29,Tampa,97.64,False
-2026-08-29,"Washington, DC",100.54,False
-2026-08-29,Nashville,97.95,False
-2026-08-29,Miami/Fort Lauderdale,98.91,False
-2026-09-05,Houston,99.62,False
-2026-09-05,Charlotte,101.64,False
+2026-08-29,"Washington, DC",100.56,False
+2026-08-29,Tampa,97.7,False
+2026-08-29,Nashville,97.98,False
+2026-08-29,Miami/Fort Lauderdale,98.97,False
+2026-09-05,Houston,99.64,False
+2026-09-05,Charlotte,101.63,False
 2026-09-05,Dallas/Fort Worth,101.58,False
-2026-09-05,Atlanta,101.17,False
-2026-09-05,Raleigh/Durham,99.74,False
-2026-09-05,Phoenix,99.04,False
-2026-09-05,Orlando,97.28,False
-2026-09-05,Austin,102.39,False
+2026-09-05,Atlanta,101.19,False
+2026-09-05,Raleigh/Durham,99.8,False
+2026-09-05,Phoenix,99.07,False
+2026-09-05,Orlando,97.29,False
+2026-09-05,Austin,102.42,False
 2026-09-05,Denver,102.77,False
-2026-09-05,Tampa,97.57,False
-2026-09-05,"Washington, DC",100.28,False
-2026-09-05,Nashville,97.45,False
-2026-09-05,Miami/Fort Lauderdale,99.08,False
-2026-09-12,Houston,99.81,False
+2026-09-05,"Washington, DC",100.3,False
+2026-09-05,Tampa,97.61,False
+2026-09-05,Nashville,97.46,False
+2026-09-05,Miami/Fort Lauderdale,99.13,False
+2026-09-12,Houston,99.83,False
 2026-09-12,Charlotte,101.44,False
-2026-09-12,Dallas/Fort Worth,101.57,False
-2026-09-12,Atlanta,100.69,False
-2026-09-12,Raleigh/Durham,99.63,False
-2026-09-12,Phoenix,98.53,False
-2026-09-12,Orlando,96.81,False
-2026-09-12,Austin,102.13,False
-2026-09-12,Denver,102.06,False
-2026-09-12,Tampa,97.89,False
-2026-09-12,"Washington, DC",100.96,False
+2026-09-12,Dallas/Fort Worth,101.56,False
+2026-09-12,Atlanta,100.71,False
+2026-09-12,Raleigh/Durham,99.7,False
+2026-09-12,Phoenix,98.56,False
+2026-09-12,Orlando,96.82,False
+2026-09-12,Austin,102.17,False
+2026-09-12,Denver,102.05,False
+2026-09-12,"Washington, DC",101.0,False
+2026-09-12,Tampa,97.93,False
 2026-09-12,Nashville,97.8,False
-2026-09-12,Miami/Fort Lauderdale,98.92,False
-2026-09-19,Houston,101.61,False
-2026-09-19,Charlotte,101.64,False
-2026-09-19,Dallas/Fort Worth,102.89,False
-2026-09-19,Atlanta,101.99,False
-2026-09-19,Raleigh/Durham,100.52,False
-2026-09-19,Phoenix,100.19,False
-2026-09-19,Orlando,97.74,False
-2026-09-19,Austin,103.26,False
-2026-09-19,Denver,103.96,False
-2026-09-19,Tampa,99.0,False
-2026-09-19,"Washington, DC",102.25,False
+2026-09-12,Miami/Fort Lauderdale,98.98,False
+2026-09-19,Houston,101.64,False
+2026-09-19,Charlotte,101.63,False
+2026-09-19,Dallas/Fort Worth,102.9,False
+2026-09-19,Atlanta,102.01,False
+2026-09-19,Raleigh/Durham,100.58,False
+2026-09-19,Phoenix,100.23,False
+2026-09-19,Orlando,97.75,False
+2026-09-19,Austin,103.3,False
+2026-09-19,Denver,103.95,False
+2026-09-19,"Washington, DC",102.31,False
+2026-09-19,Tampa,99.05,False
 2026-09-19,Nashville,98.58,False
-2026-09-19,Miami/Fort Lauderdale,100.06,False
-2026-09-26,Houston,101.51,False
-2026-09-26,Charlotte,101.58,False
+2026-09-19,Miami/Fort Lauderdale,100.12,False
+2026-09-26,Houston,101.54,False
+2026-09-26,Charlotte,101.57,False
 2026-09-26,Dallas/Fort Worth,103.85,False
-2026-09-26,Atlanta,102.7,False
-2026-09-26,Raleigh/Durham,99.86,False
-2026-09-26,Phoenix,101.02,False
-2026-09-26,Orlando,99.22,False
-2026-09-26,Austin,102.88,False
+2026-09-26,Atlanta,102.72,False
+2026-09-26,Raleigh/Durham,99.93,False
+2026-09-26,Phoenix,101.06,False
+2026-09-26,Orlando,99.23,False
+2026-09-26,Austin,102.92,False
 2026-09-26,Denver,102.62,False
-2026-09-26,Tampa,99.04,False
-2026-09-26,"Washington, DC",101.06,False
-2026-09-26,Nashville,99.11,False
-2026-09-26,Miami/Fort Lauderdale,100.83,False
-2026-10-03,Houston,100.76,True
-2026-10-03,Charlotte,101.185,True
+2026-09-26,"Washington, DC",101.1,False
+2026-09-26,Tampa,99.1,False
+2026-09-26,Nashville,99.12,False
+2026-09-26,Miami/Fort Lauderdale,100.9,False
+2026-10-03,Houston,100.79,True
+2026-10-03,Charlotte,101.17,True
 2026-10-03,Dallas/Fort Worth,103.025,True
-2026-10-03,Atlanta,101.84,True
-2026-10-03,Raleigh/Durham,99.62,True
-2026-10-03,Phoenix,101.31,True
-2026-10-03,Orlando,99.105,True
-2026-10-03,Austin,102.15,True
-2026-10-03,Denver,101.575,True
-2026-10-03,Tampa,98.77,True
-2026-10-03,"Washington, DC",100.7,True
-2026-10-03,Nashville,97.87,True
-2026-10-03,Miami/Fort Lauderdale,100.815,True
-2026-10-10,Houston,100.01,False
-2026-10-10,Charlotte,100.79,False
+2026-10-03,Atlanta,101.86,True
+2026-10-03,Raleigh/Durham,99.69,True
+2026-10-03,Phoenix,101.345,True
+2026-10-03,Orlando,99.115,True
+2026-10-03,Austin,102.185,True
+2026-10-03,Denver,101.59,True
+2026-10-03,"Washington, DC",100.74,True
+2026-10-03,Tampa,98.835,True
+2026-10-03,Nashville,97.885,True
+2026-10-03,Miami/Fort Lauderdale,100.88,True
+2026-10-10,Houston,100.04,False
+2026-10-10,Charlotte,100.77,False
 2026-10-10,Dallas/Fort Worth,102.2,False
-2026-10-10,Atlanta,100.98,False
-2026-10-10,Raleigh/Durham,99.38,False
-2026-10-10,Phoenix,101.6,False
-2026-10-10,Orlando,98.99,False
-2026-10-10,Austin,101.42,False
-2026-10-10,Denver,100.53,False
-2026-10-10,Tampa,98.5,False
-2026-10-10,"Washington, DC",100.34,False
-2026-10-10,Nashville,96.63,False
-2026-10-10,Miami/Fort Lauderdale,100.8,False
-2026-10-17,Houston,99.83,False
-2026-10-17,Charlotte,100.45,False
+2026-10-10,Atlanta,101.0,False
+2026-10-10,Raleigh/Durham,99.45,False
+2026-10-10,Phoenix,101.63,False
+2026-10-10,Orlando,99.0,False
+2026-10-10,Austin,101.45,False
+2026-10-10,Denver,100.56,False
+2026-10-10,"Washington, DC",100.38,False
+2026-10-10,Tampa,98.57,False
+2026-10-10,Nashville,96.65,False
+2026-10-10,Miami/Fort Lauderdale,100.86,False
+2026-10-17,Houston,99.86,False
+2026-10-17,Charlotte,100.43,False
 2026-10-17,Dallas/Fort Worth,101.51,False
-2026-10-17,Atlanta,100.22,False
-2026-10-17,Raleigh/Durham,97.41,False
-2026-10-17,Phoenix,100.9,False
-2026-10-17,Orlando,98.54,False
-2026-10-17,Austin,101.07,False
-2026-10-17,Denver,99.38,False
-2026-10-17,Tampa,98.95,False
-2026-10-17,"Washington, DC",99.97,False
-2026-10-17,Nashville,97.1,False
-2026-10-17,Miami/Fort Lauderdale,100.46,False
+2026-10-17,Atlanta,100.24,False
+2026-10-17,Raleigh/Durham,97.48,False
+2026-10-17,Phoenix,100.93,False
+2026-10-17,Orlando,98.55,False
+2026-10-17,Austin,101.1,False
+2026-10-17,Denver,99.39,False
+2026-10-17,"Washington, DC",100.01,False
+2026-10-17,Tampa,99.01,False
+2026-10-17,Nashville,97.12,False
+2026-10-17,Miami/Fort Lauderdale,100.53,False
+2026-10-24,Houston,99.8,False
+2026-10-24,Charlotte,100.25,False
+2026-10-24,Dallas/Fort Worth,101.36,False
+2026-10-24,Atlanta,99.6,False
+2026-10-24,Raleigh/Durham,98.24,False
+2026-10-24,Phoenix,100.66,False
+2026-10-24,Orlando,98.16,False
+2026-10-24,Austin,99.98,False
+2026-10-24,Denver,98.31,False
+2026-10-24,"Washington, DC",99.9,False
+2026-10-24,Tampa,100.2,False
+2026-10-24,Nashville,96.73,False
+2026-10-24,Miami/Fort Lauderdale,100.55,False

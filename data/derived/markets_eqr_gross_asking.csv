@@ -1,390 +1,403 @@
 date,series,value,interpolated
-2026-03-28,"Washington, DC",100.0,False
 2026-03-28,Los Angeles,100.0,False
-2026-03-28,Seattle,100.0,False
+2026-03-28,"Washington, DC",100.0,False
 2026-03-28,San Francisco,100.0,False
+2026-03-28,Seattle,100.0,False
 2026-03-28,Boston,100.0,False
-2026-03-28,Dallas/Fort Worth,100.0,False
 2026-03-28,New York,100.0,False
+2026-03-28,Dallas/Fort Worth,100.0,False
 2026-03-28,Denver,100.0,False
 2026-03-28,Orange County,100.0,False
 2026-03-28,San Diego,100.0,False
 2026-03-28,Inland Empire,100.0,False
 2026-03-28,Austin,100.0,False
+2026-04-04,Los Angeles,99.82,False
 2026-04-04,"Washington, DC",99.97,False
-2026-04-04,Los Angeles,99.83,False
-2026-04-04,Seattle,100.68,False
-2026-04-04,San Francisco,100.03,False
 2026-04-04,Atlanta,100.0,False
-2026-04-04,Boston,99.74,False
-2026-04-04,Dallas/Fort Worth,103.03,False
+2026-04-04,San Francisco,100.03,False
+2026-04-04,Seattle,100.68,False
+2026-04-04,Boston,99.73,False
 2026-04-04,New York,100.34,False
-2026-04-04,Denver,100.92,False
+2026-04-04,Dallas/Fort Worth,103.07,False
+2026-04-04,Denver,100.93,False
 2026-04-04,Orange County,99.25,False
-2026-04-04,San Diego,99.83,False
+2026-04-04,San Diego,99.82,False
 2026-04-04,Inland Empire,100.8,False
-2026-04-04,Austin,101.29,False
-2026-04-11,"Washington, DC",100.1,False
-2026-04-11,Los Angeles,98.43,False
-2026-04-11,Seattle,102.34,False
-2026-04-11,San Francisco,100.71,False
+2026-04-04,Austin,101.27,False
+2026-04-11,Los Angeles,98.42,False
+2026-04-11,"Washington, DC",100.11,False
 2026-04-11,Atlanta,99.76,False
+2026-04-11,San Francisco,100.72,False
+2026-04-11,Seattle,102.34,False
 2026-04-11,Boston,100.91,False
-2026-04-11,Dallas/Fort Worth,103.54,False
 2026-04-11,New York,100.32,False
-2026-04-11,Denver,100.38,False
-2026-04-11,Orange County,99.21,False
-2026-04-11,San Diego,100.71,False
-2026-04-11,Inland Empire,99.69,False
-2026-04-11,Austin,101.91,False
-2026-04-18,"Washington, DC",100.12,False
-2026-04-18,Los Angeles,98.43,False
-2026-04-18,Seattle,102.39,False
-2026-04-18,San Francisco,102.06,False
+2026-04-11,Dallas/Fort Worth,103.58,False
+2026-04-11,Denver,100.39,False
+2026-04-11,Orange County,99.22,False
+2026-04-11,San Diego,100.73,False
+2026-04-11,Inland Empire,99.71,False
+2026-04-11,Austin,101.88,False
+2026-04-18,Los Angeles,98.42,False
+2026-04-18,"Washington, DC",100.13,False
 2026-04-18,Atlanta,100.21,False
+2026-04-18,San Francisco,102.06,False
+2026-04-18,Seattle,102.39,False
 2026-04-18,Boston,101.64,False
-2026-04-18,Dallas/Fort Worth,103.94,False
 2026-04-18,New York,101.11,False
-2026-04-18,Denver,100.49,False
+2026-04-18,Dallas/Fort Worth,103.98,False
+2026-04-18,Denver,100.5,False
 2026-04-18,Orange County,98.58,False
-2026-04-18,San Diego,100.99,False
-2026-04-18,Inland Empire,99.75,False
-2026-04-18,Austin,102.91,False
+2026-04-18,San Diego,101.01,False
+2026-04-18,Inland Empire,99.78,False
+2026-04-18,Austin,102.88,False
+2026-04-25,Los Angeles,98.94,False
 2026-04-25,"Washington, DC",100.17,False
-2026-04-25,Los Angeles,98.95,False
-2026-04-25,Seattle,102.83,False
-2026-04-25,San Francisco,102.17,False
 2026-04-25,Atlanta,100.58,False
+2026-04-25,San Francisco,102.18,False
+2026-04-25,Seattle,102.84,False
 2026-04-25,Boston,102.17,False
-2026-04-25,Dallas/Fort Worth,103.25,False
 2026-04-25,New York,100.85,False
-2026-04-25,Denver,100.69,False
+2026-04-25,Dallas/Fort Worth,103.28,False
+2026-04-25,Denver,100.71,False
 2026-04-25,Orange County,98.17,False
-2026-04-25,San Diego,101.56,False
-2026-04-25,Inland Empire,101.33,False
+2026-04-25,San Diego,101.59,False
+2026-04-25,Inland Empire,101.35,False
 2026-04-25,Austin,103.25,False
-2026-05-02,"Washington, DC",100.26,False
-2026-05-02,Los Angeles,99.14,False
-2026-05-02,Seattle,103.34,False
-2026-05-02,San Francisco,102.41,False
-2026-05-02,Atlanta,99.82,False
-2026-05-02,Boston,103.29,False
-2026-05-02,Dallas/Fort Worth,103.36,False
+2026-05-02,Los Angeles,99.13,False
+2026-05-02,"Washington, DC",100.27,False
+2026-05-02,Atlanta,99.8,False
+2026-05-02,San Francisco,102.42,False
+2026-05-02,Seattle,103.44,False
+2026-05-02,Boston,103.31,False
 2026-05-02,New York,100.86,False
-2026-05-02,Denver,100.09,False
-2026-05-02,Orange County,98.57,False
-2026-05-02,San Diego,101.75,False
-2026-05-02,Inland Empire,101.25,False
-2026-05-02,Austin,102.79,False
+2026-05-02,Dallas/Fort Worth,103.4,False
+2026-05-02,Denver,100.12,False
+2026-05-02,Orange County,98.58,False
+2026-05-02,San Diego,101.78,False
+2026-05-02,Inland Empire,101.27,False
+2026-05-02,Austin,102.78,False
+2026-05-09,Los Angeles,98.74,False
 2026-05-09,"Washington, DC",100.03,False
-2026-05-09,Los Angeles,98.75,False
-2026-05-09,Seattle,103.03,False
-2026-05-09,San Francisco,102.91,False
-2026-05-09,Atlanta,99.41,False
-2026-05-09,Boston,102.91,False
-2026-05-09,Dallas/Fort Worth,100.99,False
+2026-05-09,Atlanta,99.39,False
+2026-05-09,San Francisco,102.92,False
+2026-05-09,Seattle,103.04,False
+2026-05-09,Boston,102.94,False
 2026-05-09,New York,101.02,False
-2026-05-09,Denver,100.45,False
+2026-05-09,Dallas/Fort Worth,101.02,False
+2026-05-09,Denver,100.46,False
 2026-05-09,Orange County,99.46,False
-2026-05-09,San Diego,101.62,False
-2026-05-09,Inland Empire,101.42,False
-2026-05-09,Austin,102.32,False
-2026-05-16,"Washington, DC",100.46,False
-2026-05-16,Los Angeles,99.05,False
+2026-05-09,San Diego,101.68,False
+2026-05-09,Inland Empire,101.43,False
+2026-05-09,Austin,102.31,False
+2026-05-16,Los Angeles,99.04,False
+2026-05-16,"Washington, DC",100.47,False
+2026-05-16,Atlanta,99.87,False
+2026-05-16,San Francisco,103.51,False
 2026-05-16,Seattle,102.92,False
-2026-05-16,San Francisco,103.49,False
-2026-05-16,Atlanta,99.9,False
-2026-05-16,Boston,103.34,False
-2026-05-16,Dallas/Fort Worth,101.95,False
-2026-05-16,New York,101.23,False
-2026-05-16,Denver,99.82,False
-2026-05-16,Orange County,100.6,False
-2026-05-16,San Diego,102.26,False
+2026-05-16,Boston,103.36,False
+2026-05-16,New York,101.22,False
+2026-05-16,Dallas/Fort Worth,101.98,False
+2026-05-16,Denver,99.84,False
+2026-05-16,Orange County,100.59,False
+2026-05-16,San Diego,102.31,False
 2026-05-16,Inland Empire,101.19,False
-2026-05-16,Austin,102.21,False
-2026-05-23,"Washington, DC",100.26,False
+2026-05-16,Austin,102.22,False
 2026-05-23,Los Angeles,99.27,False
-2026-05-23,Seattle,102.94,False
-2026-05-23,San Francisco,103.35,False
-2026-05-23,Atlanta,99.93,False
-2026-05-23,Boston,104.39,False
-2026-05-23,Dallas/Fort Worth,103.03,False
+2026-05-23,"Washington, DC",100.27,False
+2026-05-23,Atlanta,99.91,False
+2026-05-23,San Francisco,103.37,False
+2026-05-23,Seattle,102.93,False
+2026-05-23,Boston,104.41,False
 2026-05-23,New York,102.09,False
-2026-05-23,Denver,101.7,False
+2026-05-23,Dallas/Fort Worth,103.05,False
+2026-05-23,Denver,101.72,False
 2026-05-23,Orange County,101.22,False
-2026-05-23,San Diego,102.5,False
-2026-05-23,Inland Empire,101.76,False
-2026-05-23,Austin,103.95,False
-2026-05-30,"Washington, DC",99.76,False
-2026-05-30,Los Angeles,99.27,False
+2026-05-23,San Diego,102.51,False
+2026-05-23,Inland Empire,101.77,False
+2026-05-23,Austin,103.99,False
+2026-05-30,Los Angeles,99.26,False
+2026-05-30,"Washington, DC",99.77,False
+2026-05-30,Atlanta,100.08,False
+2026-05-30,San Francisco,103.89,False
 2026-05-30,Seattle,103.03,False
-2026-05-30,San Francisco,103.87,False
-2026-05-30,Atlanta,100.1,False
-2026-05-30,Boston,103.65,False
-2026-05-30,Dallas/Fort Worth,102.71,False
+2026-05-30,Boston,103.68,False
 2026-05-30,New York,102.62,False
-2026-05-30,Denver,101.06,False
-2026-05-30,Orange County,101.46,False
-2026-05-30,San Diego,103.34,False
-2026-05-30,Inland Empire,103.17,False
-2026-05-30,Austin,104.18,False
-2026-06-06,"Washington, DC",100.64,False
+2026-05-30,Dallas/Fort Worth,102.74,False
+2026-05-30,Denver,101.08,False
+2026-05-30,Orange County,101.47,False
+2026-05-30,San Diego,103.32,False
+2026-05-30,Inland Empire,103.16,False
+2026-05-30,Austin,104.21,False
 2026-06-06,Los Angeles,99.36,False
-2026-06-06,Seattle,103.43,False
-2026-06-06,San Francisco,104.68,False
-2026-06-06,Atlanta,100.72,False
-2026-06-06,Boston,103.3,False
-2026-06-06,Dallas/Fort Worth,103.32,False
+2026-06-06,"Washington, DC",100.66,False
+2026-06-06,Atlanta,100.7,False
+2026-06-06,San Francisco,104.7,False
+2026-06-06,Seattle,103.42,False
+2026-06-06,Boston,103.32,False
 2026-06-06,New York,103.0,False
-2026-06-06,Denver,100.93,False
-2026-06-06,Orange County,101.62,False
-2026-06-06,San Diego,103.37,False
-2026-06-06,Inland Empire,101.4,False
-2026-06-06,Austin,101.69,False
-2026-06-13,"Washington, DC",100.03,False
-2026-06-13,Los Angeles,99.21,False
-2026-06-13,Seattle,103.21,False
-2026-06-13,San Francisco,104.08,False
-2026-06-13,Atlanta,100.28,False
-2026-06-13,Boston,103.44,False
-2026-06-13,Dallas/Fort Worth,102.89,False
+2026-06-06,Dallas/Fort Worth,103.34,False
+2026-06-06,Denver,100.97,False
+2026-06-06,Orange County,101.63,False
+2026-06-06,San Diego,103.38,False
+2026-06-06,Inland Empire,101.41,False
+2026-06-06,Austin,101.72,False
+2026-06-13,Los Angeles,99.22,False
+2026-06-13,"Washington, DC",100.04,False
+2026-06-13,Atlanta,100.26,False
+2026-06-13,San Francisco,104.1,False
+2026-06-13,Seattle,103.19,False
+2026-06-13,Boston,103.46,False
 2026-06-13,New York,103.19,False
-2026-06-13,Denver,99.79,False
-2026-06-13,Orange County,101.64,False
-2026-06-13,San Diego,103.22,False
-2026-06-13,Inland Empire,101.1,False
+2026-06-13,Dallas/Fort Worth,102.91,False
+2026-06-13,Denver,99.85,False
+2026-06-13,Orange County,101.65,False
+2026-06-13,San Diego,103.23,False
+2026-06-13,Inland Empire,101.11,False
 2026-06-13,Austin,104.08,False
-2026-06-20,"Washington, DC",100.52,False
-2026-06-20,Los Angeles,99.41,False
-2026-06-20,Seattle,103.41,False
-2026-06-20,San Francisco,105.17,False
-2026-06-20,Atlanta,100.57,False
-2026-06-20,Boston,103.39,False
-2026-06-20,Dallas/Fort Worth,104.56,False
+2026-06-20,Los Angeles,99.42,False
+2026-06-20,"Washington, DC",100.53,False
+2026-06-20,Atlanta,100.55,False
+2026-06-20,San Francisco,105.21,False
+2026-06-20,Seattle,103.39,False
+2026-06-20,Boston,103.41,False
 2026-06-20,New York,103.47,False
-2026-06-20,Denver,101.21,False
+2026-06-20,Dallas/Fort Worth,104.58,False
+2026-06-20,Denver,101.26,False
 2026-06-20,Orange County,101.43,False
-2026-06-20,San Diego,103.08,False
-2026-06-20,Inland Empire,102.42,False
-2026-06-20,Austin,103.77,False
-2026-06-27,"Washington, DC",100.83,True
-2026-06-27,Los Angeles,99.5925,True
-2026-06-27,Seattle,103.7225,True
-2026-06-27,San Francisco,105.8375,True
-2026-06-27,Atlanta,100.6425,True
-2026-06-27,Boston,103.5675,True
-2026-06-27,Dallas/Fort Worth,104.26,True
-2026-06-27,New York,103.575,True
-2026-06-27,Denver,100.76,True
+2026-06-20,San Diego,103.09,False
+2026-06-20,Inland Empire,102.43,False
+2026-06-20,Austin,103.78,False
+2026-06-27,Los Angeles,99.6075,True
+2026-06-27,"Washington, DC",100.8425,True
+2026-06-27,Atlanta,100.625,True
+2026-06-27,San Francisco,105.8725,True
+2026-06-27,Seattle,103.71,True
+2026-06-27,Boston,103.5875,True
+2026-06-27,New York,103.58,True
+2026-06-27,Dallas/Fort Worth,104.2825,True
+2026-06-27,Denver,100.8075,True
 2026-06-27,Orange County,101.5275,True
-2026-06-27,San Diego,103.465,True
-2026-06-27,Inland Empire,102.8325,True
-2026-06-27,Austin,104.9225,True
-2026-07-04,"Washington, DC",101.14,True
-2026-07-04,Los Angeles,99.775,True
-2026-07-04,Seattle,104.035,True
-2026-07-04,San Francisco,106.505,True
-2026-07-04,Atlanta,100.715,True
-2026-07-04,Boston,103.745,True
-2026-07-04,Dallas/Fort Worth,103.96,True
-2026-07-04,New York,103.68,True
-2026-07-04,Denver,100.31,True
+2026-06-27,San Diego,103.475,True
+2026-06-27,Inland Empire,102.8425,True
+2026-06-27,Austin,104.9475,True
+2026-07-04,Los Angeles,99.795,True
+2026-07-04,"Washington, DC",101.155,True
+2026-07-04,Atlanta,100.7,True
+2026-07-04,San Francisco,106.535,True
+2026-07-04,Seattle,104.03,True
+2026-07-04,Boston,103.765,True
+2026-07-04,New York,103.69,True
+2026-07-04,Dallas/Fort Worth,103.985,True
+2026-07-04,Denver,100.355,True
 2026-07-04,Orange County,101.625,True
-2026-07-04,San Diego,103.85,True
-2026-07-04,Inland Empire,103.245,True
-2026-07-04,Austin,106.075,True
-2026-07-11,"Washington, DC",101.45,True
-2026-07-11,Los Angeles,99.9575,True
-2026-07-11,Seattle,104.3475,True
-2026-07-11,San Francisco,107.1725,True
-2026-07-11,Atlanta,100.7875,True
-2026-07-11,Boston,103.9225,True
-2026-07-11,Dallas/Fort Worth,103.66,True
-2026-07-11,New York,103.785,True
-2026-07-11,Denver,99.86,True
+2026-07-04,San Diego,103.86,True
+2026-07-04,Inland Empire,103.255,True
+2026-07-04,Austin,106.115,True
+2026-07-11,Los Angeles,99.9825,True
+2026-07-11,"Washington, DC",101.4675,True
+2026-07-11,Atlanta,100.775,True
+2026-07-11,San Francisco,107.1975,True
+2026-07-11,Seattle,104.35,True
+2026-07-11,Boston,103.9425,True
+2026-07-11,New York,103.8,True
+2026-07-11,Dallas/Fort Worth,103.6875,True
+2026-07-11,Denver,99.9025,True
 2026-07-11,Orange County,101.7225,True
-2026-07-11,San Diego,104.235,True
-2026-07-11,Inland Empire,103.6575,True
-2026-07-11,Austin,107.2275,True
-2026-07-18,"Washington, DC",101.76,False
-2026-07-18,Los Angeles,100.14,False
-2026-07-18,Seattle,104.66,False
-2026-07-18,San Francisco,107.84,False
-2026-07-18,Atlanta,100.86,False
-2026-07-18,Boston,104.1,False
-2026-07-18,Dallas/Fort Worth,103.36,False
-2026-07-18,New York,103.89,False
-2026-07-18,Denver,99.41,False
+2026-07-11,San Diego,104.245,True
+2026-07-11,Inland Empire,103.6675,True
+2026-07-11,Austin,107.2825,True
+2026-07-18,Los Angeles,100.17,False
+2026-07-18,"Washington, DC",101.78,False
+2026-07-18,Atlanta,100.85,False
+2026-07-18,San Francisco,107.86,False
+2026-07-18,Seattle,104.67,False
+2026-07-18,Boston,104.12,False
+2026-07-18,New York,103.91,False
+2026-07-18,Dallas/Fort Worth,103.39,False
+2026-07-18,Denver,99.45,False
 2026-07-18,Orange County,101.82,False
-2026-07-18,San Diego,104.62,False
-2026-07-18,Inland Empire,104.07,False
-2026-07-18,Austin,108.38,False
-2026-07-25,"Washington, DC",101.715,True
-2026-07-25,Los Angeles,100.32,True
-2026-07-25,Seattle,104.875,True
-2026-07-25,San Francisco,107.94,True
-2026-07-25,Atlanta,100.715,True
-2026-07-25,Boston,103.51,True
-2026-07-25,Dallas/Fort Worth,103.73,True
-2026-07-25,New York,104.07,True
-2026-07-25,Denver,98.975,True
+2026-07-18,San Diego,104.63,False
+2026-07-18,Inland Empire,104.08,False
+2026-07-18,Austin,108.45,False
+2026-07-25,Los Angeles,100.35,True
+2026-07-25,"Washington, DC",101.735,True
+2026-07-25,Atlanta,100.705,True
+2026-07-25,San Francisco,107.96,True
+2026-07-25,Seattle,104.885,True
+2026-07-25,Boston,103.525,True
+2026-07-25,New York,104.085,True
+2026-07-25,Dallas/Fort Worth,103.765,True
+2026-07-25,Denver,99.02,True
 2026-07-25,Orange County,101.84,True
-2026-07-25,San Diego,105.18,True
-2026-07-25,Inland Empire,104.22,True
-2026-07-25,Austin,107.615,True
-2026-08-01,"Washington, DC",101.67,False
-2026-08-01,Los Angeles,100.5,False
-2026-08-01,Seattle,105.09,False
-2026-08-01,San Francisco,108.04,False
-2026-08-01,Atlanta,100.57,False
-2026-08-01,Boston,102.92,False
-2026-08-01,Dallas/Fort Worth,104.1,False
-2026-08-01,New York,104.25,False
-2026-08-01,Denver,98.54,False
+2026-07-25,San Diego,105.17,True
+2026-07-25,Inland Empire,104.23,True
+2026-07-25,Austin,107.685,True
+2026-08-01,Los Angeles,100.53,False
+2026-08-01,"Washington, DC",101.69,False
+2026-08-01,Atlanta,100.56,False
+2026-08-01,San Francisco,108.06,False
+2026-08-01,Seattle,105.1,False
+2026-08-01,Boston,102.93,False
+2026-08-01,New York,104.26,False
+2026-08-01,Dallas/Fort Worth,104.14,False
+2026-08-01,Denver,98.59,False
 2026-08-01,Orange County,101.86,False
-2026-08-01,San Diego,105.74,False
-2026-08-01,Inland Empire,104.37,False
-2026-08-01,Austin,106.85,False
-2026-08-08,"Washington, DC",101.5,False
-2026-08-08,Los Angeles,100.05,False
-2026-08-08,Seattle,104.95,False
-2026-08-08,San Francisco,108.27,False
+2026-08-01,San Diego,105.71,False
+2026-08-01,Inland Empire,104.38,False
+2026-08-01,Austin,106.92,False
+2026-08-08,Los Angeles,100.08,False
+2026-08-08,"Washington, DC",101.52,False
 2026-08-08,Atlanta,100.27,False
-2026-08-08,Boston,101.72,False
-2026-08-08,Dallas/Fort Worth,104.52,False
-2026-08-08,New York,104.86,False
-2026-08-08,Denver,98.88,False
+2026-08-08,San Francisco,108.3,False
+2026-08-08,Seattle,104.97,False
+2026-08-08,Boston,101.73,False
+2026-08-08,New York,104.9,False
+2026-08-08,Dallas/Fort Worth,104.56,False
+2026-08-08,Denver,98.95,False
 2026-08-08,Orange County,101.46,False
-2026-08-08,San Diego,104.88,False
+2026-08-08,San Diego,104.9,False
 2026-08-08,Inland Empire,104.0,False
-2026-08-08,Austin,107.22,False
-2026-08-15,"Washington, DC",101.78,False
-2026-08-15,Los Angeles,100.24,False
-2026-08-15,Seattle,105.39,False
-2026-08-15,San Francisco,107.31,False
+2026-08-08,Austin,107.29,False
+2026-08-15,Los Angeles,100.27,False
+2026-08-15,"Washington, DC",101.8,False
 2026-08-15,Atlanta,99.79,False
-2026-08-15,Boston,101.49,False
-2026-08-15,Dallas/Fort Worth,104.49,False
-2026-08-15,New York,104.71,False
-2026-08-15,Denver,99.74,False
+2026-08-15,San Francisco,107.36,False
+2026-08-15,Seattle,105.41,False
+2026-08-15,Boston,101.5,False
+2026-08-15,New York,104.73,False
+2026-08-15,Dallas/Fort Worth,104.54,False
+2026-08-15,Denver,99.81,False
 2026-08-15,Orange County,101.3,False
-2026-08-15,San Diego,104.78,False
-2026-08-15,Inland Empire,103.35,False
-2026-08-15,Austin,107.53,False
-2026-08-22,"Washington, DC",101.12,False
-2026-08-22,Los Angeles,100.35,False
-2026-08-22,Seattle,105.14,False
-2026-08-22,San Francisco,106.74,False
-2026-08-22,Atlanta,99.58,False
-2026-08-22,Boston,101.83,False
-2026-08-22,Dallas/Fort Worth,104.16,False
-2026-08-22,New York,104.38,False
-2026-08-22,Denver,98.48,False
-2026-08-22,Orange County,100.19,False
-2026-08-22,San Diego,104.27,False
-2026-08-22,Inland Empire,103.14,False
-2026-08-22,Austin,107.38,False
-2026-08-29,"Washington, DC",100.77,False
-2026-08-29,Los Angeles,100.75,False
-2026-08-29,Seattle,105.21,False
-2026-08-29,San Francisco,107.13,False
-2026-08-29,Atlanta,100.01,False
-2026-08-29,Boston,101.7,False
-2026-08-29,Dallas/Fort Worth,103.29,False
-2026-08-29,New York,102.86,False
-2026-08-29,Denver,98.2,False
-2026-08-29,Orange County,100.13,False
-2026-08-29,San Diego,104.61,False
-2026-08-29,Inland Empire,102.82,False
-2026-08-29,Austin,108.39,False
-2026-09-05,"Washington, DC",100.26,False
-2026-09-05,Los Angeles,100.86,False
-2026-09-05,Seattle,104.98,False
-2026-09-05,San Francisco,106.84,False
-2026-09-05,Atlanta,99.21,False
-2026-09-05,Boston,100.65,False
-2026-09-05,Dallas/Fort Worth,103.28,False
-2026-09-05,New York,102.85,False
-2026-09-05,Denver,96.83,False
-2026-09-05,Orange County,101.74,False
-2026-09-05,San Diego,104.2,False
-2026-09-05,Inland Empire,103.12,False
-2026-09-05,Austin,108.99,False
-2026-09-12,"Washington, DC",99.83,True
-2026-09-12,Los Angeles,101.385,True
-2026-09-12,Seattle,104.99,True
-2026-09-12,San Francisco,106.56,True
-2026-09-12,Atlanta,98.91,True
-2026-09-12,Boston,99.76,True
-2026-09-12,Dallas/Fort Worth,103.23,True
-2026-09-12,New York,102.785,True
-2026-09-12,Denver,96.435,True
-2026-09-12,Orange County,101.75,True
-2026-09-12,San Diego,103.73,True
-2026-09-12,Inland Empire,103.675,True
-2026-09-12,Austin,107.14,True
-2026-09-19,"Washington, DC",99.4,False
-2026-09-19,Los Angeles,101.91,False
-2026-09-19,Seattle,105.0,False
-2026-09-19,San Francisco,106.28,False
-2026-09-19,Atlanta,98.61,False
-2026-09-19,Boston,98.87,False
-2026-09-19,Dallas/Fort Worth,103.18,False
-2026-09-19,New York,102.72,False
-2026-09-19,Denver,96.04,False
-2026-09-19,Orange County,101.76,False
-2026-09-19,San Diego,103.26,False
-2026-09-19,Inland Empire,104.23,False
-2026-09-19,Austin,105.29,False
-2026-09-26,"Washington, DC",98.67,False
-2026-09-26,Los Angeles,102.01,False
-2026-09-26,Seattle,104.36,False
-2026-09-26,San Francisco,105.72,False
-2026-09-26,Atlanta,98.25,False
-2026-09-26,Boston,95.97,False
-2026-09-26,Dallas/Fort Worth,103.02,False
-2026-09-26,New York,103.09,False
-2026-09-26,Denver,95.15,False
-2026-09-26,Orange County,102.47,False
-2026-09-26,San Diego,102.24,False
-2026-09-26,Inland Empire,104.12,False
-2026-09-26,Austin,104.22,False
-2026-10-03,"Washington, DC",98.655,True
-2026-10-03,Los Angeles,101.475,True
-2026-10-03,Seattle,104.21,True
-2026-10-03,San Francisco,105.34,True
-2026-10-03,Atlanta,98.31,True
-2026-10-03,Boston,95.535,True
-2026-10-03,Dallas/Fort Worth,102.87,True
-2026-10-03,New York,103.155,True
-2026-10-03,Denver,94.73,True
-2026-10-03,Orange County,102.22,True
-2026-10-03,San Diego,101.1,True
-2026-10-03,Inland Empire,102.97,True
-2026-10-03,Austin,103.905,True
-2026-10-10,"Washington, DC",98.64,False
-2026-10-10,Los Angeles,100.94,False
-2026-10-10,Seattle,104.06,False
-2026-10-10,San Francisco,104.96,False
-2026-10-10,Atlanta,98.37,False
-2026-10-10,Boston,95.1,False
-2026-10-10,Dallas/Fort Worth,102.72,False
-2026-10-10,New York,103.22,False
-2026-10-10,Denver,94.31,False
-2026-10-10,Orange County,101.97,False
-2026-10-10,San Diego,99.96,False
-2026-10-10,Inland Empire,101.82,False
-2026-10-10,Austin,103.59,False
-2026-10-17,"Washington, DC",98.19,False
-2026-10-17,Los Angeles,100.08,False
-2026-10-17,Seattle,102.74,False
-2026-10-17,San Francisco,104.42,False
+2026-08-15,San Diego,104.8,False
+2026-08-15,Inland Empire,103.36,False
+2026-08-15,Austin,107.57,False
+2026-08-22,Los Angeles,100.43,False
+2026-08-22,"Washington, DC",101.15,False
+2026-08-22,Atlanta,99.59,False
+2026-08-22,San Francisco,106.78,False
+2026-08-22,Seattle,105.16,False
+2026-08-22,Boston,101.85,False
+2026-08-22,New York,104.42,False
+2026-08-22,Dallas/Fort Worth,104.21,False
+2026-08-22,Denver,98.59,False
+2026-08-22,Orange County,100.25,False
+2026-08-22,San Diego,104.28,False
+2026-08-22,Inland Empire,103.15,False
+2026-08-22,Austin,107.43,False
+2026-08-29,Los Angeles,100.83,False
+2026-08-29,"Washington, DC",100.8,False
+2026-08-29,Atlanta,100.02,False
+2026-08-29,San Francisco,107.18,False
+2026-08-29,Seattle,105.23,False
+2026-08-29,Boston,101.73,False
+2026-08-29,New York,102.9,False
+2026-08-29,Dallas/Fort Worth,103.34,False
+2026-08-29,Denver,98.31,False
+2026-08-29,Orange County,100.2,False
+2026-08-29,San Diego,104.67,False
+2026-08-29,Inland Empire,102.85,False
+2026-08-29,Austin,108.5,False
+2026-09-05,Los Angeles,100.95,False
+2026-09-05,"Washington, DC",100.29,False
+2026-09-05,Atlanta,99.22,False
+2026-09-05,San Francisco,106.88,False
+2026-09-05,Seattle,105.0,False
+2026-09-05,Boston,100.69,False
+2026-09-05,New York,102.89,False
+2026-09-05,Dallas/Fort Worth,103.33,False
+2026-09-05,Denver,96.92,False
+2026-09-05,Orange County,101.79,False
+2026-09-05,San Diego,104.28,False
+2026-09-05,Inland Empire,103.13,False
+2026-09-05,Austin,109.08,False
+2026-09-12,Los Angeles,101.455,True
+2026-09-12,"Washington, DC",99.865,True
+2026-09-12,Atlanta,98.93,True
+2026-09-12,San Francisco,106.615,True
+2026-09-12,Seattle,105.025,True
+2026-09-12,Boston,99.795,True
+2026-09-12,New York,102.825,True
+2026-09-12,Dallas/Fort Worth,103.28,True
+2026-09-12,Denver,96.52,True
+2026-09-12,Orange County,101.8,True
+2026-09-12,San Diego,103.805,True
+2026-09-12,Inland Empire,103.7,True
+2026-09-12,Austin,107.24,True
+2026-09-19,Los Angeles,101.96,False
+2026-09-19,"Washington, DC",99.44,False
+2026-09-19,Atlanta,98.64,False
+2026-09-19,San Francisco,106.35,False
+2026-09-19,Seattle,105.05,False
+2026-09-19,Boston,98.9,False
+2026-09-19,New York,102.76,False
+2026-09-19,Dallas/Fort Worth,103.23,False
+2026-09-19,Denver,96.12,False
+2026-09-19,Orange County,101.81,False
+2026-09-19,San Diego,103.33,False
+2026-09-19,Inland Empire,104.27,False
+2026-09-19,Austin,105.4,False
+2026-09-26,Los Angeles,102.07,False
+2026-09-26,"Washington, DC",98.71,False
+2026-09-26,Atlanta,98.27,False
+2026-09-26,San Francisco,105.79,False
+2026-09-26,Seattle,104.42,False
+2026-09-26,Boston,96.0,False
+2026-09-26,New York,103.12,False
+2026-09-26,Dallas/Fort Worth,103.07,False
+2026-09-26,Denver,95.23,False
+2026-09-26,Orange County,102.52,False
+2026-09-26,San Diego,102.32,False
+2026-09-26,Inland Empire,104.16,False
+2026-09-26,Austin,104.33,False
+2026-10-03,Los Angeles,101.53,True
+2026-10-03,"Washington, DC",98.695,True
+2026-10-03,Atlanta,98.325,True
+2026-10-03,San Francisco,105.41,True
+2026-10-03,Seattle,104.27,True
+2026-10-03,Boston,95.57,True
+2026-10-03,New York,103.195,True
+2026-10-03,Dallas/Fort Worth,102.92,True
+2026-10-03,Denver,94.81,True
+2026-10-03,Orange County,102.27,True
+2026-10-03,San Diego,101.16,True
+2026-10-03,Inland Empire,103.005,True
+2026-10-03,Austin,104.02,True
+2026-10-10,Los Angeles,100.99,False
+2026-10-10,"Washington, DC",98.68,False
+2026-10-10,Atlanta,98.38,False
+2026-10-10,San Francisco,105.03,False
+2026-10-10,Seattle,104.12,False
+2026-10-10,Boston,95.14,False
+2026-10-10,New York,103.27,False
+2026-10-10,Dallas/Fort Worth,102.77,False
+2026-10-10,Denver,94.39,False
+2026-10-10,Orange County,102.02,False
+2026-10-10,San Diego,100.0,False
+2026-10-10,Inland Empire,101.85,False
+2026-10-10,Austin,103.71,False
+2026-10-17,Los Angeles,100.13,False
+2026-10-17,"Washington, DC",98.23,False
 2026-10-17,Atlanta,97.44,False
-2026-10-17,Boston,94.6,False
-2026-10-17,Dallas/Fort Worth,102.2,False
-2026-10-17,New York,102.85,False
-2026-10-17,Denver,93.56,False
-2026-10-17,Orange County,101.7,False
-2026-10-17,San Diego,99.38,False
-2026-10-17,Inland Empire,100.43,False
-2026-10-17,Austin,107.78,False
+2026-10-17,San Francisco,104.49,False
+2026-10-17,Seattle,102.8,False
+2026-10-17,Boston,94.64,False
+2026-10-17,New York,102.89,False
+2026-10-17,Dallas/Fort Worth,102.25,False
+2026-10-17,Denver,93.62,False
+2026-10-17,Orange County,101.73,False
+2026-10-17,San Diego,99.43,False
+2026-10-17,Inland Empire,100.47,False
+2026-10-17,Austin,107.68,False
+2026-10-24,Los Angeles,99.68,False
+2026-10-24,"Washington, DC",98.36,False
+2026-10-24,Atlanta,97.61,False
+2026-10-24,San Francisco,103.73,False
+2026-10-24,Seattle,102.27,False
+2026-10-24,Boston,95.39,False
+2026-10-24,New York,101.43,False
+2026-10-24,Dallas/Fort Worth,102.58,False
+2026-10-24,Denver,94.19,False
+2026-10-24,Orange County,101.81,False
+2026-10-24,San Diego,98.65,False
+2026-10-24,Inland Empire,101.41,False
+2026-10-24,Austin,106.49,False
