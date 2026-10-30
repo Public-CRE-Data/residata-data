@@ -28,6 +28,16 @@
 > series in `summary_history.csv` are retained as a measure of price-cut
 > activity on listed units, not of rent levels.
 >
+> **Method change, 2026-10-29 — lease-term adjustment.** AVB, CPT, EQR, UDR and
+> INVH quote each unit at one lease term (10-24 months), and the term shown
+> changes from week to week (INVH switched most homes from 12/24-month to
+> 18-23-month quotes on 2026-08-29). Monthly rent differs by term, so the
+> constant-mix and new-lease indices now include a lease-term effect and price
+> every week at a constant term mix. History is restated. Largest revisions to
+> the new-lease 4-week index (Aug 8 -> Oct 24): CPT +1.1 pts, INVH +1.0, EQR +0.6,
+> VMRK +0.5, AVB +0.3, UDR -0.4. MAA and ESS sites give no term and AMH always
+> shows 12 months, so those series are unchanged.
+
 > **New series, 2026-10-19 — new-lease rent index.** `new_lease_ner_4wk_index_by_reit`
 > and `new_lease_rent_4wk_index_by_reit` (4-week averages, 2026-08-08 = 100,
 > history from 2026-03); weekly detail by REIT and market, with lease counts,
