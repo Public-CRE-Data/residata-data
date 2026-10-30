@@ -2,527 +2,544 @@ date,series,value,interpolated
 2026-03-28,New York,100.0,False
 2026-03-28,Boston,100.0,False
 2026-03-28,Los Angeles,100.0,False
-2026-03-28,"Washington, DC",100.0,False
 2026-03-28,Baltimore,100.0,False
+2026-03-28,"Washington, DC",100.0,False
 2026-03-28,Charlotte,100.0,False
-2026-03-28,Denver,100.0,False
 2026-03-28,Seattle,100.0,False
+2026-03-28,Denver,100.0,False
 2026-03-28,Austin,100.0,False
 2026-03-28,San Francisco-East Bay,100.0,False
 2026-03-28,Orange County,100.0,False
-2026-03-28,Dallas/Fort Worth,100.0,False
 2026-03-28,Miami/Fort Lauderdale,100.0,False
 2026-03-28,San Jose,100.0,False
+2026-03-28,Dallas/Fort Worth,100.0,False
 2026-03-28,Raleigh/Durham,100.0,False
 2026-03-28,San Francisco,100.0,False
 2026-03-28,San Diego,100.0,False
-2026-04-04,New York,100.63,False
-2026-04-04,Boston,100.47,False
-2026-04-04,Los Angeles,100.02,False
-2026-04-04,"Washington, DC",100.7,False
+2026-04-04,New York,100.65,False
+2026-04-04,Boston,100.52,False
+2026-04-04,Los Angeles,99.95,False
 2026-04-04,Baltimore,100.11,False
-2026-04-04,Charlotte,99.93,False
-2026-04-04,Denver,100.28,False
-2026-04-04,Seattle,99.43,False
-2026-04-04,Austin,103.12,False
-2026-04-04,San Francisco-East Bay,99.79,False
-2026-04-04,Orange County,99.89,False
-2026-04-04,Dallas/Fort Worth,100.23,False
-2026-04-04,Miami/Fort Lauderdale,100.54,False
-2026-04-04,San Jose,99.81,False
-2026-04-04,Raleigh/Durham,99.84,False
-2026-04-04,San Francisco,101.0,False
-2026-04-04,San Diego,99.88,False
-2026-04-11,New York,101.24,False
-2026-04-11,Boston,100.49,False
-2026-04-11,Los Angeles,100.21,False
-2026-04-11,"Washington, DC",101.32,False
-2026-04-11,Baltimore,100.8,False
-2026-04-11,Charlotte,99.3,False
-2026-04-11,Denver,100.62,False
-2026-04-11,Seattle,99.82,False
-2026-04-11,Austin,103.62,False
-2026-04-11,San Francisco-East Bay,99.76,False
+2026-04-04,"Washington, DC",100.71,False
+2026-04-04,Charlotte,99.97,False
+2026-04-04,Seattle,99.46,False
+2026-04-04,Denver,100.37,False
+2026-04-04,Austin,103.22,False
+2026-04-04,San Francisco-East Bay,99.69,False
+2026-04-04,Orange County,99.94,False
+2026-04-04,Miami/Fort Lauderdale,100.71,False
+2026-04-04,San Jose,99.79,False
+2026-04-04,Dallas/Fort Worth,100.11,False
+2026-04-04,Raleigh/Durham,99.76,False
+2026-04-04,San Francisco,101.14,False
+2026-04-04,San Diego,99.74,False
+2026-04-11,New York,101.13,False
+2026-04-11,Boston,100.51,False
+2026-04-11,Los Angeles,100.16,False
+2026-04-11,Baltimore,100.75,False
+2026-04-11,"Washington, DC",101.29,False
+2026-04-11,Charlotte,99.32,False
+2026-04-11,Seattle,99.84,False
+2026-04-11,Denver,100.69,False
+2026-04-11,Austin,103.03,False
+2026-04-11,San Francisco-East Bay,99.9,False
 2026-04-11,Orange County,99.52,False
-2026-04-11,Dallas/Fort Worth,100.35,False
-2026-04-11,Miami/Fort Lauderdale,100.77,False
+2026-04-11,Miami/Fort Lauderdale,100.97,False
 2026-04-11,San Jose,100.96,False
-2026-04-11,Raleigh/Durham,100.03,False
-2026-04-11,San Francisco,101.74,False
-2026-04-11,San Diego,100.17,False
-2026-04-18,New York,101.75,False
-2026-04-18,Boston,100.28,False
-2026-04-18,Los Angeles,100.21,False
-2026-04-18,"Washington, DC",101.22,False
-2026-04-18,Baltimore,101.27,False
-2026-04-18,Charlotte,99.41,False
-2026-04-18,Denver,99.78,False
-2026-04-18,Seattle,100.54,False
-2026-04-18,Austin,104.55,False
-2026-04-18,San Francisco-East Bay,99.82,False
-2026-04-18,Orange County,99.19,False
-2026-04-18,Dallas/Fort Worth,102.16,False
-2026-04-18,Miami/Fort Lauderdale,101.26,False
-2026-04-18,San Jose,100.71,False
-2026-04-18,Raleigh/Durham,102.02,False
-2026-04-18,San Francisco,101.44,False
-2026-04-18,San Diego,100.75,False
-2026-04-25,New York,102.41,False
-2026-04-25,Boston,100.56,False
-2026-04-25,Los Angeles,100.06,False
-2026-04-25,"Washington, DC",101.36,False
-2026-04-25,Baltimore,102.04,False
-2026-04-25,Charlotte,100.84,False
-2026-04-25,Denver,100.29,False
-2026-04-25,Seattle,101.43,False
-2026-04-25,Austin,104.37,False
-2026-04-25,San Francisco-East Bay,100.77,False
-2026-04-25,Orange County,99.4,False
-2026-04-25,Dallas/Fort Worth,103.36,False
-2026-04-25,Miami/Fort Lauderdale,101.45,False
-2026-04-25,San Jose,101.98,False
-2026-04-25,Raleigh/Durham,104.23,False
-2026-04-25,San Francisco,100.94,False
-2026-04-25,San Diego,100.3,False
-2026-05-02,New York,103.11,False
-2026-05-02,Boston,101.26,False
-2026-05-02,Los Angeles,99.71,False
-2026-05-02,"Washington, DC",101.58,False
-2026-05-02,Baltimore,102.45,False
-2026-05-02,Charlotte,100.17,False
-2026-05-02,Denver,100.41,False
-2026-05-02,Seattle,101.61,False
-2026-05-02,Austin,104.18,False
-2026-05-02,San Francisco-East Bay,99.37,False
-2026-05-02,Orange County,99.36,False
-2026-05-02,Dallas/Fort Worth,104.13,False
-2026-05-02,Miami/Fort Lauderdale,102.68,False
-2026-05-02,San Jose,103.21,False
-2026-05-02,Raleigh/Durham,103.36,False
-2026-05-02,San Francisco,101.74,False
-2026-05-02,San Diego,100.0,False
-2026-05-09,New York,103.0,False
-2026-05-09,Boston,102.26,False
-2026-05-09,Los Angeles,99.48,False
-2026-05-09,"Washington, DC",101.27,False
-2026-05-09,Baltimore,103.05,False
-2026-05-09,Charlotte,98.58,False
-2026-05-09,Denver,99.64,False
-2026-05-09,Seattle,101.78,False
-2026-05-09,Austin,103.33,False
-2026-05-09,San Francisco-East Bay,100.01,False
-2026-05-09,Orange County,100.5,False
-2026-05-09,Dallas/Fort Worth,104.37,False
-2026-05-09,Miami/Fort Lauderdale,102.59,False
-2026-05-09,San Jose,104.78,False
-2026-05-09,Raleigh/Durham,104.67,False
-2026-05-09,San Francisco,102.35,False
-2026-05-09,San Diego,101.54,False
-2026-05-16,New York,103.08,False
-2026-05-16,Boston,102.31,False
-2026-05-16,Los Angeles,99.29,False
-2026-05-16,"Washington, DC",101.39,False
-2026-05-16,Baltimore,102.21,False
-2026-05-16,Charlotte,97.69,False
-2026-05-16,Denver,99.98,False
-2026-05-16,Seattle,101.88,False
-2026-05-16,Austin,102.98,False
-2026-05-16,San Francisco-East Bay,99.92,False
-2026-05-16,Orange County,101.49,False
-2026-05-16,Dallas/Fort Worth,103.85,False
-2026-05-16,Miami/Fort Lauderdale,102.44,False
-2026-05-16,San Jose,105.48,False
-2026-05-16,Raleigh/Durham,105.54,False
-2026-05-16,San Francisco,103.06,False
-2026-05-16,San Diego,100.45,False
-2026-05-23,New York,102.79,False
-2026-05-23,Boston,102.31,False
-2026-05-23,Los Angeles,98.82,False
-2026-05-23,"Washington, DC",100.98,False
-2026-05-23,Baltimore,100.76,False
-2026-05-23,Charlotte,99.23,False
-2026-05-23,Denver,99.83,False
-2026-05-23,Seattle,101.48,False
-2026-05-23,Austin,104.83,False
-2026-05-23,San Francisco-East Bay,99.88,False
-2026-05-23,Orange County,101.41,False
-2026-05-23,Dallas/Fort Worth,103.68,False
-2026-05-23,Miami/Fort Lauderdale,102.05,False
-2026-05-23,San Jose,107.12,False
-2026-05-23,Raleigh/Durham,104.6,False
-2026-05-23,San Francisco,104.0,False
-2026-05-23,San Diego,99.77,False
-2026-05-30,New York,102.43,False
-2026-05-30,Boston,102.48,False
-2026-05-30,Los Angeles,99.88,False
-2026-05-30,"Washington, DC",101.33,False
-2026-05-30,Baltimore,101.33,False
-2026-05-30,Charlotte,101.92,False
-2026-05-30,Denver,100.13,False
-2026-05-30,Seattle,102.55,False
-2026-05-30,Austin,105.49,False
-2026-05-30,San Francisco-East Bay,98.67,False
-2026-05-30,Orange County,101.77,False
-2026-05-30,Dallas/Fort Worth,104.19,False
-2026-05-30,Miami/Fort Lauderdale,102.05,False
-2026-05-30,San Jose,106.97,False
-2026-05-30,Raleigh/Durham,104.99,False
-2026-05-30,San Francisco,105.74,False
-2026-05-30,San Diego,100.06,False
-2026-06-06,New York,102.62,False
-2026-06-06,Boston,102.05,False
-2026-06-06,Los Angeles,100.54,False
-2026-06-06,"Washington, DC",101.87,False
-2026-06-06,Baltimore,101.76,False
-2026-06-06,Charlotte,102.2,False
-2026-06-06,Denver,99.75,False
-2026-06-06,Seattle,103.1,False
-2026-06-06,Austin,106.36,False
-2026-06-06,San Francisco-East Bay,99.28,False
+2026-04-11,Dallas/Fort Worth,100.37,False
+2026-04-11,Raleigh/Durham,99.97,False
+2026-04-11,San Francisco,101.67,False
+2026-04-11,San Diego,100.1,False
+2026-04-18,New York,101.63,False
+2026-04-18,Boston,100.29,False
+2026-04-18,Los Angeles,100.15,False
+2026-04-18,Baltimore,101.3,False
+2026-04-18,"Washington, DC",101.14,False
+2026-04-18,Charlotte,99.42,False
+2026-04-18,Seattle,100.57,False
+2026-04-18,Denver,99.95,False
+2026-04-18,Austin,102.75,False
+2026-04-18,San Francisco-East Bay,99.99,False
+2026-04-18,Orange County,99.22,False
+2026-04-18,Miami/Fort Lauderdale,101.48,False
+2026-04-18,San Jose,100.62,False
+2026-04-18,Dallas/Fort Worth,101.52,False
+2026-04-18,Raleigh/Durham,102.31,False
+2026-04-18,San Francisco,101.43,False
+2026-04-18,San Diego,100.66,False
+2026-04-25,New York,102.3,False
+2026-04-25,Boston,100.53,False
+2026-04-25,Los Angeles,99.99,False
+2026-04-25,Baltimore,102.02,False
+2026-04-25,"Washington, DC",101.26,False
+2026-04-25,Charlotte,100.9,False
+2026-04-25,Seattle,101.45,False
+2026-04-25,Denver,100.48,False
+2026-04-25,Austin,102.48,False
+2026-04-25,San Francisco-East Bay,100.94,False
+2026-04-25,Orange County,99.44,False
+2026-04-25,Miami/Fort Lauderdale,101.59,False
+2026-04-25,San Jose,101.78,False
+2026-04-25,Dallas/Fort Worth,102.73,False
+2026-04-25,Raleigh/Durham,104.34,False
+2026-04-25,San Francisco,100.89,False
+2026-04-25,San Diego,100.16,False
+2026-05-02,New York,103.2,False
+2026-05-02,Boston,101.2,False
+2026-05-02,Los Angeles,99.58,False
+2026-05-02,Baltimore,102.55,False
+2026-05-02,"Washington, DC",101.49,False
+2026-05-02,Charlotte,100.14,False
+2026-05-02,Seattle,101.64,False
+2026-05-02,Denver,100.49,False
+2026-05-02,Austin,102.77,False
+2026-05-02,San Francisco-East Bay,99.66,False
+2026-05-02,Orange County,99.3,False
+2026-05-02,Miami/Fort Lauderdale,102.91,False
+2026-05-02,San Jose,102.93,False
+2026-05-02,Dallas/Fort Worth,103.47,False
+2026-05-02,Raleigh/Durham,103.12,False
+2026-05-02,San Francisco,101.34,False
+2026-05-02,San Diego,99.9,False
+2026-05-09,New York,103.07,False
+2026-05-09,Boston,102.21,False
+2026-05-09,Los Angeles,99.33,False
+2026-05-09,Baltimore,103.26,False
+2026-05-09,"Washington, DC",101.14,False
+2026-05-09,Charlotte,98.59,False
+2026-05-09,Seattle,101.79,False
+2026-05-09,Denver,99.7,False
+2026-05-09,Austin,101.56,False
+2026-05-09,San Francisco-East Bay,100.4,False
+2026-05-09,Orange County,100.62,False
+2026-05-09,Miami/Fort Lauderdale,102.78,False
+2026-05-09,San Jose,104.53,False
+2026-05-09,Dallas/Fort Worth,103.88,False
+2026-05-09,Raleigh/Durham,104.69,False
+2026-05-09,San Francisco,101.99,False
+2026-05-09,San Diego,101.35,False
+2026-05-16,New York,103.18,False
+2026-05-16,Boston,102.22,False
+2026-05-16,Los Angeles,99.07,False
+2026-05-16,Baltimore,102.48,False
+2026-05-16,"Washington, DC",101.24,False
+2026-05-16,Charlotte,97.65,False
+2026-05-16,Seattle,101.85,False
+2026-05-16,Denver,100.12,False
+2026-05-16,Austin,101.36,False
+2026-05-16,San Francisco-East Bay,100.19,False
+2026-05-16,Orange County,101.69,False
+2026-05-16,Miami/Fort Lauderdale,102.6,False
+2026-05-16,San Jose,105.15,False
+2026-05-16,Dallas/Fort Worth,103.43,False
+2026-05-16,Raleigh/Durham,105.75,False
+2026-05-16,San Francisco,103.18,False
+2026-05-16,San Diego,100.31,False
+2026-05-23,New York,102.89,False
+2026-05-23,Boston,102.26,False
+2026-05-23,Los Angeles,98.58,False
+2026-05-23,Baltimore,101.16,False
+2026-05-23,"Washington, DC",100.89,False
+2026-05-23,Charlotte,99.19,False
+2026-05-23,Seattle,101.45,False
+2026-05-23,Denver,99.99,False
+2026-05-23,Austin,103.78,False
+2026-05-23,San Francisco-East Bay,100.2,False
+2026-05-23,Orange County,101.61,False
+2026-05-23,Miami/Fort Lauderdale,102.18,False
+2026-05-23,San Jose,106.7,False
+2026-05-23,Dallas/Fort Worth,103.13,False
+2026-05-23,Raleigh/Durham,104.9,False
+2026-05-23,San Francisco,103.76,False
+2026-05-23,San Diego,99.5,False
+2026-05-30,New York,102.54,False
+2026-05-30,Boston,102.39,False
+2026-05-30,Los Angeles,99.69,False
+2026-05-30,Baltimore,101.84,False
+2026-05-30,"Washington, DC",101.21,False
+2026-05-30,Charlotte,101.97,False
+2026-05-30,Seattle,102.48,False
+2026-05-30,Denver,100.31,False
+2026-05-30,Austin,104.61,False
+2026-05-30,San Francisco-East Bay,99.11,False
+2026-05-30,Orange County,101.62,False
+2026-05-30,Miami/Fort Lauderdale,102.23,False
+2026-05-30,San Jose,106.44,False
+2026-05-30,Dallas/Fort Worth,103.63,False
+2026-05-30,Raleigh/Durham,105.19,False
+2026-05-30,San Francisco,105.61,False
+2026-05-30,San Diego,99.96,False
+2026-06-06,New York,102.78,False
+2026-06-06,Boston,101.93,False
+2026-06-06,Los Angeles,100.27,False
+2026-06-06,Baltimore,102.24,False
+2026-06-06,"Washington, DC",101.8,False
+2026-06-06,Charlotte,102.36,False
+2026-06-06,Seattle,103.03,False
+2026-06-06,Denver,99.93,False
+2026-06-06,Austin,105.39,False
+2026-06-06,San Francisco-East Bay,99.81,False
 2026-06-06,Orange County,101.75,False
-2026-06-06,Dallas/Fort Worth,104.14,False
-2026-06-06,Miami/Fort Lauderdale,101.87,False
-2026-06-06,San Jose,109.3,False
-2026-06-06,Raleigh/Durham,101.09,False
-2026-06-06,San Francisco,105.2,False
-2026-06-06,San Diego,99.86,False
-2026-06-13,New York,102.64,False
-2026-06-13,Boston,101.97,False
-2026-06-13,Los Angeles,101.07,False
-2026-06-13,"Washington, DC",102.37,False
-2026-06-13,Baltimore,102.05,False
-2026-06-13,Charlotte,103.21,False
-2026-06-13,Denver,100.72,False
-2026-06-13,Seattle,102.53,False
-2026-06-13,Austin,107.68,False
-2026-06-13,San Francisco-East Bay,98.87,False
-2026-06-13,Orange County,101.81,False
-2026-06-13,Dallas/Fort Worth,103.3,False
-2026-06-13,Miami/Fort Lauderdale,101.36,False
-2026-06-13,San Jose,108.23,False
-2026-06-13,Raleigh/Durham,101.73,False
-2026-06-13,San Francisco,104.84,False
-2026-06-13,San Diego,100.12,False
-2026-06-20,New York,102.32,False
-2026-06-20,Boston,101.85,False
-2026-06-20,Los Angeles,101.78,False
-2026-06-20,"Washington, DC",101.87,False
-2026-06-20,Baltimore,102.42,False
-2026-06-20,Charlotte,103.55,False
-2026-06-20,Denver,101.31,False
-2026-06-20,Seattle,102.98,False
-2026-06-20,Austin,109.58,False
-2026-06-20,San Francisco-East Bay,100.41,False
-2026-06-20,Orange County,103.65,False
-2026-06-20,Dallas/Fort Worth,102.75,False
-2026-06-20,Miami/Fort Lauderdale,101.78,False
-2026-06-20,San Jose,107.95,False
-2026-06-20,Raleigh/Durham,101.44,False
-2026-06-20,San Francisco,106.1,False
-2026-06-20,San Diego,100.75,False
-2026-06-27,New York,102.18,True
-2026-06-27,Boston,101.5,True
-2026-06-27,Los Angeles,101.365,True
-2026-06-27,"Washington, DC",101.375,True
-2026-06-27,Baltimore,101.98,True
-2026-06-27,Charlotte,103.0425,True
-2026-06-27,Denver,101.47,True
-2026-06-27,Seattle,102.18,True
-2026-06-27,Austin,109.4525,True
-2026-06-27,San Francisco-East Bay,100.595,True
-2026-06-27,Orange County,103.6175,True
-2026-06-27,Dallas/Fort Worth,102.75,True
-2026-06-27,Miami/Fort Lauderdale,101.4025,True
-2026-06-27,San Jose,108.3375,True
-2026-06-27,Raleigh/Durham,101.04,True
-2026-06-27,San Francisco,106.2575,True
-2026-06-27,San Diego,100.975,True
-2026-07-04,New York,102.04,True
-2026-07-04,Boston,101.15,True
-2026-07-04,Los Angeles,100.95,True
-2026-07-04,"Washington, DC",100.88,True
-2026-07-04,Baltimore,101.54,True
-2026-07-04,Charlotte,102.535,True
-2026-07-04,Denver,101.63,True
-2026-07-04,Seattle,101.38,True
-2026-07-04,Austin,109.325,True
-2026-07-04,San Francisco-East Bay,100.78,True
-2026-07-04,Orange County,103.585,True
-2026-07-04,Dallas/Fort Worth,102.75,True
-2026-07-04,Miami/Fort Lauderdale,101.025,True
-2026-07-04,San Jose,108.725,True
-2026-07-04,Raleigh/Durham,100.64,True
-2026-07-04,San Francisco,106.415,True
-2026-07-04,San Diego,101.2,True
-2026-07-11,New York,101.9,True
-2026-07-11,Boston,100.8,True
-2026-07-11,Los Angeles,100.535,True
-2026-07-11,"Washington, DC",100.385,True
-2026-07-11,Baltimore,101.1,True
-2026-07-11,Charlotte,102.0275,True
-2026-07-11,Denver,101.79,True
-2026-07-11,Seattle,100.58,True
-2026-07-11,Austin,109.1975,True
-2026-07-11,San Francisco-East Bay,100.965,True
-2026-07-11,Orange County,103.5525,True
-2026-07-11,Dallas/Fort Worth,102.75,True
-2026-07-11,Miami/Fort Lauderdale,100.6475,True
-2026-07-11,San Jose,109.1125,True
-2026-07-11,Raleigh/Durham,100.24,True
-2026-07-11,San Francisco,106.5725,True
-2026-07-11,San Diego,101.425,True
-2026-07-18,New York,101.76,False
-2026-07-18,Boston,100.45,False
-2026-07-18,Los Angeles,100.12,False
-2026-07-18,"Washington, DC",99.89,False
-2026-07-18,Baltimore,100.66,False
-2026-07-18,Charlotte,101.52,False
-2026-07-18,Denver,101.95,False
-2026-07-18,Seattle,99.78,False
-2026-07-18,Austin,109.07,False
-2026-07-18,San Francisco-East Bay,101.15,False
-2026-07-18,Orange County,103.52,False
-2026-07-18,Dallas/Fort Worth,102.75,False
-2026-07-18,Miami/Fort Lauderdale,100.27,False
-2026-07-18,San Jose,109.5,False
-2026-07-18,Raleigh/Durham,99.84,False
-2026-07-18,San Francisco,106.73,False
-2026-07-18,San Diego,101.65,False
-2026-07-25,New York,101.45,True
-2026-07-25,Boston,100.43,True
-2026-07-25,Los Angeles,99.755,True
-2026-07-25,"Washington, DC",99.95,True
-2026-07-25,Baltimore,100.515,True
-2026-07-25,Charlotte,101.29,True
-2026-07-25,Denver,102.055,True
-2026-07-25,Seattle,100.225,True
-2026-07-25,Austin,110.385,True
-2026-07-25,San Francisco-East Bay,101.02,True
-2026-07-25,Orange County,102.74,True
-2026-07-25,Dallas/Fort Worth,102.995,True
-2026-07-25,Miami/Fort Lauderdale,100.055,True
-2026-07-25,San Jose,109.63,True
-2026-07-25,Raleigh/Durham,99.695,True
-2026-07-25,San Francisco,106.35,True
-2026-07-25,San Diego,102.465,True
-2026-08-01,New York,101.14,False
-2026-08-01,Boston,100.41,False
-2026-08-01,Los Angeles,99.39,False
-2026-08-01,"Washington, DC",100.01,False
-2026-08-01,Baltimore,100.37,False
-2026-08-01,Charlotte,101.06,False
-2026-08-01,Denver,102.16,False
-2026-08-01,Seattle,100.67,False
-2026-08-01,Austin,111.7,False
-2026-08-01,San Francisco-East Bay,100.89,False
-2026-08-01,Orange County,101.96,False
-2026-08-01,Dallas/Fort Worth,103.24,False
-2026-08-01,Miami/Fort Lauderdale,99.84,False
-2026-08-01,San Jose,109.76,False
-2026-08-01,Raleigh/Durham,99.55,False
-2026-08-01,San Francisco,105.97,False
-2026-08-01,San Diego,103.28,False
-2026-08-08,New York,100.8,False
-2026-08-08,Boston,100.48,False
-2026-08-08,Los Angeles,99.49,False
-2026-08-08,"Washington, DC",99.34,False
-2026-08-08,Baltimore,99.42,False
-2026-08-08,Charlotte,100.95,False
-2026-08-08,Denver,103.0,False
-2026-08-08,Seattle,99.12,False
-2026-08-08,Austin,112.58,False
-2026-08-08,San Francisco-East Bay,101.05,False
-2026-08-08,Orange County,102.37,False
-2026-08-08,Dallas/Fort Worth,102.82,False
-2026-08-08,Miami/Fort Lauderdale,100.71,False
-2026-08-08,San Jose,109.32,False
-2026-08-08,Raleigh/Durham,99.44,False
-2026-08-08,San Francisco,106.7,False
-2026-08-08,San Diego,103.57,False
-2026-08-15,New York,100.71,False
-2026-08-15,Boston,100.54,False
-2026-08-15,Los Angeles,98.85,False
-2026-08-15,"Washington, DC",98.08,False
-2026-08-15,Baltimore,100.24,False
-2026-08-15,Charlotte,100.9,False
-2026-08-15,Denver,102.19,False
-2026-08-15,Seattle,98.52,False
-2026-08-15,Austin,111.75,False
-2026-08-15,San Francisco-East Bay,101.08,False
-2026-08-15,Orange County,100.91,False
-2026-08-15,Dallas/Fort Worth,101.71,False
-2026-08-15,Miami/Fort Lauderdale,101.18,False
-2026-08-15,San Jose,108.61,False
-2026-08-15,Raleigh/Durham,100.3,False
-2026-08-15,San Francisco,107.11,False
-2026-08-15,San Diego,103.79,False
-2026-08-22,New York,100.68,False
-2026-08-22,Boston,100.57,False
-2026-08-22,Los Angeles,98.47,False
-2026-08-22,"Washington, DC",97.17,False
-2026-08-22,Baltimore,100.15,False
-2026-08-22,Charlotte,101.01,False
-2026-08-22,Denver,101.27,False
-2026-08-22,Seattle,99.68,False
-2026-08-22,Austin,111.43,False
-2026-08-22,San Francisco-East Bay,100.35,False
-2026-08-22,Orange County,101.03,False
-2026-08-22,Dallas/Fort Worth,100.9,False
-2026-08-22,Miami/Fort Lauderdale,102.06,False
-2026-08-22,San Jose,107.76,False
-2026-08-22,Raleigh/Durham,100.01,False
-2026-08-22,San Francisco,107.41,False
-2026-08-22,San Diego,103.16,False
-2026-08-29,New York,101.19,False
-2026-08-29,Boston,99.58,False
-2026-08-29,Los Angeles,97.24,False
-2026-08-29,"Washington, DC",95.67,False
-2026-08-29,Baltimore,101.16,False
-2026-08-29,Charlotte,100.46,False
-2026-08-29,Denver,99.47,False
-2026-08-29,Seattle,98.81,False
-2026-08-29,Austin,110.24,False
-2026-08-29,San Francisco-East Bay,101.11,False
-2026-08-29,Orange County,102.91,False
-2026-08-29,Dallas/Fort Worth,103.05,False
-2026-08-29,Miami/Fort Lauderdale,101.18,False
-2026-08-29,San Jose,106.86,False
-2026-08-29,Raleigh/Durham,98.8,False
-2026-08-29,San Francisco,107.0,False
-2026-08-29,San Diego,104.14,False
-2026-09-05,New York,101.19,False
-2026-09-05,Boston,98.62,False
-2026-09-05,Los Angeles,97.45,False
-2026-09-05,"Washington, DC",96.47,False
-2026-09-05,Baltimore,99.11,False
-2026-09-05,Charlotte,100.08,False
-2026-09-05,Denver,97.84,False
-2026-09-05,Seattle,98.13,False
-2026-09-05,Austin,109.45,False
-2026-09-05,San Francisco-East Bay,100.24,False
-2026-09-05,Orange County,101.53,False
-2026-09-05,Dallas/Fort Worth,102.63,False
-2026-09-05,Miami/Fort Lauderdale,100.43,False
-2026-09-05,San Jose,106.1,False
-2026-09-05,Raleigh/Durham,98.74,False
-2026-09-05,San Francisco,106.94,False
-2026-09-05,San Diego,103.35,False
-2026-09-12,New York,101.28,False
-2026-09-12,Boston,98.53,False
-2026-09-12,Los Angeles,97.4,False
-2026-09-12,"Washington, DC",95.16,False
-2026-09-12,Baltimore,99.51,False
-2026-09-12,Charlotte,100.19,False
-2026-09-12,Denver,98.0,False
-2026-09-12,Seattle,96.31,False
-2026-09-12,Austin,107.73,False
-2026-09-12,San Francisco-East Bay,100.41,False
-2026-09-12,Orange County,99.98,False
-2026-09-12,Dallas/Fort Worth,100.24,False
-2026-09-12,Miami/Fort Lauderdale,99.81,False
-2026-09-12,San Jose,106.15,False
-2026-09-12,Raleigh/Durham,98.75,False
-2026-09-12,San Francisco,107.61,False
+2026-06-06,Miami/Fort Lauderdale,102.28,False
+2026-06-06,San Jose,108.63,False
+2026-06-06,Dallas/Fort Worth,103.59,False
+2026-06-06,Raleigh/Durham,101.19,False
+2026-06-06,San Francisco,104.87,False
+2026-06-06,San Diego,99.78,False
+2026-06-13,New York,102.63,False
+2026-06-13,Boston,101.98,False
+2026-06-13,Los Angeles,100.93,False
+2026-06-13,Baltimore,102.52,False
+2026-06-13,"Washington, DC",102.3,False
+2026-06-13,Charlotte,103.31,False
+2026-06-13,Seattle,102.46,False
+2026-06-13,Denver,100.9,False
+2026-06-13,Austin,106.52,False
+2026-06-13,San Francisco-East Bay,99.32,False
+2026-06-13,Orange County,101.82,False
+2026-06-13,Miami/Fort Lauderdale,101.71,False
+2026-06-13,San Jose,107.55,False
+2026-06-13,Dallas/Fort Worth,103.07,False
+2026-06-13,Raleigh/Durham,101.85,False
+2026-06-13,San Francisco,104.71,False
+2026-06-13,San Diego,99.94,False
+2026-06-20,New York,102.36,False
+2026-06-20,Boston,101.86,False
+2026-06-20,Los Angeles,101.59,False
+2026-06-20,Baltimore,102.97,False
+2026-06-20,"Washington, DC",101.76,False
+2026-06-20,Charlotte,103.59,False
+2026-06-20,Seattle,102.8,False
+2026-06-20,Denver,101.67,False
+2026-06-20,Austin,108.78,False
+2026-06-20,San Francisco-East Bay,100.73,False
+2026-06-20,Orange County,103.63,False
+2026-06-20,Miami/Fort Lauderdale,102.12,False
+2026-06-20,San Jose,107.28,False
+2026-06-20,Dallas/Fort Worth,102.12,False
+2026-06-20,Raleigh/Durham,101.53,False
+2026-06-20,San Francisco,105.25,False
+2026-06-20,San Diego,100.65,False
+2026-06-27,New York,102.23,True
+2026-06-27,Boston,101.405,True
+2026-06-27,Los Angeles,101.1775,True
+2026-06-27,Baltimore,102.54,True
+2026-06-27,"Washington, DC",101.315,True
+2026-06-27,Charlotte,103.065,True
+2026-06-27,Seattle,102.0175,True
+2026-06-27,Denver,101.87,True
+2026-06-27,Austin,108.865,True
+2026-06-27,San Francisco-East Bay,100.9575,True
+2026-06-27,Orange County,103.8,True
+2026-06-27,Miami/Fort Lauderdale,101.7275,True
+2026-06-27,San Jose,107.615,True
+2026-06-27,Dallas/Fort Worth,102.205,True
+2026-06-27,Raleigh/Durham,101.3525,True
+2026-06-27,San Francisco,105.705,True
+2026-06-27,San Diego,100.85,True
+2026-07-04,New York,102.1,True
+2026-07-04,Boston,100.95,True
+2026-07-04,Los Angeles,100.765,True
+2026-07-04,Baltimore,102.11,True
+2026-07-04,"Washington, DC",100.87,True
+2026-07-04,Charlotte,102.54,True
+2026-07-04,Seattle,101.235,True
+2026-07-04,Denver,102.07,True
+2026-07-04,Austin,108.95,True
+2026-07-04,San Francisco-East Bay,101.185,True
+2026-07-04,Orange County,103.97,True
+2026-07-04,Miami/Fort Lauderdale,101.335,True
+2026-07-04,San Jose,107.95,True
+2026-07-04,Dallas/Fort Worth,102.29,True
+2026-07-04,Raleigh/Durham,101.175,True
+2026-07-04,San Francisco,106.16,True
+2026-07-04,San Diego,101.05,True
+2026-07-11,New York,101.97,True
+2026-07-11,Boston,100.495,True
+2026-07-11,Los Angeles,100.3525,True
+2026-07-11,Baltimore,101.68,True
+2026-07-11,"Washington, DC",100.425,True
+2026-07-11,Charlotte,102.015,True
+2026-07-11,Seattle,100.4525,True
+2026-07-11,Denver,102.27,True
+2026-07-11,Austin,109.035,True
+2026-07-11,San Francisco-East Bay,101.4125,True
+2026-07-11,Orange County,104.14,True
+2026-07-11,Miami/Fort Lauderdale,100.9425,True
+2026-07-11,San Jose,108.285,True
+2026-07-11,Dallas/Fort Worth,102.375,True
+2026-07-11,Raleigh/Durham,100.9975,True
+2026-07-11,San Francisco,106.615,True
+2026-07-11,San Diego,101.25,True
+2026-07-18,New York,101.84,False
+2026-07-18,Boston,100.04,False
+2026-07-18,Los Angeles,99.94,False
+2026-07-18,Baltimore,101.25,False
+2026-07-18,"Washington, DC",99.98,False
+2026-07-18,Charlotte,101.49,False
+2026-07-18,Seattle,99.67,False
+2026-07-18,Denver,102.47,False
+2026-07-18,Austin,109.12,False
+2026-07-18,San Francisco-East Bay,101.64,False
+2026-07-18,Orange County,104.31,False
+2026-07-18,Miami/Fort Lauderdale,100.55,False
+2026-07-18,San Jose,108.62,False
+2026-07-18,Dallas/Fort Worth,102.46,False
+2026-07-18,Raleigh/Durham,100.82,False
+2026-07-18,San Francisco,107.07,False
+2026-07-18,San Diego,101.45,False
+2026-07-25,New York,101.545,True
+2026-07-25,Boston,100.045,True
+2026-07-25,Los Angeles,99.595,True
+2026-07-25,Baltimore,101.085,True
+2026-07-25,"Washington, DC",100.085,True
+2026-07-25,Charlotte,101.305,True
+2026-07-25,Seattle,100.06,True
+2026-07-25,Denver,102.555,True
+2026-07-25,Austin,110.56,True
+2026-07-25,San Francisco-East Bay,101.595,True
+2026-07-25,Orange County,103.485,True
+2026-07-25,Miami/Fort Lauderdale,100.365,True
+2026-07-25,San Jose,108.695,True
+2026-07-25,Dallas/Fort Worth,102.76,True
+2026-07-25,Raleigh/Durham,100.685,True
+2026-07-25,San Francisco,106.9,True
+2026-07-25,San Diego,102.43,True
+2026-08-01,New York,101.25,False
+2026-08-01,Boston,100.05,False
+2026-08-01,Los Angeles,99.25,False
+2026-08-01,Baltimore,100.92,False
+2026-08-01,"Washington, DC",100.19,False
+2026-08-01,Charlotte,101.12,False
+2026-08-01,Seattle,100.45,False
+2026-08-01,Denver,102.64,False
+2026-08-01,Austin,112.0,False
+2026-08-01,San Francisco-East Bay,101.55,False
+2026-08-01,Orange County,102.66,False
+2026-08-01,Miami/Fort Lauderdale,100.18,False
+2026-08-01,San Jose,108.77,False
+2026-08-01,Dallas/Fort Worth,103.06,False
+2026-08-01,Raleigh/Durham,100.55,False
+2026-08-01,San Francisco,106.73,False
+2026-08-01,San Diego,103.41,False
+2026-08-08,New York,100.9,False
+2026-08-08,Boston,100.13,False
+2026-08-08,Los Angeles,99.4,False
+2026-08-08,Baltimore,100.05,False
+2026-08-08,"Washington, DC",99.51,False
+2026-08-08,Charlotte,100.99,False
+2026-08-08,Seattle,99.01,False
+2026-08-08,Denver,103.42,False
+2026-08-08,Austin,112.93,False
+2026-08-08,San Francisco-East Bay,101.7,False
+2026-08-08,Orange County,102.99,False
+2026-08-08,Miami/Fort Lauderdale,100.96,False
+2026-08-08,San Jose,108.23,False
+2026-08-08,Dallas/Fort Worth,102.43,False
+2026-08-08,Raleigh/Durham,100.73,False
+2026-08-08,San Francisco,107.12,False
+2026-08-08,San Diego,103.67,False
+2026-08-15,New York,100.78,False
+2026-08-15,Boston,100.21,False
+2026-08-15,Los Angeles,98.76,False
+2026-08-15,Baltimore,100.86,False
+2026-08-15,"Washington, DC",98.29,False
+2026-08-15,Charlotte,101.02,False
+2026-08-15,Seattle,98.4,False
+2026-08-15,Denver,102.55,False
+2026-08-15,Austin,112.19,False
+2026-08-15,San Francisco-East Bay,101.82,False
+2026-08-15,Orange County,101.51,False
+2026-08-15,Miami/Fort Lauderdale,101.46,False
+2026-08-15,San Jose,107.84,False
+2026-08-15,Dallas/Fort Worth,101.39,False
+2026-08-15,Raleigh/Durham,100.85,False
+2026-08-15,San Francisco,108.25,False
+2026-08-15,San Diego,103.8,False
+2026-08-22,New York,100.8,False
+2026-08-22,Boston,100.29,False
+2026-08-22,Los Angeles,98.39,False
+2026-08-22,Baltimore,100.72,False
+2026-08-22,"Washington, DC",97.41,False
+2026-08-22,Charlotte,101.09,False
+2026-08-22,Seattle,99.57,False
+2026-08-22,Denver,101.59,False
+2026-08-22,Austin,111.27,False
+2026-08-22,San Francisco-East Bay,101.12,False
+2026-08-22,Orange County,101.78,False
+2026-08-22,Miami/Fort Lauderdale,102.53,False
+2026-08-22,San Jose,106.81,False
+2026-08-22,Dallas/Fort Worth,100.46,False
+2026-08-22,Raleigh/Durham,100.58,False
+2026-08-22,San Francisco,108.59,False
+2026-08-22,San Diego,103.17,False
+2026-08-29,New York,101.35,False
+2026-08-29,Boston,99.28,False
+2026-08-29,Los Angeles,97.18,False
+2026-08-29,Baltimore,101.68,False
+2026-08-29,"Washington, DC",96.23,False
+2026-08-29,Charlotte,100.57,False
+2026-08-29,Seattle,100.05,False
+2026-08-29,Denver,99.85,False
+2026-08-29,Austin,110.4,False
+2026-08-29,San Francisco-East Bay,101.66,False
+2026-08-29,Orange County,103.77,False
+2026-08-29,Miami/Fort Lauderdale,101.73,False
+2026-08-29,San Jose,105.99,False
+2026-08-29,Dallas/Fort Worth,102.62,False
+2026-08-29,Raleigh/Durham,99.11,False
+2026-08-29,San Francisco,107.12,False
+2026-08-29,San Diego,104.07,False
+2026-09-05,New York,101.3,False
+2026-09-05,Boston,98.32,False
+2026-09-05,Los Angeles,97.36,False
+2026-09-05,Baltimore,99.59,False
+2026-09-05,"Washington, DC",97.06,False
+2026-09-05,Charlotte,100.15,False
+2026-09-05,Seattle,99.5,False
+2026-09-05,Denver,98.18,False
+2026-09-05,Austin,109.92,False
+2026-09-05,San Francisco-East Bay,100.83,False
+2026-09-05,Orange County,102.19,False
+2026-09-05,Miami/Fort Lauderdale,100.94,False
+2026-09-05,San Jose,105.55,False
+2026-09-05,Dallas/Fort Worth,102.3,False
+2026-09-05,Raleigh/Durham,98.96,False
+2026-09-05,San Francisco,106.93,False
+2026-09-05,San Diego,103.23,False
+2026-09-12,New York,101.36,False
+2026-09-12,Boston,98.3,False
+2026-09-12,Los Angeles,97.35,False
+2026-09-12,Baltimore,99.98,False
+2026-09-12,"Washington, DC",95.72,False
+2026-09-12,Charlotte,100.02,False
+2026-09-12,Seattle,97.67,False
+2026-09-12,Denver,98.36,False
+2026-09-12,Austin,107.88,False
+2026-09-12,San Francisco-East Bay,101.16,False
+2026-09-12,Orange County,100.43,False
+2026-09-12,Miami/Fort Lauderdale,100.4,False
+2026-09-12,San Jose,105.41,False
+2026-09-12,Dallas/Fort Worth,99.82,False
+2026-09-12,Raleigh/Durham,99.1,False
+2026-09-12,San Francisco,107.28,False
 2026-09-12,San Diego,102.97,False
-2026-09-19,New York,101.45,False
-2026-09-19,Boston,97.87,False
-2026-09-19,Los Angeles,97.57,False
-2026-09-19,"Washington, DC",95.47,False
-2026-09-19,Baltimore,99.32,False
-2026-09-19,Charlotte,99.51,False
-2026-09-19,Denver,97.55,False
-2026-09-19,Seattle,96.54,False
-2026-09-19,Austin,106.91,False
-2026-09-19,San Francisco-East Bay,100.37,False
-2026-09-19,Orange County,99.55,False
-2026-09-19,Dallas/Fort Worth,101.32,False
-2026-09-19,Miami/Fort Lauderdale,99.52,False
-2026-09-19,San Jose,105.51,False
-2026-09-19,Raleigh/Durham,99.19,False
-2026-09-19,San Francisco,108.32,False
-2026-09-19,San Diego,102.06,False
-2026-09-26,New York,101.47,False
-2026-09-26,Boston,98.62,False
-2026-09-26,Los Angeles,97.29,False
-2026-09-26,"Washington, DC",96.08,False
-2026-09-26,Baltimore,98.93,False
-2026-09-26,Charlotte,99.55,False
-2026-09-26,Denver,97.09,False
-2026-09-26,Seattle,96.63,False
-2026-09-26,Austin,107.19,False
-2026-09-26,San Francisco-East Bay,99.96,False
-2026-09-26,Orange County,101.43,False
-2026-09-26,Dallas/Fort Worth,101.98,False
-2026-09-26,Miami/Fort Lauderdale,100.99,False
-2026-09-26,San Jose,105.74,False
-2026-09-26,Raleigh/Durham,99.6,False
-2026-09-26,San Francisco,107.31,False
-2026-09-26,San Diego,99.0,False
-2026-10-03,New York,101.65,True
-2026-10-03,Boston,98.38,True
+2026-09-19,New York,101.53,False
+2026-09-19,Boston,97.64,False
+2026-09-19,Los Angeles,97.55,False
+2026-09-19,Baltimore,99.76,False
+2026-09-19,"Washington, DC",96.0,False
+2026-09-19,Charlotte,99.35,False
+2026-09-19,Seattle,97.79,False
+2026-09-19,Denver,97.78,False
+2026-09-19,Austin,107.58,False
+2026-09-19,San Francisco-East Bay,101.24,False
+2026-09-19,Orange County,99.97,False
+2026-09-19,Miami/Fort Lauderdale,99.93,False
+2026-09-19,San Jose,104.75,False
+2026-09-19,Dallas/Fort Worth,100.89,False
+2026-09-19,Raleigh/Durham,99.44,False
+2026-09-19,San Francisco,108.35,False
+2026-09-19,San Diego,102.57,False
+2026-09-26,New York,101.59,False
+2026-09-26,Boston,98.41,False
+2026-09-26,Los Angeles,97.25,False
+2026-09-26,Baltimore,99.41,False
+2026-09-26,"Washington, DC",96.53,False
+2026-09-26,Charlotte,99.56,False
+2026-09-26,Seattle,97.86,False
+2026-09-26,Denver,97.35,False
+2026-09-26,Austin,107.08,False
+2026-09-26,San Francisco-East Bay,100.9,False
+2026-09-26,Orange County,101.89,False
+2026-09-26,Miami/Fort Lauderdale,101.35,False
+2026-09-26,San Jose,105.09,False
+2026-09-26,Dallas/Fort Worth,101.64,False
+2026-09-26,Raleigh/Durham,99.94,False
+2026-09-26,San Francisco,107.15,False
+2026-09-26,San Diego,99.17,False
+2026-10-03,New York,101.77,True
+2026-10-03,Boston,98.13,True
 2026-10-03,Los Angeles,96.83,True
-2026-10-03,"Washington, DC",96.5,True
-2026-10-03,Baltimore,99.005,True
-2026-10-03,Charlotte,98.985,True
-2026-10-03,Denver,95.215,True
-2026-10-03,Seattle,96.345,True
-2026-10-03,Austin,107.67,True
-2026-10-03,San Francisco-East Bay,99.42,True
-2026-10-03,Orange County,101.925,True
-2026-10-03,Dallas/Fort Worth,102.15,True
-2026-10-03,Miami/Fort Lauderdale,100.44,True
-2026-10-03,San Jose,105.6,True
-2026-10-03,Raleigh/Durham,100.39,True
-2026-10-03,San Francisco,106.35,True
-2026-10-03,San Diego,99.365,True
-2026-10-10,New York,101.83,False
-2026-10-10,Boston,98.14,False
-2026-10-10,Los Angeles,96.37,False
-2026-10-10,"Washington, DC",96.92,False
-2026-10-10,Baltimore,99.08,False
-2026-10-10,Charlotte,98.42,False
-2026-10-10,Denver,93.34,False
-2026-10-10,Seattle,96.06,False
-2026-10-10,Austin,108.15,False
-2026-10-10,San Francisco-East Bay,98.88,False
-2026-10-10,Orange County,102.42,False
-2026-10-10,Dallas/Fort Worth,102.32,False
-2026-10-10,Miami/Fort Lauderdale,99.89,False
-2026-10-10,San Jose,105.46,False
-2026-10-10,Raleigh/Durham,101.18,False
-2026-10-10,San Francisco,105.39,False
-2026-10-10,San Diego,99.73,False
-2026-10-17,New York,101.93,False
-2026-10-17,Boston,97.75,False
-2026-10-17,Los Angeles,96.27,False
-2026-10-17,"Washington, DC",96.81,False
-2026-10-17,Baltimore,98.94,False
-2026-10-17,Charlotte,98.17,False
-2026-10-17,Denver,92.85,False
-2026-10-17,Seattle,95.36,False
-2026-10-17,Austin,109.2,False
-2026-10-17,San Francisco-East Bay,98.35,False
-2026-10-17,Orange County,101.99,False
-2026-10-17,Dallas/Fort Worth,101.64,False
-2026-10-17,Miami/Fort Lauderdale,99.73,False
-2026-10-17,San Jose,104.0,False
-2026-10-17,Raleigh/Durham,101.84,False
-2026-10-17,San Francisco,104.57,False
-2026-10-17,San Diego,99.27,False
-2026-10-24,New York,102.52,False
-2026-10-24,Boston,97.13,False
-2026-10-24,Los Angeles,95.83,False
-2026-10-24,"Washington, DC",96.39,False
-2026-10-24,Baltimore,98.82,False
-2026-10-24,Charlotte,97.79,False
-2026-10-24,Denver,92.97,False
-2026-10-24,Seattle,94.97,False
-2026-10-24,Austin,110.75,False
-2026-10-24,San Francisco-East Bay,98.58,False
-2026-10-24,Orange County,101.93,False
-2026-10-24,Dallas/Fort Worth,102.38,False
-2026-10-24,Miami/Fort Lauderdale,99.95,False
-2026-10-24,San Jose,102.97,False
-2026-10-24,Raleigh/Durham,101.48,False
-2026-10-24,San Francisco,104.08,False
-2026-10-24,San Diego,99.28,False
+2026-10-03,Baltimore,99.43,True
+2026-10-03,"Washington, DC",97.04,True
+2026-10-03,Charlotte,99.065,True
+2026-10-03,Seattle,97.55,True
+2026-10-03,Denver,95.365,True
+2026-10-03,Austin,107.805,True
+2026-10-03,San Francisco-East Bay,100.34,True
+2026-10-03,Orange County,102.295,True
+2026-10-03,Miami/Fort Lauderdale,100.68,True
+2026-10-03,San Jose,104.995,True
+2026-10-03,Dallas/Fort Worth,101.875,True
+2026-10-03,Raleigh/Durham,100.715,True
+2026-10-03,San Francisco,106.44,True
+2026-10-03,San Diego,99.875,True
+2026-10-10,New York,101.95,False
+2026-10-10,Boston,97.85,False
+2026-10-10,Los Angeles,96.41,False
+2026-10-10,Baltimore,99.45,False
+2026-10-10,"Washington, DC",97.55,False
+2026-10-10,Charlotte,98.57,False
+2026-10-10,Seattle,97.24,False
+2026-10-10,Denver,93.38,False
+2026-10-10,Austin,108.53,False
+2026-10-10,San Francisco-East Bay,99.78,False
+2026-10-10,Orange County,102.7,False
+2026-10-10,Miami/Fort Lauderdale,100.01,False
+2026-10-10,San Jose,104.9,False
+2026-10-10,Dallas/Fort Worth,102.11,False
+2026-10-10,Raleigh/Durham,101.49,False
+2026-10-10,San Francisco,105.73,False
+2026-10-10,San Diego,100.58,False
+2026-10-17,New York,102.09,False
+2026-10-17,Boston,97.46,False
+2026-10-17,Los Angeles,96.91,False
+2026-10-17,Baltimore,99.22,False
+2026-10-17,"Washington, DC",97.26,False
+2026-10-17,Charlotte,98.2,False
+2026-10-17,Seattle,96.44,False
+2026-10-17,Denver,92.87,False
+2026-10-17,Austin,109.47,False
+2026-10-17,San Francisco-East Bay,99.06,False
+2026-10-17,Orange County,102.93,False
+2026-10-17,Miami/Fort Lauderdale,99.94,False
+2026-10-17,San Jose,103.15,False
+2026-10-17,Dallas/Fort Worth,101.5,False
+2026-10-17,Raleigh/Durham,102.19,False
+2026-10-17,San Francisco,104.95,False
+2026-10-17,San Diego,101.48,False
+2026-10-24,New York,102.73,False
+2026-10-24,Boston,96.86,False
+2026-10-24,Los Angeles,96.39,False
+2026-10-24,Baltimore,99.14,False
+2026-10-24,"Washington, DC",96.94,False
+2026-10-24,Charlotte,97.91,False
+2026-10-24,Seattle,95.97,False
+2026-10-24,Denver,92.88,False
+2026-10-24,Austin,111.01,False
+2026-10-24,San Francisco-East Bay,99.15,False
+2026-10-24,Orange County,102.81,False
+2026-10-24,Miami/Fort Lauderdale,99.98,False
+2026-10-24,San Jose,102.51,False
+2026-10-24,Dallas/Fort Worth,102.13,False
+2026-10-24,Raleigh/Durham,101.82,False
+2026-10-24,San Francisco,104.35,False
+2026-10-24,San Diego,101.58,False
+2026-10-31,New York,102.15,False
+2026-10-31,Boston,96.49,False
+2026-10-31,Los Angeles,96.7,False
+2026-10-31,Baltimore,99.1,False
+2026-10-31,"Washington, DC",96.67,False
+2026-10-31,Charlotte,97.77,False
+2026-10-31,Seattle,96.18,False
+2026-10-31,Denver,92.9,False
+2026-10-31,Austin,111.34,False
+2026-10-31,San Francisco-East Bay,98.59,False
+2026-10-31,Orange County,102.03,False
+2026-10-31,Miami/Fort Lauderdale,99.56,False
+2026-10-31,San Jose,102.67,False
+2026-10-31,Dallas/Fort Worth,104.66,False
+2026-10-31,Raleigh/Durham,99.14,False
+2026-10-31,San Francisco,104.65,False
+2026-10-31,San Diego,101.27,False
