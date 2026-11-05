@@ -28,6 +28,18 @@
 > series in `summary_history.csv` are retained as a measure of price-cut
 > activity on listed units, not of rent levels.
 >
+> **Method change, 2026-11-05 — lease-term effects estimated REIT-wide.** The
+> lease-term effect below is now estimated once per REIT, on its whole
+> portfolio, and the same effects are applied to every market series. Fitting
+> it market by market failed where a site switched every unit's term in the
+> same week (INVH moved ~95-99% of homes in Las Vegas, Atlanta, Charlotte,
+> Miami, Nashville and Phoenix to 18-23-month quotes the week of 2026-08-29):
+> inside one market the term change and the price change cannot be separated.
+> REIT totals are unchanged; market history is restated. Largest revisions
+> (asking NER, Aug 1 -> Oct 31): INVH Las Vegas -8.5 pts, UDR Philadelphia
+> -5.6, INVH Jacksonville +4.5, INVH Phoenix -3.4; new-lease 4-week: INVH
+> Phoenix -6.8, CPT Austin -2.7, EQR Boston +2.5, INVH Atlanta +2.3.
+>
 > **Method change, 2026-10-29 — lease-term adjustment.** AVB, CPT, EQR, UDR and
 > INVH quote each unit at one lease term (10-24 months), and the term shown
 > changes from week to week (INVH switched most homes from 12/24-month to
