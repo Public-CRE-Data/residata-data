@@ -28,6 +28,23 @@
 > series in `summary_history.csv` are retained as a measure of price-cut
 > activity on listed units, not of rent levels.
 >
+> **Correction, 2026-11-13 — AVB concessions restated back to 2026-03-31.**
+> AVB tags its "select homes" offers on individual units; units without a tag
+> get no discount on AVB's own site. Until this week the scraper gave every
+> such unit the community-wide offer, so about half of AVB listings were
+> recorded as discounted when they were not. AVB net effective rent (and VMRK,
+> which includes it) is restated using Internet Archive snapshots of AVB
+> community pages (Mar-Oct 2026) and live pages on 2026-11-13: units shown in a
+> snapshot within 3 days are corrected exactly; the rest carry the offer
+> weighted by their community's share of units with an offer of their own,
+> interpolated between snapshots. AVB's average discount to asking falls from
+> 7.4% -> 9.1% (Mar -> Nov, as published) to 3.6% -> 4.7%; the asking net
+> effective index (Mar 28 = 100) moves from 95.6 to 96.2 in the week of
+> 2026-11-14; gross rents are unchanged. Estimated weeks carry roughly +/-1.5
+> pts uncertainty on the discount level (tested against the live pages). AVB's
+> concession-share series still counts estimated rows as offering a
+> concession. From 2026-11-20 the scraper records units' own offers only.
+>
 > **Method change, 2026-11-05 — lease-term effects estimated REIT-wide.** The
 > lease-term effect below is now estimated once per REIT, on its whole
 > portfolio, and the same effects are applied to every market series. Fitting
