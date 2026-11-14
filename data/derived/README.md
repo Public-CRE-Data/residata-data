@@ -45,6 +45,56 @@
 > concession-share series still counts estimated rows as offering a
 > concession. From 2026-11-20 the scraper records units' own offers only.
 >
+> **Correction, 2026-11-14 — UDR and MAA concessions restated back to 2026-03-31.**
+> UDR and MAA, like AVB, attach many offers to individual units ("select
+> apartments"); units without one get no discount on the REIT's own site.
+> Until this week both scrapers gave every unit its community's offer, so on
+> 2026-11-13 we recorded 91% of UDR and 75% of MAA listings as discounted
+> against about 32% and 27% on the sites. Restated with the AVB method above
+> (Internet Archive snapshots Mar-Oct 2026 plus live pages on 2026-11-13;
+> where a unit's own offer text differs from the community's, it is re-parsed
+> from its own text). Average discount to asking, first -> latest week:
+> UDR 3.7% -> 4.4% as published, now 1.8% -> 2.7%; MAA 6.5% -> 6.4% as
+> published, now 1.4% -> 2.6%. Because MAA's discounts were overstated most
+> in the spring, its asking net effective index (Mar 28 = 100) moves from
+> 99.5 to 98.2 in the week of 2026-11-14, below CPT (99.1); UDR moves from
+> 100.4 to 100.4. Estimated weeks carry roughly +/-1 pt uncertainty on the
+> discount level (tested against the live pages, both slightly understated).
+> Also from this week, for all REITs: add-on offers that are not rent
+> discounts (storage, parking, garages, amenity or package fees, e.g. UDR's
+> "$44.99/month" package) are no longer counted as concessions, unless the
+> offer also discounts rent; about 4,000 historical rows (UDR 2,700, AVB 660,
+> ESS 420, EQR 170) are affected. Gross rents are unchanged. From 2026-11-20
+> the UDR and MAA scrapers record units' own offers only.
+>
+> Also restated the same week. **CPT:** "$X OFF" banners whose fine print reads
+> "Application and administrative fee credited at move-in" are fee credits, not
+> rent discounts, and are no longer counted (26 of 70 CPT communities with
+> offers on 2026-11-13; about 12,400 historical listing-weeks, classified from
+> Internet Archive and live fine print; 9% of "$X OFF" offers had no fine print
+> available and are still counted). CPT's average discount in the latest week
+> falls from 3.5% to 3.2%. **ESS:** ESS shows one "Save up to $X" banner per
+> community, limited in its fine print to select units, and its site data never
+> says which units. Applying the full amount to every floor plan overstates the
+> discount, so ESS discounts are now scaled to 41%: the share of "advertised
+> amount x every unit" that units actually received on 2026-11-13 at the REITs
+> whose sites do show unit-level offers (AVB 41%, MAA 41%, UDR 44%, pooled
+> 41%). This is an estimate borrowed from other REITs, and leans high (units'
+> own "up to" offers are still valued at their maximum); ESS's average
+> discount falls from 3.2% to about 1.3% in the latest week,
+> and changes in ESS concessions move its net effective series about half as
+> much as before.
+>
+> **Method change, 2026-11-14 — new-lease index controls for unit size.**
+> Within a building and bedroom count, the units that lease in a given week can
+> be larger or smaller than usual, and ESS (which lists floor plans, not units)
+> moved most on this. Each lease's rent is now restated to its cell's average
+> size using the REIT's within-cell size elasticity (0.35-0.58, estimated on
+> its whole portfolio and reused for every market). History is restated. New-lease
+> net effective 4-week index, change since 2026-09-26, before -> after: ESS
+> -3.3 -> -2.6, UDR +0.6 -> +0.1, INVH -3.0 -> -2.4, CPT -1.4 -> -0.9; other
+> REITs within 0.4 pt. The listings index is unchanged.
+>
 > **Method change, 2026-11-05 — lease-term effects estimated REIT-wide.** The
 > lease-term effect below is now estimated once per REIT, on its whole
 > portfolio, and the same effects are applied to every market series. Fitting
