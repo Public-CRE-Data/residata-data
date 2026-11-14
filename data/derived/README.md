@@ -95,6 +95,21 @@
 > -3.3 -> -2.6, UDR +0.6 -> +0.1, INVH -3.0 -> -2.4, CPT -1.4 -> -0.9; other
 > REITs within 0.4 pt. The listings index is unchanged.
 >
+> **Restored, 2026-11-14 — INVH new-lease history, April-July 2026.** Before
+> 2026-08-01 the INVH scraper recorded a neighbouring home's price, so INVH was
+> dropped before that date. The listings themselves were valid (which home,
+> which weeks, beds, ZIP, lease term), so leases can still be identified; the
+> new-lease index now prices them at each home's own rent from Internet Archive
+> snapshots of its page, used only from the snapshot date and only where the
+> snapshot was within 14 days of the home's last listed week, marked down by
+> INVH's measured final-weeks markdown (-1.1% a week) for any staleness.
+> Tested against correctly scraped rents on 2026-08-03 (same homes: median
+> ratio 1.008 for snapshots within 30 days). About 30-220 leases a week before
+> August (600-1,000 after), so read April-July as a trend. INVH's Aug-Nov
+> values move by 0.2 pt or less; other REITs are unchanged. INVH's listings
+> (asking) index still starts 2026-08-01: it needs every listed home's price
+> every week, which the archive does not have.
+>
 > **Method change, 2026-11-05 — lease-term effects estimated REIT-wide.** The
 > lease-term effect below is now estimated once per REIT, on its whole
 > portfolio, and the same effects are applied to every market series. Fitting
