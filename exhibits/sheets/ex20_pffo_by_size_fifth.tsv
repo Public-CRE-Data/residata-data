@@ -1,0 +1,11 @@
+Size within property type	Forward P/FFO vs property-type median (%)	REIT-quarters
+Smallest fifth	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$Q$2:$Q$6071,1,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$Q$2:$Q$6071,1,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+2nd	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$Q$2:$Q$6071,2,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$Q$2:$Q$6071,2,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+3rd	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$Q$2:$Q$6071,3,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$Q$2:$Q$6071,3,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+4th	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$Q$2:$Q$6071,4,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$Q$2:$Q$6071,4,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+Largest fifth	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$Q$2:$Q$6071,5,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$Q$2:$Q$6071,5,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+Sector #1	=(EXP(AVERAGEIFS(PFFOPanel!$S$2:$S$6071,PFFOPanel!$R$2:$R$6071,1,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1))-1)*100	=COUNTIFS(PFFOPanel!$R$2:$R$6071,1,PFFOPanel!$O$2:$O$6071,">=5",PFFOPanel!$N$2:$N$6071,1)
+
+Total REIT-quarters	=SUM(C2:C6)
+
+Geometric mean of P/FFO relative to the median of the other REITs of the same property type that quarter; property type-quarters with 5+ REITs; size = forward FFO ($).

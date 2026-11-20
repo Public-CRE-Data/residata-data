@@ -1,0 +1,17 @@
+Quarter end	% of gross synergies in place	$mn in place at run-rate
+9/30/26	=B13	=B2*$B$10
+12/31/26	=B14	=B3*$B$10
+6/30/27	=B15	=B4*$B$10
+12/31/27	=B16	=B5*$B$10
+3/31/28	=B17	=B6*$B$10
+
+Input block: company schedule
+
+Gross synergy target ($mn)	185	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+
+Quarter end	% in place	Source document
+9/30/26	0.2	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+12/31/26	0.25	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+6/30/27	0.5	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+12/31/27	0.85	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+3/31/28	1	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)

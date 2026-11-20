@@ -1,0 +1,173 @@
+Share of 3Q26 same-store NOI (%)	VMRK	ESS	UDR	CPT	MAA
+San Francisco Bay Area	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Northern California")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"Total Northern California")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"San Francisco, CA")	0	0
+Los Angeles	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Southern California")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Los Angeles"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"San Diego")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"San Diego"))	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"Los Angeles County")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Los Angeles, CA")	0	0
+Washington, DC	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Mid-Atlantic")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Washington DC")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Northern Virginia")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Suburban Maryland")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Washington, D.C."))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Washington DC")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Northern Virginia")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Suburban Maryland")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Washington, D.C.")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Baltimore, MD"))	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Metropolitan DC")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"D.C. Metro (a)")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Northern Virginia")+SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Fredericksburg, VA"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Boston	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Boston")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Boston, MA")	0	0
+New York City	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Metro NY/NJ")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York City")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"New York"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York City")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"New York")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York - Suburban")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New Jersey"))	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"New York, NY")	0	0
+Seattle	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Seattle")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"Seattle Metro")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Seattle, WA")	0	0
+New York suburbs and New Jersey	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Metro NY/NJ")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York - Suburban")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New Jersey"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York City")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"New York")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New York - Suburban")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"New Jersey"))	0	0	0	0
+Orange County	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Southern California")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Orange County"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"San Diego")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"San Diego"))	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"Orange County")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Orange County, CA")	0	0
+San Diego	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Southern California")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"San Diego")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"San Diego"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Los Angeles")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Orange County")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"San Diego")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"San Diego"))	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"San Diego County")	0	0	0
+Denver	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Denver")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Denver, CO")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Denver, CO"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Southeast Florida	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Southeast Florida")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"SE Florida")	0
+Atlanta	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Atlanta")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Atlanta, GA")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Atlanta, GA"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Baltimore	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Mid-Atlantic")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Baltimore, MD"))/(SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Washington DC")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Northern Virginia")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Suburban Maryland")+SUMIFS($C$42:$C$173,$A$42:$A$173,"EQR_rev",$B$42:$B$173,"Washington, D.C.")+SUMIFS($C$42:$C$173,$A$42:$A$173,"AVB_rev",$B$42:$B$173,"Baltimore, MD"))	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Baltimore, MD")	0	0
+Dallas-Fort Worth	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Texas")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*SUMIFS($C$42:$C$173,$A$42:$A$173,"assumption",$B$42:$B$173,"Texas: Dallas-Fort Worth share")	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Dallas, TX")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Dallas, TX")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Dallas, TX")+SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Fort Worth, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Austin	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"Texas")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(1-SUMIFS($C$42:$C$173,$A$42:$A$173,"assumption",$B$42:$B$173,"Texas: Dallas-Fort Worth share"))	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Austin, TX")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Austin, TX")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Austin, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Charlotte	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"North Carolina")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*SUMIFS($C$42:$C$173,$A$42:$A$173,"assumption",$B$42:$B$173,"North Carolina: Charlotte share")	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Charlotte, NC")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Charlotte, NC"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Raleigh-Durham	=SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi",$B$42:$B$173,"North Carolina")/SUMIFS($C$42:$C$173,$A$42:$A$173,"VMRK_noi")*100*(1-SUMIFS($C$42:$C$173,$A$42:$A$173,"assumption",$B$42:$B$173,"North Carolina: Charlotte share"))	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Raleigh, NC")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Raleigh/Durham, NC"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Other Southern California	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"ESS",$B$42:$B$173,"Ventura County")	0	0	0
+Houston	0	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Houston, TX")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Houston, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Phoenix	0	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Phoenix, AZ")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Phoenix, AZ"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Orlando	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Orlando, FL")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Orlando, FL")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Orlando, FL"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Tampa	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Tampa, FL")	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Tampa, FL")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Tampa, FL"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Nashville	0	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"CPT",$B$42:$B$173,"Nashville, TN")	=(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Nashville, TN"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100
+Philadelphia	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Philadelphia, PA")	0	0
+Other Sunbelt	0	0	0	0	=100-((SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Atlanta, GA"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Dallas, TX")+SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Fort Worth, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Orlando, FL"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Tampa, FL"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Charlotte, NC"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Austin, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Raleigh/Durham, NC"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Nashville, TN"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Houston, TX"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Phoenix, AZ"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Northern Virginia")+SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Fredericksburg, VA"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100+(SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Denver, CO"))/SUMIFS($C$42:$C$173,$A$42:$A$173,"MAA_noi",$B$42:$B$173,"Total Same Store")*100)
+Other markets	0	0	=SUMIFS($C$42:$C$173,$A$42:$A$173,"UDR",$B$42:$B$173,"Other Markets")	0	0
+Coastal	=B2+B3+B4+B5+B6+B7+B8+B9+B10+B14+B19+B25	=C2+C3+C4+C5+C6+C7+C8+C9+C10+C14+C19+C25	=D2+D3+D4+D5+D6+D7+D8+D9+D10+D14+D19+D25	=E2+E3+E4+E5+E6+E7+E8+E9+E10+E14+E19+E25	=F2+F3+F4+F5+F6+F7+F8+F9+F10+F14+F19+F25
+Sunbelt, Denver and other	=SUM(B2:B27)-B28	=SUM(C2:C27)-C28	=SUM(D2:D27)-D28	=SUM(E2:E27)-E28	=SUM(F2:F27)-F28
+
+
+
+
+
+
+
+
+
+
+Input block: source rows (values as reported)
+Series	Market (as reported)	Value	What it is	Source document
+VMRK_noi	Boston	120290	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Metro NY/NJ	171738	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Mid-Atlantic	135939	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	North Carolina	3977	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Atlanta	15522	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Southeast Florida	17160	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Texas	16576	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Denver	24036	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Seattle	79294	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Northern California	168170	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+VMRK_noi	Southern California	223840	3Q26 merged same-store NOI ($000)	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05)
+ESS	Los Angeles County	15.4	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Orange County	10.7	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	San Diego County	10.2	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Ventura County	5	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Total Southern California	41.3	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Santa Clara County	21.9	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Alameda County	6.7	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	San Mateo County	4.5	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Contra Costa County	5	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	San Francisco	2.9	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Total Northern California	41	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Seattle Metro	17.7	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+ESS	Total Same-Property	100	% NOI 3Q26	ESS 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Orange County, CA	12.7	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	San Francisco, CA	11.1	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Seattle, WA	6	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Los Angeles, CA	3.2	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Boston, MA	11.4	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	New York, NY	7.3	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Philadelphia, PA	2.6	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Metropolitan DC	16.5	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Baltimore, MD	2.1	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Dallas, TX	9.8	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Austin, TX	1.9	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Tampa, FL	5.8	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Orlando, FL	2.5	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Other Markets	7.1	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+UDR	Total/Weighted Avg.	100	% NOI 3Q26	UDR 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	D.C. Metro (a)	15.8	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Houston, TX	11.1	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Phoenix, AZ	9.1	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Dallas, TX	8.2	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	SE Florida	8.1	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Orlando, FL	7.7	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Atlanta, GA	8.2	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Tampa, FL	7	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Charlotte, NC	6.8	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Denver, CO	6.3	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Raleigh, NC	5	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Austin, TX	5.2	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Nashville, TN	1.5	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Los Angeles/Orange County, CA	1.4	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	San Diego/Inland Empire, CA	1.4	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+CPT	Total Portfolio	100	% NOI 3Q26	CPT 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+EQR	Los Angeles	16	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Los Angeles	116186.318676	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Orange County	5.1	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Orange County	32723.15904	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	San Diego	3.3	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	San Diego	21431.429175	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Subtotal – Southern California	24.4	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Subtotal – Southern California	170367.13002	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	San Francisco	17.9	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	San Francisco	119730.746214	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Washington, D.C.	14.9	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Washington, D.C.	107897.049216	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	New York	14.3	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	New York	120120.84864	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Boston	10.7	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Boston	75065.291532	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Seattle	9	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Seattle	63328.7382	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Denver	3.5	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Denver	26222.16714	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Atlanta	3.1	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Atlanta	23441.902008	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Dallas/Austin	2.2	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Dallas/Austin	18648.644952	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR	Total	100	% NOI 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+EQR_rev	Total	724636.2970080001	est revenue $000 2Q26	EQR 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+MAA_noi	Atlanta, GA	35731	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Dallas, TX	27641	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Orlando, FL	25079	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Tampa, FL	22919	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Charlotte, NC	19852	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Austin, TX	17782	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Raleigh/Durham, NC	16244	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Nashville, TN	14720	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Charleston, SC	12730	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Houston, TX	12303	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Phoenix, AZ	12118	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Fort Worth, TX	11333	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Northern Virginia	10487	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Jacksonville, FL	9080	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Richmond, VA	6692	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Greenville, SC	6577	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Fredericksburg, VA	6424	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Savannah, GA	5981	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Birmingham, AL	4219	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Denver, CO	4219	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Kansas City, MO-KS	3559	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	San Antonio, TX	3215	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Memphis, TN	3203	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Huntsville, AL	2959	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Other	20972	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+MAA_noi	Total Same Store	316039	NOI $000 3Q26	MAA 3Q26 supplemental (8-K Ex 99.2, 2026-10)
+AVB_rev	Boston, MA	96930	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	New York City	47696	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	New York - Suburban	42349	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	New Jersey	53592	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Metro NY/NJ	143637	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Washington DC	7713	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Northern Virginia	47323	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Suburban Maryland	17710	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Baltimore, MD	21311	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Mid-Atlantic	94057	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Southeast FL	26728	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Denver, CO	13356	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Seattle, WA	47230	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	San Jose	44836	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	East Bay	39646	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	San Francisco	32016	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Northern California	116498	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Los Angeles	101602	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Orange County	35774	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	San Diego	16581	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Southern California	153957	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Other Expansion Regions	17193	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+AVB_rev	Total Same Store	709586	rental revenue $000 2Q26	AVB 2Q26 supplemental (8-K Ex 99.2, 2026-07-23)
+assumption	Texas: Dallas-Fort Worth share	0.786	VMRK reports one Texas region; split by CoStar units x asking rent	CoStar (operating communities, Nov 2026)
+assumption	North Carolina: Charlotte share	0.7272727273	VMRK North Carolina split by community count (8 of 11 in Charlotte)	CoStar (operating communities, Nov 2026)

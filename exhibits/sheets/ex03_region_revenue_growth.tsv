@@ -1,0 +1,32 @@
+Region	Same-store units	Same-store revenue growth y/y, 3Q26 (%)
+Denver, CO	=B22	=C22
+North Carolina	=B23	=C23
+Texas	=B24	=C24
+Mid-Atlantic	=B25	=C25
+Seattle, WA	=B26	=C26
+Atlanta, GA	=B27	=C27
+Southern California	=B28	=C28
+Southeast FL	=B29	=C29
+Boston, MA	=B30	=C30
+Metro NY/NJ	=B31	=C31
+Northern California	=B32	=C32
+
+
+
+
+
+
+
+Input block: as reported
+Region	Same-store units	Same-store revenue growth y/y (%)	Source document
+Denver, CO	6164	-6.2	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+North Carolina	1225	-1.2	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Texas	5519	-0.3	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Mid-Atlantic	26208	0.6	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Seattle, WA	13674	0.8	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Atlanta, GA	4126	1.5	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Southern California	37296	1.5	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Southeast FL	3091	1.7	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Boston, MA	16606	1.8	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Metro NY/NJ	21030	3.2	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region
+Northern California	22438	7.8	VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), merged same-store results by region

@@ -1,0 +1,61 @@
+Market	Units under construction	Communities	Sunbelt expansion market
+N. Carolina	=SUMIFS($D$32:$D$59,$F$32:$F$59,A2)	=COUNTIFS($F$32:$F$59,A2)	=IF(COUNTIFS($J$32:$J$50,A2,$K$32:$K$50,"yes")>0,"yes","no")
+NY/NJ	=SUMIFS($D$32:$D$59,$F$32:$F$59,A3)	=COUNTIFS($F$32:$F$59,A3)	=IF(COUNTIFS($J$32:$J$50,A3,$K$32:$K$50,"yes")>0,"yes","no")
+California	=SUMIFS($D$32:$D$59,$F$32:$F$59,A4)	=COUNTIFS($F$32:$F$59,A4)	=IF(COUNTIFS($J$32:$J$50,A4,$K$32:$K$50,"yes")>0,"yes","no")
+Texas	=SUMIFS($D$32:$D$59,$F$32:$F$59,A5)	=COUNTIFS($F$32:$F$59,A5)	=IF(COUNTIFS($J$32:$J$50,A5,$K$32:$K$50,"yes")>0,"yes","no")
+Mid-Atlantic	=SUMIFS($D$32:$D$59,$F$32:$F$59,A6)	=COUNTIFS($F$32:$F$59,A6)	=IF(COUNTIFS($J$32:$J$50,A6,$K$32:$K$50,"yes")>0,"yes","no")
+Atlanta	=SUMIFS($D$32:$D$59,$F$32:$F$59,A7)	=COUNTIFS($F$32:$F$59,A7)	=IF(COUNTIFS($J$32:$J$50,A7,$K$32:$K$50,"yes")>0,"yes","no")
+Florida	=SUMIFS($D$32:$D$59,$F$32:$F$59,A8)	=COUNTIFS($F$32:$F$59,A8)	=IF(COUNTIFS($J$32:$J$50,A8,$K$32:$K$50,"yes")>0,"yes","no")
+Boston	=SUMIFS($D$32:$D$59,$F$32:$F$59,A9)	=COUNTIFS($F$32:$F$59,A9)	=IF(COUNTIFS($J$32:$J$50,A9,$K$32:$K$50,"yes")>0,"yes","no")
+Denver	=SUMIFS($D$32:$D$59,$F$32:$F$59,A10)	=COUNTIFS($F$32:$F$59,A10)	=IF(COUNTIFS($J$32:$J$50,A10,$K$32:$K$50,"yes")>0,"yes","no")
+
+Sunbelt share of units (%)	=SUMIFS(B2:B10,D2:D10,"yes")/SUM(B2:B10)*100
+Sunbelt share of cost (%)	=SUMPRODUCT(($L$32:$L$59="yes")*$E$32:$E$59)/SUM($E$32:$E$59)*100
+Sunbelt communities	=COUNTIFS($L$32:$L$59,"yes")	=COUNTA($A$32:$A$59)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community	City	State	Units	Total capital cost ($000)	Market group			State	Market group	Sunbelt expansion market	In Sunbelt?
+Avalon West Windsor	West Windsor	NJ	535	209588	=VLOOKUP(C32,$I$32:$J$45,2,FALSE)			CA	California	no	=IF(COUNTIFS($J$32:$J$50,F32,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Pleasanton	Pleasanton	CA	362	218299	=VLOOKUP(C33,$I$32:$J$45,2,FALSE)			WA	Seattle	no	=IF(COUNTIFS($J$32:$J$50,F33,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon at Becker Farm	Roseland	NJ	533	186483	=VLOOKUP(C34,$I$32:$J$45,2,FALSE)			MA	Boston	no	=IF(COUNTIFS($J$32:$J$50,F34,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Tech Ridge I	Austin	TX	544	152589	=VLOOKUP(C35,$I$32:$J$45,2,FALSE)			NY	NY/NJ	no	=IF(COUNTIFS($J$32:$J$50,F35,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Carmel	Charlotte	NC	360	118016	=VLOOKUP(C36,$I$32:$J$45,2,FALSE)			NJ	NY/NJ	no	=IF(COUNTIFS($J$32:$J$50,F36,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Plano	Plano	TX	155	57507	=VLOOKUP(C37,$I$32:$J$45,2,FALSE)			CT	NY/NJ	no	=IF(COUNTIFS($J$32:$J$50,F37,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Oakridge I	Durham	NC	459	148971	=VLOOKUP(C38,$I$32:$J$45,2,FALSE)			MD	Mid-Atlantic	no	=IF(COUNTIFS($J$32:$J$50,F38,$K$32:$K$50,"yes")>0,"yes","no")
+AVA Brewer's Hill	Baltimore	MD	418	132422	=VLOOKUP(C39,$I$32:$J$45,2,FALSE)			VA	Mid-Atlantic	no	=IF(COUNTIFS($J$32:$J$50,F39,$K$32:$K$50,"yes")>0,"yes","no")
+Kanso Hillcrest	San Diego	CA	182	84860	=VLOOKUP(C40,$I$32:$J$45,2,FALSE)			DC	Mid-Atlantic	no	=IF(COUNTIFS($J$32:$J$50,F40,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Parker	Parker	CO	312	123232	=VLOOKUP(C41,$I$32:$J$45,2,FALSE)			TX	Texas	yes	=IF(COUNTIFS($J$32:$J$50,F41,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon North Palm Beach	Lake Park	FL	279	117981	=VLOOKUP(C42,$I$32:$J$45,2,FALSE)			NC	N. Carolina	yes	=IF(COUNTIFS($J$32:$J$50,F42,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Brier Creek	Durham	NC	400	126087	=VLOOKUP(C43,$I$32:$J$45,2,FALSE)			GA	Atlanta	yes	=IF(COUNTIFS($J$32:$J$50,F43,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Kendall	Kendall	FL	224	82938	=VLOOKUP(C44,$I$32:$J$45,2,FALSE)			CO	Denver	yes	=IF(COUNTIFS($J$32:$J$50,F44,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Mission Valley	San Diego	CA	621	302318	=VLOOKUP(C45,$I$32:$J$45,2,FALSE)			FL	Florida	yes	=IF(COUNTIFS($J$32:$J$50,F45,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Southpoint	Durham	NC	394	131720	=VLOOKUP(C46,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F46,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Northwest Hills	Austin	TX	252	89968	=VLOOKUP(C47,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F47,$K$32:$K$50,"yes")>0,"yes","no")
+Kanso Parsippany	Parsippany	NJ	280	104157	=VLOOKUP(C48,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F48,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Billerica	Billerica	MA	200	71572	=VLOOKUP(C49,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F49,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Townhome Collection Arundel Mills	Hanover	MD	90	45058	=VLOOKUP(C50,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F50,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon San Ramon	San Ramon	CA	456	250467	=VLOOKUP(C51,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F51,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Somerville Station II	Somerville	NJ	171	64991	=VLOOKUP(C52,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F52,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Saddle River	Saddle River	NJ	275	123157	=VLOOKUP(C53,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F53,$K$32:$K$50,"yes")>0,"yes","no")
+Loxley	Canton	GA	240	59612	=VLOOKUP(C54,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F54,$K$32:$K$50,"yes")>0,"yes","no")
+Wilder at Windward	Alpharetta	GA	280	112149	=VLOOKUP(C55,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F55,$K$32:$K$50,"yes")>0,"yes","no")
+Kanso Plymouth	Plymouth	MA	300	95207	=VLOOKUP(C56,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F56,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Townhome Collection Central Park	Denver	CO	146	68437	=VLOOKUP(C57,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F57,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Dulles Innovation	Herndon	VA	355	120217	=VLOOKUP(C58,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F58,$K$32:$K$50,"yes")>0,"yes","no")
+Avalon Downtown Cary	Cary	NC	281	98421	=VLOOKUP(C59,$I$32:$J$45,2,FALSE)						=IF(COUNTIFS($J$32:$J$50,F59,$K$32:$K$50,"yes")>0,"yes","no")
+
+Source document: VMRK 3Q26 supplemental (8-K Ex 99.2, 2026-11-05), Attachment 10 (development communities under construction, September 30, 2026)

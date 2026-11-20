@@ -1,0 +1,7 @@
+Deal	Bigger-footprint-gain half: margin change (bps)	Rest: margin change (bps)	Gap (bps)
+AVB + Archstone (Feb 2013)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A2,Mergers!$N$2:$N$45,TRUE)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A2,Mergers!$N$2:$N$45,FALSE)	=B2-C2
+ESS + BRE (Apr 2014)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A3,Mergers!$N$2:$N$45,TRUE)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A3,Mergers!$N$2:$N$45,FALSE)	=B3-C3
+MAA + Colonial (Oct 2013)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A4,Mergers!$N$2:$N$45,TRUE)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A4,Mergers!$N$2:$N$45,FALSE)	=B4-C4
+MAA + Post (Dec 2016)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A5,Mergers!$N$2:$N$45,TRUE)	=AVERAGEIFS(Mergers!$J$2:$J$45,Mergers!$A$2:$A$45,A5,Mergers!$N$2:$N$45,FALSE)	=B5-C5
+
+Inputs: Mergers sheet. Each acquirer's markets are split at the deal's median footprint change; three years after the deal vs the year before.

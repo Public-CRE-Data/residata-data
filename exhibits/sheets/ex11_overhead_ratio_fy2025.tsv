@@ -1,0 +1,27 @@
+Portfolio	Overhead ($000)	Property revenue ($000)	Overhead % of property revenue
+VMRK pro forma	=(SUMIFS(Company!$C:$C,Company!$A:$A,"AVB",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("AVB",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("AVB",$A$22:$A$27,0)))+(SUMIFS(Company!$C:$C,Company!$A:$A,"EQR",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("EQR",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"EQR",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("EQR",$A$22:$A$27,0)))	=SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2025)+SUMIFS(Company!$E:$E,Company!$A:$A,"EQR",Company!$B:$B,2025)	=B2/C2*100
+VMRK post-synergy ($115mn overhead target)	=B2-115000	=C2	=B3/C3*100
+MAA	=(SUMIFS(Company!$C:$C,Company!$A:$A,"MAA",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("MAA",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"MAA",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("MAA",$A$22:$A$27,0)))	=SUMIFS(Company!$E:$E,Company!$A:$A,"MAA",Company!$B:$B,2025)	=B4/C4*100
+ESS	=(SUMIFS(Company!$C:$C,Company!$A:$A,"ESS",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("ESS",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"ESS",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("ESS",$A$22:$A$27,0)))	=SUMIFS(Company!$E:$E,Company!$A:$A,"ESS",Company!$B:$B,2025)	=B5/C5*100
+CPT	=(SUMIFS(Company!$C:$C,Company!$A:$A,"CPT",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("CPT",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"CPT",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("CPT",$A$22:$A$27,0)))	=SUMIFS(Company!$E:$E,Company!$A:$A,"CPT",Company!$B:$B,2025)	=B6/C6*100
+UDR	=(SUMIFS(Company!$C:$C,Company!$A:$A,"UDR",Company!$B:$B,2025)-INDEX($B$22:$B$27,MATCH("UDR",$A$22:$A$27,0))+SUMIFS(Company!$D:$D,Company!$A:$A,"UDR",Company!$B:$B,2025)-INDEX($C$22:$C$27,MATCH("UDR",$A$22:$A$27,0)))	=SUMIFS(Company!$E:$E,Company!$A:$A,"UDR",Company!$B:$B,2025)	=B7/C7*100
+
+
+
+
+
+
+
+
+
+
+
+
+Input block: FY2025 one-offs excluded and consolidated units
+REIT	G&A one-offs excluded ($000)	Property-mgmt one-offs excluded ($000)	Consolidated units YE2025	Source document
+AVB	14895	587	86374	AVB 10-K FY2025 and 4Q25 release: legal settlements and costs $13.4mn, severance $1.5mn (G&A); advocacy $0.6mn (property mgmt); units: 10-K FY2025
+EQR	0	0	84174	EQR 10-K FY2025: one-offs sit outside G&A and property management; units: 10-K FY2025
+MAA	0	0	102814	MAA 10-K FY2025: one-offs sit outside G&A and property management; units: 10-K FY2025
+ESS	10004	0	55594	ESS 4Q25 release: G&A and other adjustment $10.0mn (incl. $2.0mn political advocacy); units: 10-K FY2025
+CPT	13400	0	58759	CPT 4Q25 release: legal costs $8.6mn and pursuit costs $4.8mn (in G&A); units: 10-K FY2025
+UDR	9514	0	55240	UDR 10-K FY2025: as reported less $9.5mn adjustment; units: 10-K FY2025

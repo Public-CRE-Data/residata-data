@@ -1,0 +1,19 @@
+REIT	Under construction % of EV	Future pipeline % of EV	Enterprise value ($bn)
+VMRK	=D15/(B15+C15)*100	=E15/(B15+C15)*100	=B15+C15
+ESS	=D16/(B16+C16)*100	=E16/(B16+C16)*100	=B16+C16
+MAA	=D17/(B17+C17)*100	=E17/(B17+C17)*100	=B17+C17
+CPT	=D18/(B18+C18)*100	=E18/(B18+C18)*100	=B18+C18
+UDR	=D19/(B19+C19)*100	=E19/(B19+C19)*100	=B19+C19
+
+
+
+
+
+
+Input block ($bn, 9/30/26)
+REIT	Equity market value or total EV	Total debt (where EV not given)	Under construction	Future pipeline	Source document
+VMRK	64.866	0	3.496	4.2	VMRK 3Q26 supplemental; development rights at merger announcement (May 21, 2026 presentation)
+ESS	24.53	0	0.311	0.035	ESS 3Q26 supplemental (land held for future development)
+MAA	13.998	5.839	0.76	0	MAA 3Q26 supplemental
+CPT	10.01	4.228	0.618	0.362	CPT 3Q26 supplemental (development pipeline)
+UDR	=346.034*35.48/1000	5.756	0.315	0	UDR 3Q26 supplemental; equity at 346.034mn shares x $35.48 (October 2026 buyback price)

@@ -1,0 +1,17 @@
+Deal	Acquirer	Year before	First full year after	Before (%)	After (%)	Change (bps)
+AVB + Archstone	AVB	2012	2014	=SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2012)/SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2012)*100	=SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2014)/SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2014)*100	=(F2-E2)*100
+EQR + Archstone	EQR	2012	2014	=SUMIFS(Company!$D:$D,Company!$A:$A,"EQR",Company!$B:$B,2012)/SUMIFS(Company!$E:$E,Company!$A:$A,"EQR",Company!$B:$B,2012)*100	=SUMIFS(Company!$D:$D,Company!$A:$A,"EQR",Company!$B:$B,2014)/SUMIFS(Company!$E:$E,Company!$A:$A,"EQR",Company!$B:$B,2014)*100	=(F3-E3)*100
+ESS + BRE	ESS	2013	2015	=SUMIFS(Company!$D:$D,Company!$A:$A,"ESS",Company!$B:$B,2013)/SUMIFS(Company!$E:$E,Company!$A:$A,"ESS",Company!$B:$B,2013)*100	=SUMIFS(Company!$D:$D,Company!$A:$A,"ESS",Company!$B:$B,2015)/SUMIFS(Company!$E:$E,Company!$A:$A,"ESS",Company!$B:$B,2015)*100	=(F4-E4)*100
+MAA + Colonial	MAA	2012	2014	=SUMIFS(Company!$D:$D,Company!$A:$A,"MAA",Company!$B:$B,2012)/SUMIFS(Company!$E:$E,Company!$A:$A,"MAA",Company!$B:$B,2012)*100	=SUMIFS(Company!$D:$D,Company!$A:$A,"MAA",Company!$B:$B,2014)/SUMIFS(Company!$E:$E,Company!$A:$A,"MAA",Company!$B:$B,2014)*100	=(F5-E5)*100
+MAA + Post	MAA	2015	2017	=SUMIFS(Company!$D:$D,Company!$A:$A,"MAA",Company!$B:$B,2015)/SUMIFS(Company!$E:$E,Company!$A:$A,"MAA",Company!$B:$B,2015)*100	=SUMIFS(Company!$D:$D,Company!$A:$A,"MAA",Company!$B:$B,2017)/SUMIFS(Company!$E:$E,Company!$A:$A,"MAA",Company!$B:$B,2017)*100	=(F6-E6)*100
+VMRK (AVB + EQR)	AVB	2025	2027	=SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2025)/SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2025)*100	=B16/B17*100	=(F7-E7)*100
+VMRK: AVB + EQR combined FY2025 (%)				=(SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2025)+SUMIFS(Company!$D:$D,Company!$A:$A,"EQR",Company!$B:$B,2025))/(SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2025)+SUMIFS(Company!$E:$E,Company!$A:$A,"EQR",Company!$B:$B,2025))*100
+
+VMRK FY2027 estimate (built from filings and company targets)
+Property-management cost growth a year (assumption)	0.03
+Revenue growth a year (assumption)	0.025
+Property-management synergy target, run-rate ($mn)	65	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+2027 capture: average of quarter midpoints of a 5-quarter ramp from 1Q27 to 1Q28 ($mn)	=B13*AVERAGE(0.5,1.5,2.5,3.5)/5
+
+FY2027E property management ($000)	=(SUMIFS(Company!$D:$D,Company!$A:$A,"AVB",Company!$B:$B,2025)+SUMIFS(Company!$D:$D,Company!$A:$A,"EQR",Company!$B:$B,2025))*(1+B11)^2-B14*1000
+FY2027E property revenue ($000)	=(SUMIFS(Company!$E:$E,Company!$A:$A,"AVB",Company!$B:$B,2025)+SUMIFS(Company!$E:$E,Company!$A:$A,"EQR",Company!$B:$B,2025))*(1+B12)^2

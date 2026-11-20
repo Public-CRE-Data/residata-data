@@ -1,0 +1,111 @@
+Test	Estimate (bps)	95% range: low	95% range: high	Range spans zero?
+2025 cross-section, same market (per doubling)	=Ex16!B58	=Ex16!B60	=Ex16!B61	=IF(AND(C2<0,D2>0),"Yes","No")
+2025, adjusted for urban vs suburban mix (per doubling)	=C14*LN(2)	=(C14-1.96*C16)*LN(2)	=(C14+1.96*C16)*LN(2)	=IF(AND(C3<0,D3>0),"Yes","No")
+Same company, 2012-2025 (per doubling)	=C20*LN(2)	=(C20-1.96*C22)*LN(2)	=(C20+1.96*C22)*LN(2)	=IF(AND(C4<0,D4>0),"Yes","No")
+Four past deals (per doubling)	=C36*LN(2)	=(C36-1.96*C37)*LN(2)	=(C36+1.96*C37)*LN(2)	=IF(AND(C5<0,D5>0),"Yes","No")
+Footprint up 50%+ vs stable: any three-year window (unit-weighted)	=C30	=C30-1.96*C33	=C30+1.96*C33	=IF(AND(C6<0,D6>0),"Yes","No")
+Footprint up 50%+ vs little change: past mergers (unit-weighted)	=C40-C41	=B7-1.96*C42	=B7+1.96*C42	=IF(AND(C7<0,D7>0),"Yes","No")
+
+
+Working (rows 10-48; working columns start at row 50)
+
+
+
+Pairs slope (per 1.0 ln density)		=SUMPRODUCT(G51:G82,H51:H82)/SUMSQ(G51:G82)
+
+Pairs HC1 standard error		=SQRT(SUMPRODUCT(G51:G82^2,I51:I82^2)/SUMSQ(G51:G82)^2*32/(32-7))
+
+
+
+Within-company slope (bps per 1.0 ln units)		=SUMPRODUCT(HistPanel!H2:H743,HistPanel!G2:G743)/SUMSQ(HistPanel!H2:H743)
+
+Within-company clustered standard error (by REIT-market)		=SQRT(SUMSQ(L51:L111)/SUMSQ(HistPanel!H2:H743)^2*61/(61-1))
+
+
+
+
+
+
+
+Three-year windows: coefficient on footprint up 50%+ (bps)		=(C46*C47-C44*C45)/(C43*C46-C44^2)
+Three-year windows: coefficient on footprint down a third+ (bps)		=(C43*C45-C44*C47)/(C43*C46-C44^2)
+
+Three-year windows: clustered standard error on up		=SQRT(((C46/(C43*C46-C44^2))^2*SUMSQ(O51:O105)+2*(C46/(C43*C46-C44^2))*(-C44/(C43*C46-C44^2))*SUMPRODUCT(O51:O105,P51:P105)+(-C44/(C43*C46-C44^2))^2*SUMSQ(P51:P105))*55/(55-1))
+
+
+Four deals: slope of change vs acquirer average on ln footprint change		=SUMPRODUCT(Mergers!M2:M45,Mergers!L2:L45)/SUMSQ(Mergers!M2:M45)
+Four deals: robust standard error		=SQRT(SUMPRODUCT(Mergers!M2:M45^2,Mergers!R2:R45^2)/SUMSQ(Mergers!M2:M45)^2*44/(44-1))
+
+
+Past mergers: weighted mean, footprint up 50%+ (bps)		=SUMPRODUCT(--Mergers!O2:O45,Mergers!Q2:Q45,Mergers!L2:L45)/SUMPRODUCT(--Mergers!O2:O45,Mergers!Q2:Q45)
+Past mergers: weighted mean, little change (bps)		=SUMPRODUCT(--Mergers!P2:P45,Mergers!Q2:Q45,Mergers!L2:L45)/SUMPRODUCT(--Mergers!P2:P45,Mergers!Q2:Q45)
+Past mergers: standard error of the gap		=SQRT(SUMPRODUCT(--Mergers!O2:O45,Mergers!Q2:Q45^2,(Mergers!L2:L45-C40)^2)/SUMPRODUCT(--Mergers!O2:O45,Mergers!Q2:Q45)^2*COUNTIF(Mergers!O2:O45,TRUE)/(COUNTIF(Mergers!O2:O45,TRUE)-1)+SUMPRODUCT(--Mergers!P2:P45,Mergers!Q2:Q45^2,(Mergers!L2:L45-C41)^2)/SUMPRODUCT(--Mergers!P2:P45,Mergers!Q2:Q45)^2*COUNTIF(Mergers!P2:P45,TRUE)/(COUNTIF(Mergers!P2:P45,TRUE)-1))
+Windows sums: S(w u u)		=SUMPRODUCT(Windows!I2:I313,Windows!K2:K313,Windows!K2:K313)
+S(w u d)		=SUMPRODUCT(Windows!I2:I313,Windows!K2:K313,Windows!L2:L313)
+S(w d y)		=SUMPRODUCT(Windows!I2:I313,Windows!L2:L313,Windows!J2:J313)
+S(w d d)		=SUMPRODUCT(Windows!I2:I313,Windows!L2:L313,Windows!L2:L313)
+S(w u y)		=SUMPRODUCT(Windows!I2:I313,Windows!K2:K313,Windows!J2:J313)
+
+
+						Pair x	Pair y	Pair residual		Cluster (REIT|market)	Sum of x * residual		Cluster (REIT|market)	w*up*resid	w*down*resid
+						=Pairs!F2-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H2:M2,FALSE)	=Pairs!G2-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H2:M2,FALSE)	=H51-$C$14*G51		AVB|Boston / New England	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K51),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|Boston / New England	=SUMIF(Windows!$M$2:$M$313,N51,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N51,Windows!$P$2:$P$313)
+						=Pairs!F3-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H3:M3,FALSE)	=Pairs!G3-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H3:M3,FALSE)	=H52-$C$14*G52		AVB|DC / Baltimore	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K52),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|DC / Baltimore	=SUMIF(Windows!$M$2:$M$313,N52,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N52,Windows!$P$2:$P$313)
+						=Pairs!F4-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H4:M4,FALSE)	=Pairs!G4-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H4:M4,FALSE)	=H53-$C$14*G53		AVB|Denver	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K53),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|Denver	=SUMIF(Windows!$M$2:$M$313,N53,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N53,Windows!$P$2:$P$313)
+						=Pairs!F5-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H5:M5,FALSE)	=Pairs!G5-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H5:M5,FALSE)	=H54-$C$14*G54		AVB|New York metro	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K54),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|New York metro	=SUMIF(Windows!$M$2:$M$313,N54,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N54,Windows!$P$2:$P$313)
+						=Pairs!F6-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H6:M6,FALSE)	=Pairs!G6-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H6:M6,FALSE)	=H55-$C$14*G55		AVB|Northern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K55),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|Northern California	=SUMIF(Windows!$M$2:$M$313,N55,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N55,Windows!$P$2:$P$313)
+						=Pairs!F7-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H7:M7,FALSE)	=Pairs!G7-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H7:M7,FALSE)	=H56-$C$14*G56		AVB|Seattle	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K56),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|Seattle	=SUMIF(Windows!$M$2:$M$313,N56,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N56,Windows!$P$2:$P$313)
+						=Pairs!F8-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H8:M8,FALSE)	=Pairs!G8-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H8:M8,FALSE)	=H57-$C$14*G57		AVB|Southeast Florida	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K57),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		AVB|Southern California	=SUMIF(Windows!$M$2:$M$313,N57,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N57,Windows!$P$2:$P$313)
+						=Pairs!F9-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H9:M9,FALSE)	=Pairs!G9-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H9:M9,FALSE)	=H58-$C$14*G58		AVB|Southern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K58),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Atlanta	=SUMIF(Windows!$M$2:$M$313,N58,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N58,Windows!$P$2:$P$313)
+						=Pairs!F10-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H10:M10,FALSE)	=Pairs!G10-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H10:M10,FALSE)	=H59-$C$14*G59		CPT|Atlanta	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K59),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Austin	=SUMIF(Windows!$M$2:$M$313,N59,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N59,Windows!$P$2:$P$313)
+						=Pairs!F11-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H11:M11,FALSE)	=Pairs!G11-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H11:M11,FALSE)	=H60-$C$14*G60		CPT|Austin	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K60),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Charlotte	=SUMIF(Windows!$M$2:$M$313,N60,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N60,Windows!$P$2:$P$313)
+						=Pairs!F12-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H12:M12,FALSE)	=Pairs!G12-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H12:M12,FALSE)	=H61-$C$14*G61		CPT|Charlotte	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K61),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|DC / Baltimore	=SUMIF(Windows!$M$2:$M$313,N61,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N61,Windows!$P$2:$P$313)
+						=Pairs!F13-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H13:M13,FALSE)	=Pairs!G13-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H13:M13,FALSE)	=H62-$C$14*G62		CPT|DC / Baltimore	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K62),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Dallas-Fort Worth	=SUMIF(Windows!$M$2:$M$313,N62,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N62,Windows!$P$2:$P$313)
+						=Pairs!F14-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H14:M14,FALSE)	=Pairs!G14-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H14:M14,FALSE)	=H63-$C$14*G63		CPT|Dallas-Fort Worth	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K63),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Denver	=SUMIF(Windows!$M$2:$M$313,N63,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N63,Windows!$P$2:$P$313)
+						=Pairs!F15-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H15:M15,FALSE)	=Pairs!G15-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H15:M15,FALSE)	=H64-$C$14*G64		CPT|Denver	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K64),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Houston	=SUMIF(Windows!$M$2:$M$313,N64,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N64,Windows!$P$2:$P$313)
+						=Pairs!F16-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H16:M16,FALSE)	=Pairs!G16-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H16:M16,FALSE)	=H65-$C$14*G65		CPT|Houston	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K65),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Orlando	=SUMIF(Windows!$M$2:$M$313,N65,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N65,Windows!$P$2:$P$313)
+						=Pairs!F17-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H17:M17,FALSE)	=Pairs!G17-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H17:M17,FALSE)	=H66-$C$14*G66		CPT|Las Vegas	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K66),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Phoenix	=SUMIF(Windows!$M$2:$M$313,N66,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N66,Windows!$P$2:$P$313)
+						=Pairs!F18-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H18:M18,FALSE)	=Pairs!G18-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H18:M18,FALSE)	=H67-$C$14*G67		CPT|Nashville	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K67),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Raleigh-Durham	=SUMIF(Windows!$M$2:$M$313,N67,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N67,Windows!$P$2:$P$313)
+						=Pairs!F19-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H19:M19,FALSE)	=Pairs!G19-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H19:M19,FALSE)	=H68-$C$14*G68		CPT|Orlando	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K68),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Southeast Florida	=SUMIF(Windows!$M$2:$M$313,N68,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N68,Windows!$P$2:$P$313)
+						=Pairs!F20-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H20:M20,FALSE)	=Pairs!G20-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H20:M20,FALSE)	=H69-$C$14*G69		CPT|Phoenix	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K69),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Southern California	=SUMIF(Windows!$M$2:$M$313,N69,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N69,Windows!$P$2:$P$313)
+						=Pairs!F21-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H21:M21,FALSE)	=Pairs!G21-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H21:M21,FALSE)	=H70-$C$14*G70		CPT|Raleigh-Durham	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K70),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		CPT|Tampa	=SUMIF(Windows!$M$2:$M$313,N70,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N70,Windows!$P$2:$P$313)
+						=Pairs!F22-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H22:M22,FALSE)	=Pairs!G22-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H22:M22,FALSE)	=H71-$C$14*G71		CPT|Southeast Florida	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K71),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|Boston / New England	=SUMIF(Windows!$M$2:$M$313,N71,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N71,Windows!$P$2:$P$313)
+						=Pairs!F23-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H23:M23,FALSE)	=Pairs!G23-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H23:M23,FALSE)	=H72-$C$14*G72		CPT|Southern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K72),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|DC / Baltimore	=SUMIF(Windows!$M$2:$M$313,N72,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N72,Windows!$P$2:$P$313)
+						=Pairs!F24-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H24:M24,FALSE)	=Pairs!G24-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H24:M24,FALSE)	=H73-$C$14*G73		CPT|Tampa	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K73),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|Denver	=SUMIF(Windows!$M$2:$M$313,N73,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N73,Windows!$P$2:$P$313)
+						=Pairs!F25-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H25:M25,FALSE)	=Pairs!G25-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H25:M25,FALSE)	=H74-$C$14*G74		EQR|Boston / New England	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K74),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|New York metro	=SUMIF(Windows!$M$2:$M$313,N74,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N74,Windows!$P$2:$P$313)
+						=Pairs!F26-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H26:M26,FALSE)	=Pairs!G26-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H26:M26,FALSE)	=H75-$C$14*G75		EQR|DC / Baltimore	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K75),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|Northern California	=SUMIF(Windows!$M$2:$M$313,N75,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N75,Windows!$P$2:$P$313)
+						=Pairs!F27-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H27:M27,FALSE)	=Pairs!G27-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H27:M27,FALSE)	=H76-$C$14*G76		EQR|Denver	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K76),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|Seattle	=SUMIF(Windows!$M$2:$M$313,N76,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N76,Windows!$P$2:$P$313)
+						=Pairs!F28-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H28:M28,FALSE)	=Pairs!G28-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H28:M28,FALSE)	=H77-$C$14*G77		EQR|New York metro	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K77),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		EQR|Southern California	=SUMIF(Windows!$M$2:$M$313,N77,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N77,Windows!$P$2:$P$313)
+						=Pairs!F29-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H29:M29,FALSE)	=Pairs!G29-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H29:M29,FALSE)	=H78-$C$14*G78		EQR|Northern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K78),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		ESS|Northern California	=SUMIF(Windows!$M$2:$M$313,N78,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N78,Windows!$P$2:$P$313)
+						=Pairs!F30-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H30:M30,FALSE)	=Pairs!G30-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H30:M30,FALSE)	=H79-$C$14*G79		EQR|Seattle	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K79),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		ESS|Seattle	=SUMIF(Windows!$M$2:$M$313,N79,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N79,Windows!$P$2:$P$313)
+						=Pairs!F31-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H31:M31,FALSE)	=Pairs!G31-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H31:M31,FALSE)	=H80-$C$14*G80		EQR|Southeast Florida	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K80),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		ESS|Southern California	=SUMIF(Windows!$M$2:$M$313,N80,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N80,Windows!$P$2:$P$313)
+						=Pairs!F32-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H32:M32,FALSE)	=Pairs!G32-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H32:M32,FALSE)	=H81-$C$14*G81		EQR|Southern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K81),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Atlanta	=SUMIF(Windows!$M$2:$M$313,N81,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N81,Windows!$P$2:$P$313)
+						=Pairs!F33-TREND(Pairs!$F$2:$F$33,Pairs!$H$2:$M$33,Pairs!H33:M33,FALSE)	=Pairs!G33-TREND(Pairs!$G$2:$G$33,Pairs!$H$2:$M$33,Pairs!H33:M33,FALSE)	=H82-$C$14*G82		ESS|Northern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K82),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Austin	=SUMIF(Windows!$M$2:$M$313,N82,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N82,Windows!$P$2:$P$313)
+										ESS|Seattle	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K83),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Charlotte	=SUMIF(Windows!$M$2:$M$313,N83,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N83,Windows!$P$2:$P$313)
+										ESS|Southern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K84),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|DC / Baltimore	=SUMIF(Windows!$M$2:$M$313,N84,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N84,Windows!$P$2:$P$313)
+										MAA|Atlanta	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K85),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Dallas-Fort Worth	=SUMIF(Windows!$M$2:$M$313,N85,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N85,Windows!$P$2:$P$313)
+										MAA|Austin	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K86),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Houston	=SUMIF(Windows!$M$2:$M$313,N86,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N86,Windows!$P$2:$P$313)
+										MAA|Charlotte	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K87),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Nashville	=SUMIF(Windows!$M$2:$M$313,N87,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N87,Windows!$P$2:$P$313)
+										MAA|DC / Baltimore	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K88),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Orlando	=SUMIF(Windows!$M$2:$M$313,N88,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N88,Windows!$P$2:$P$313)
+										MAA|Dallas-Fort Worth	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K89),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Phoenix	=SUMIF(Windows!$M$2:$M$313,N89,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N89,Windows!$P$2:$P$313)
+										MAA|Denver	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K90),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Raleigh-Durham	=SUMIF(Windows!$M$2:$M$313,N90,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N90,Windows!$P$2:$P$313)
+										MAA|Houston	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K91),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Richmond	=SUMIF(Windows!$M$2:$M$313,N91,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N91,Windows!$P$2:$P$313)
+										MAA|Las Vegas	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K92),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Southeast Florida	=SUMIF(Windows!$M$2:$M$313,N92,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N92,Windows!$P$2:$P$313)
+										MAA|Nashville	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K93),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		MAA|Tampa	=SUMIF(Windows!$M$2:$M$313,N93,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N93,Windows!$P$2:$P$313)
+										MAA|Orlando	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K94),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Austin	=SUMIF(Windows!$M$2:$M$313,N94,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N94,Windows!$P$2:$P$313)
+										MAA|Phoenix	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K95),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Boston / New England	=SUMIF(Windows!$M$2:$M$313,N95,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N95,Windows!$P$2:$P$313)
+										MAA|Raleigh-Durham	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K96),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|DC / Baltimore	=SUMIF(Windows!$M$2:$M$313,N96,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N96,Windows!$P$2:$P$313)
+										MAA|Richmond	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K97),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Dallas-Fort Worth	=SUMIF(Windows!$M$2:$M$313,N97,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N97,Windows!$P$2:$P$313)
+										MAA|Southeast Florida	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K98),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Nashville	=SUMIF(Windows!$M$2:$M$313,N98,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N98,Windows!$P$2:$P$313)
+										MAA|Tampa	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K99),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|New York metro	=SUMIF(Windows!$M$2:$M$313,N99,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N99,Windows!$P$2:$P$313)
+										UDR|Austin	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K100),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Northern California	=SUMIF(Windows!$M$2:$M$313,N100,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N100,Windows!$P$2:$P$313)
+										UDR|Boston / New England	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K101),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Orlando	=SUMIF(Windows!$M$2:$M$313,N101,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N101,Windows!$P$2:$P$313)
+										UDR|DC / Baltimore	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K102),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Richmond	=SUMIF(Windows!$M$2:$M$313,N102,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N102,Windows!$P$2:$P$313)
+										UDR|Dallas-Fort Worth	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K103),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Seattle	=SUMIF(Windows!$M$2:$M$313,N103,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N103,Windows!$P$2:$P$313)
+										UDR|Nashville	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K104),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Southern California	=SUMIF(Windows!$M$2:$M$313,N104,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N104,Windows!$P$2:$P$313)
+										UDR|New York metro	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K105),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)		UDR|Tampa	=SUMIF(Windows!$M$2:$M$313,N105,Windows!$O$2:$O$313)	=SUMIF(Windows!$M$2:$M$313,N105,Windows!$P$2:$P$313)
+										UDR|Northern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K106),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				
+										UDR|Orlando	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K107),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				
+										UDR|Richmond	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K108),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				
+										UDR|Seattle	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K109),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				
+										UDR|Southern California	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K110),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				
+										UDR|Tampa	=SUMPRODUCT(--(HistPanel!$I$2:$I$743=K111),HistPanel!$H$2:$H$743,HistPanel!$J$2:$J$743)				

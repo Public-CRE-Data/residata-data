@@ -1,0 +1,15 @@
+Item	$mn	Type
+Corporate G&A	=B12	Gross
+Property-management overhead	=B13	Gross
+Portfolio NOI	=B14	Gross
+Gross synergies	=SUM(B2:B4)	Subtotal
+Prop 13 tax reassessment	=B15	Offset
+Net synergies	=B5+B6	Total
+Overhead (G&A + property management)	=B2+B3	
+
+Input block: company targets
+Item	$mn	Source document
+Corporate G&A synergies	50	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+Property-management overhead synergies	65	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+Portfolio NOI synergies	70	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+Prop 13 tax reassessment	-50	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)

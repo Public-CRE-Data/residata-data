@@ -1,0 +1,11 @@
+FY2027 item	$mn
+Synergy capture	=B9
+Tax reassessment	=B10
+Merger-cost financing	=B11
+Net	=SUM(B2:B4)
+
+Input block
+Item	$mn	Source document
+FY2027 synergy capture (company guide, approx.)	90	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+Prop 13 tax reassessment	-50	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)
+Financing cost of merger costs (approx.)	-40	VMRK 3Q26 earnings presentation p.5 and release (2026-11-04)

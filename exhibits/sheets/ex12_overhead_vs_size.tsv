@@ -1,0 +1,13 @@
+Portfolio	Consolidated units (000)	Overhead % of property revenue	In trendline
+VMRK pro forma	=(Ex11!D22+Ex11!D23)/1000	=Ex11!D2	no
+VMRK post-synergy target	=B2	=Ex11!D3	yes
+MAA	=INDEX(Ex11!$D$22:$D$27,MATCH(A4,Ex11!$A$22:$A$27,0))/1000	=Ex11!D4	yes
+ESS	=INDEX(Ex11!$D$22:$D$27,MATCH(A5,Ex11!$A$22:$A$27,0))/1000	=Ex11!D5	yes
+CPT	=INDEX(Ex11!$D$22:$D$27,MATCH(A6,Ex11!$A$22:$A$27,0))/1000	=Ex11!D6	yes
+UDR	=INDEX(Ex11!$D$22:$D$27,MATCH(A7,Ex11!$A$22:$A$27,0))/1000	=Ex11!D7	yes
+
+Trendline slope (pts per 10,000 units)	=SLOPE(C3:C7,B3:B7)*10
+Trendline at VMRK's size (%)	=INTERCEPT(C3:C7,B3:B7)+SLOPE(C3:C7,B3:B7)*B2
+R-squared	=RSQ(C3:C7,B3:B7)
+
+Units come from the Ex11 input block; overhead ratios from Ex11.
