@@ -7,8 +7,8 @@ date,series,value,interpolated
 2026-04-04,Tampa,100.0,False
 2026-04-04,San Francisco-East Bay,100.0,False
 2026-04-04,New York,100.0,False
-2026-04-04,Orlando,100.0,False
 2026-04-04,Philadelphia,100.0,False
+2026-04-04,Orlando,100.0,False
 2026-04-04,Seattle,100.0,False
 2026-04-04,Nashville,100.0,False
 2026-04-04,Austin,100.0,False
@@ -18,630 +18,649 @@ date,series,value,interpolated
 2026-04-04,Richmond,100.0,False
 2026-04-04,Portland,100.0,False
 2026-04-04,Miami/Fort Lauderdale,100.0,False
-2026-04-11,"Washington, DC",100.4,False
-2026-04-11,Dallas/Fort Worth,99.4,False
+2026-04-11,"Washington, DC",100.39,False
+2026-04-11,Dallas/Fort Worth,99.39,False
 2026-04-11,Inland Empire,98.71,False
-2026-04-11,Orange County,100.96,False
-2026-04-11,Boston,99.62,False
-2026-04-11,Tampa,98.37,False
-2026-04-11,San Francisco-East Bay,101.9,False
-2026-04-11,New York,99.06,False
-2026-04-11,Orlando,99.41,False
-2026-04-11,Philadelphia,99.66,False
-2026-04-11,Seattle,101.26,False
+2026-04-11,Orange County,100.95,False
+2026-04-11,Boston,99.63,False
+2026-04-11,Tampa,98.38,False
+2026-04-11,San Francisco-East Bay,101.89,False
+2026-04-11,New York,98.94,False
+2026-04-11,Philadelphia,99.67,False
+2026-04-11,Orlando,99.4,False
+2026-04-11,Seattle,101.27,False
 2026-04-11,Nashville,100.54,False
-2026-04-11,Austin,99.39,False
-2026-04-11,Los Angeles,104.38,False
+2026-04-11,Austin,99.38,False
+2026-04-11,Los Angeles,104.39,False
 2026-04-11,Salinas/Monterey,99.19,False
 2026-04-11,Baltimore,101.39,False
-2026-04-11,Richmond,99.13,False
-2026-04-11,Portland,95.97,False
-2026-04-11,Miami/Fort Lauderdale,99.9,True
-2026-04-18,"Washington, DC",100.53,False
-2026-04-18,Dallas/Fort Worth,99.51,False
+2026-04-11,Richmond,99.14,False
+2026-04-11,Portland,96.0,False
+2026-04-11,Miami/Fort Lauderdale,99.91,True
+2026-04-18,"Washington, DC",100.54,False
+2026-04-18,Dallas/Fort Worth,99.53,False
 2026-04-18,Inland Empire,104.22,False
-2026-04-18,Orange County,100.49,False
-2026-04-18,Boston,99.87,False
-2026-04-18,Tampa,98.58,False
-2026-04-18,San Francisco-East Bay,103.07,False
-2026-04-18,New York,98.73,False
-2026-04-18,Orlando,99.43,False
-2026-04-18,Philadelphia,100.61,False
-2026-04-18,Seattle,102.29,False
-2026-04-18,Nashville,100.01,False
-2026-04-18,Austin,99.42,False
-2026-04-18,Los Angeles,105.03,False
+2026-04-18,Orange County,100.48,False
+2026-04-18,Boston,99.85,False
+2026-04-18,Tampa,98.59,False
+2026-04-18,San Francisco-East Bay,103.06,False
+2026-04-18,New York,98.61,False
+2026-04-18,Philadelphia,100.6,False
+2026-04-18,Orlando,99.45,False
+2026-04-18,Seattle,102.3,False
+2026-04-18,Nashville,100.0,False
+2026-04-18,Austin,99.53,False
+2026-04-18,Los Angeles,105.02,False
 2026-04-18,Salinas/Monterey,99.16,False
 2026-04-18,Baltimore,101.25,False
-2026-04-18,Richmond,99.0,False
-2026-04-18,Portland,94.07,False
-2026-04-18,Miami/Fort Lauderdale,99.8,False
-2026-04-25,"Washington, DC",101.08,False
-2026-04-25,Dallas/Fort Worth,99.28,False
+2026-04-18,Richmond,99.02,False
+2026-04-18,Portland,94.1,False
+2026-04-18,Miami/Fort Lauderdale,99.82,False
+2026-04-25,"Washington, DC",101.09,False
+2026-04-25,Dallas/Fort Worth,99.32,False
 2026-04-25,Inland Empire,101.67,False
 2026-04-25,Orange County,99.67,False
-2026-04-25,Boston,101.56,False
-2026-04-25,Tampa,99.75,False
-2026-04-25,San Francisco-East Bay,103.08,False
-2026-04-25,New York,101.88,False
-2026-04-25,Orlando,99.07,False
-2026-04-25,Philadelphia,101.74,False
+2026-04-25,Boston,101.52,False
+2026-04-25,Tampa,99.78,False
+2026-04-25,San Francisco-East Bay,103.07,False
+2026-04-25,New York,101.83,False
+2026-04-25,Philadelphia,101.76,False
+2026-04-25,Orlando,99.09,False
 2026-04-25,Seattle,102.17,False
 2026-04-25,Nashville,100.49,False
-2026-04-25,Austin,100.94,False
-2026-04-25,Los Angeles,106.41,False
-2026-04-25,Salinas/Monterey,100.07,False
-2026-04-25,Baltimore,100.74,False
-2026-04-25,Richmond,100.39,False
-2026-04-25,Portland,95.29,False
-2026-04-25,Miami/Fort Lauderdale,99.41,False
-2026-05-02,"Washington, DC",102.72,False
-2026-05-02,Dallas/Fort Worth,99.52,False
-2026-05-02,Inland Empire,100.6,False
-2026-05-02,Orange County,99.06,False
-2026-05-02,Boston,101.84,False
-2026-05-02,Tampa,100.34,False
+2026-04-25,Austin,100.93,False
+2026-04-25,Los Angeles,106.39,False
+2026-04-25,Salinas/Monterey,100.06,False
+2026-04-25,Baltimore,100.73,False
+2026-04-25,Richmond,100.37,False
+2026-04-25,Portland,95.3,False
+2026-04-25,Miami/Fort Lauderdale,99.45,False
+2026-05-02,"Washington, DC",102.73,False
+2026-05-02,Dallas/Fort Worth,99.54,False
+2026-05-02,Inland Empire,100.59,False
+2026-05-02,Orange County,99.07,False
+2026-05-02,Boston,101.75,False
+2026-05-02,Tampa,100.37,False
 2026-05-02,San Francisco-East Bay,102.63,False
-2026-05-02,New York,100.19,False
-2026-05-02,Orlando,97.86,False
-2026-05-02,Philadelphia,101.82,False
+2026-05-02,New York,100.25,False
+2026-05-02,Philadelphia,101.83,False
+2026-05-02,Orlando,97.9,False
 2026-05-02,Seattle,102.32,False
-2026-05-02,Nashville,99.22,False
-2026-05-02,Austin,99.71,False
+2026-05-02,Nashville,99.23,False
+2026-05-02,Austin,99.7,False
 2026-05-02,Los Angeles,107.19,False
 2026-05-02,Salinas/Monterey,101.57,False
-2026-05-02,Baltimore,102.41,False
-2026-05-02,Richmond,100.46,False
-2026-05-02,Portland,95.84,False
-2026-05-02,Miami/Fort Lauderdale,101.11,False
-2026-05-09,"Washington, DC",102.52,False
-2026-05-09,Dallas/Fort Worth,100.03,False
-2026-05-09,Inland Empire,101.14,False
-2026-05-09,Orange County,99.45,False
-2026-05-09,Boston,103.11,False
-2026-05-09,Tampa,100.46,False
+2026-05-02,Baltimore,102.4,False
+2026-05-02,Richmond,100.47,False
+2026-05-02,Portland,95.87,False
+2026-05-02,Miami/Fort Lauderdale,101.15,False
+2026-05-09,"Washington, DC",102.53,False
+2026-05-09,Dallas/Fort Worth,100.06,False
+2026-05-09,Inland Empire,101.13,False
+2026-05-09,Orange County,99.46,False
+2026-05-09,Boston,103.1,False
+2026-05-09,Tampa,100.5,False
 2026-05-09,San Francisco-East Bay,103.4,False
-2026-05-09,New York,97.68,False
-2026-05-09,Orlando,96.85,False
-2026-05-09,Philadelphia,101.51,False
-2026-05-09,Seattle,104.06,False
-2026-05-09,Nashville,98.09,False
-2026-05-09,Austin,103.4,False
-2026-05-09,Los Angeles,107.9,False
-2026-05-09,Salinas/Monterey,102.8,False
-2026-05-09,Baltimore,102.68,False
-2026-05-09,Richmond,102.44,False
-2026-05-09,Portland,94.87,False
-2026-05-09,Miami/Fort Lauderdale,99.47,False
-2026-05-16,"Washington, DC",103.23,False
-2026-05-16,Dallas/Fort Worth,101.61,False
+2026-05-09,New York,97.6,False
+2026-05-09,Philadelphia,101.56,False
+2026-05-09,Orlando,96.9,False
+2026-05-09,Seattle,104.04,False
+2026-05-09,Nashville,98.11,False
+2026-05-09,Austin,103.39,False
+2026-05-09,Los Angeles,107.92,False
+2026-05-09,Salinas/Monterey,102.79,False
+2026-05-09,Baltimore,102.7,False
+2026-05-09,Richmond,102.47,False
+2026-05-09,Portland,94.89,False
+2026-05-09,Miami/Fort Lauderdale,99.52,False
+2026-05-16,"Washington, DC",103.24,False
+2026-05-16,Dallas/Fort Worth,101.65,False
 2026-05-16,Inland Empire,100.8,False
-2026-05-16,Orange County,100.1,False
-2026-05-16,Boston,102.62,False
-2026-05-16,Tampa,100.77,False
-2026-05-16,San Francisco-East Bay,104.32,False
-2026-05-16,New York,98.82,False
-2026-05-16,Orlando,98.41,False
-2026-05-16,Philadelphia,105.87,False
-2026-05-16,Seattle,104.9,False
-2026-05-16,Nashville,97.63,False
-2026-05-16,Austin,103.6,False
-2026-05-16,Los Angeles,106.36,False
+2026-05-16,Orange County,100.09,False
+2026-05-16,Boston,102.59,False
+2026-05-16,Tampa,100.84,False
+2026-05-16,San Francisco-East Bay,104.33,False
+2026-05-16,New York,98.83,False
+2026-05-16,Philadelphia,105.88,False
+2026-05-16,Orlando,98.47,False
+2026-05-16,Seattle,104.88,False
+2026-05-16,Nashville,97.66,False
+2026-05-16,Austin,103.59,False
+2026-05-16,Los Angeles,106.4,False
 2026-05-16,Salinas/Monterey,103.07,False
-2026-05-16,Baltimore,102.06,False
-2026-05-16,Richmond,104.88,False
-2026-05-16,Portland,92.73,False
-2026-05-16,Miami/Fort Lauderdale,99.74,False
-2026-05-23,"Washington, DC",102.71,False
-2026-05-23,Dallas/Fort Worth,102.21,False
-2026-05-23,Inland Empire,99.74,False
+2026-05-16,Baltimore,102.07,False
+2026-05-16,Richmond,104.92,False
+2026-05-16,Portland,92.74,False
+2026-05-16,Miami/Fort Lauderdale,99.82,False
+2026-05-23,"Washington, DC",102.72,False
+2026-05-23,Dallas/Fort Worth,102.25,False
+2026-05-23,Inland Empire,99.73,False
 2026-05-23,Orange County,100.95,False
-2026-05-23,Boston,102.73,False
-2026-05-23,Tampa,100.78,False
-2026-05-23,San Francisco-East Bay,104.48,False
-2026-05-23,New York,97.35,False
-2026-05-23,Orlando,99.83,False
-2026-05-23,Philadelphia,103.35,False
-2026-05-23,Seattle,104.75,False
-2026-05-23,Nashville,96.38,False
-2026-05-23,Austin,104.73,False
-2026-05-23,Los Angeles,106.42,False
-2026-05-23,Salinas/Monterey,103.95,False
+2026-05-23,Boston,102.7,False
+2026-05-23,Tampa,100.84,False
+2026-05-23,San Francisco-East Bay,104.5,False
+2026-05-23,New York,97.37,False
+2026-05-23,Philadelphia,103.42,False
+2026-05-23,Orlando,99.88,False
+2026-05-23,Seattle,104.73,False
+2026-05-23,Nashville,96.43,False
+2026-05-23,Austin,104.7,False
+2026-05-23,Los Angeles,106.44,False
+2026-05-23,Salinas/Monterey,103.96,False
 2026-05-23,Baltimore,101.78,False
-2026-05-23,Richmond,105.33,False
-2026-05-23,Portland,94.29,False
-2026-05-23,Miami/Fort Lauderdale,102.19,False
-2026-05-30,"Washington, DC",102.2,False
-2026-05-30,Dallas/Fort Worth,102.03,False
-2026-05-30,Inland Empire,98.26,False
-2026-05-30,Orange County,100.37,False
-2026-05-30,Boston,101.73,False
-2026-05-30,Tampa,102.27,False
-2026-05-30,San Francisco-East Bay,106.19,False
-2026-05-30,New York,101.53,False
-2026-05-30,Orlando,101.8,False
-2026-05-30,Philadelphia,104.94,False
-2026-05-30,Seattle,105.78,False
-2026-05-30,Nashville,95.71,False
-2026-05-30,Austin,105.25,False
-2026-05-30,Los Angeles,106.53,False
+2026-05-23,Richmond,105.41,False
+2026-05-23,Portland,94.31,False
+2026-05-23,Miami/Fort Lauderdale,102.28,False
+2026-05-30,"Washington, DC",102.22,False
+2026-05-30,Dallas/Fort Worth,102.07,False
+2026-05-30,Inland Empire,98.29,False
+2026-05-30,Orange County,100.4,False
+2026-05-30,Boston,101.7,False
+2026-05-30,Tampa,102.33,False
+2026-05-30,San Francisco-East Bay,106.2,False
+2026-05-30,New York,101.59,False
+2026-05-30,Philadelphia,105.0,False
+2026-05-30,Orlando,101.85,False
+2026-05-30,Seattle,105.77,False
+2026-05-30,Nashville,95.75,False
+2026-05-30,Austin,105.21,False
+2026-05-30,Los Angeles,106.56,False
 2026-05-30,Salinas/Monterey,104.32,False
-2026-05-30,Baltimore,100.64,False
-2026-05-30,Richmond,108.1,False
-2026-05-30,Portland,95.7,False
-2026-05-30,Miami/Fort Lauderdale,104.56,False
-2026-06-06,"Washington, DC",101.74,False
-2026-06-06,Dallas/Fort Worth,103.28,False
-2026-06-06,Inland Empire,102.71,False
+2026-05-30,Baltimore,100.67,False
+2026-05-30,Richmond,108.26,False
+2026-05-30,Portland,95.72,False
+2026-05-30,Miami/Fort Lauderdale,104.65,False
+2026-06-06,"Washington, DC",101.76,False
+2026-06-06,Dallas/Fort Worth,103.33,False
+2026-06-06,Inland Empire,102.63,False
 2026-06-06,Orange County,102.14,False
-2026-06-06,Boston,102.7,False
-2026-06-06,Tampa,103.09,False
+2026-06-06,Boston,102.6,False
+2026-06-06,Tampa,103.16,False
 2026-06-06,San Francisco-East Bay,106.39,False
-2026-06-06,New York,100.64,False
-2026-06-06,Orlando,103.03,False
-2026-06-06,Philadelphia,105.11,False
-2026-06-06,Seattle,105.98,False
-2026-06-06,Nashville,94.71,False
+2026-06-06,New York,100.61,False
+2026-06-06,Philadelphia,105.1,False
+2026-06-06,Orlando,103.14,False
+2026-06-06,Seattle,105.97,False
+2026-06-06,Nashville,94.74,False
 2026-06-06,Austin,106.18,False
-2026-06-06,Los Angeles,102.58,False
+2026-06-06,Los Angeles,102.64,False
 2026-06-06,Salinas/Monterey,103.51,False
 2026-06-06,Baltimore,102.25,False
-2026-06-06,Richmond,107.35,False
-2026-06-06,Portland,98.98,False
-2026-06-06,Miami/Fort Lauderdale,103.44,False
-2026-06-13,"Washington, DC",101.42,False
-2026-06-13,Dallas/Fort Worth,103.79,False
-2026-06-13,Inland Empire,105.66,False
+2026-06-06,Richmond,107.41,False
+2026-06-06,Portland,99.01,False
+2026-06-06,Miami/Fort Lauderdale,103.53,False
+2026-06-13,"Washington, DC",101.44,False
+2026-06-13,Dallas/Fort Worth,103.84,False
+2026-06-13,Inland Empire,105.56,False
 2026-06-13,Orange County,102.17,False
-2026-06-13,Boston,101.3,False
-2026-06-13,Tampa,104.28,False
+2026-06-13,Boston,101.27,False
+2026-06-13,Tampa,104.36,False
 2026-06-13,San Francisco-East Bay,108.09,False
-2026-06-13,New York,100.16,False
-2026-06-13,Orlando,101.54,False
-2026-06-13,Philadelphia,104.49,False
-2026-06-13,Seattle,105.85,False
-2026-06-13,Nashville,93.8,False
-2026-06-13,Austin,101.54,False
-2026-06-13,Los Angeles,102.97,False
-2026-06-13,Salinas/Monterey,103.31,False
-2026-06-13,Baltimore,102.29,False
-2026-06-13,Richmond,107.27,False
-2026-06-13,Portland,101.94,False
-2026-06-13,Miami/Fort Lauderdale,106.4,False
-2026-06-20,"Washington, DC",101.55,False
-2026-06-20,Dallas/Fort Worth,102.33,False
-2026-06-20,Inland Empire,105.7,False
-2026-06-20,Orange County,101.46,False
-2026-06-20,Boston,101.31,False
-2026-06-20,Tampa,104.09,False
-2026-06-20,San Francisco-East Bay,110.99,False
-2026-06-20,New York,99.38,False
-2026-06-20,Orlando,100.33,False
-2026-06-20,Philadelphia,103.25,False
+2026-06-13,New York,100.14,False
+2026-06-13,Philadelphia,104.57,False
+2026-06-13,Orlando,101.62,False
+2026-06-13,Seattle,105.86,False
+2026-06-13,Nashville,93.83,False
+2026-06-13,Austin,101.53,False
+2026-06-13,Los Angeles,103.0,False
+2026-06-13,Salinas/Monterey,103.32,False
+2026-06-13,Baltimore,102.28,False
+2026-06-13,Richmond,107.35,False
+2026-06-13,Portland,101.95,False
+2026-06-13,Miami/Fort Lauderdale,106.49,False
+2026-06-20,"Washington, DC",101.58,False
+2026-06-20,Dallas/Fort Worth,102.38,False
+2026-06-20,Inland Empire,105.6,False
+2026-06-20,Orange County,101.45,False
+2026-06-20,Boston,101.27,False
+2026-06-20,Tampa,104.16,False
+2026-06-20,San Francisco-East Bay,111.0,False
+2026-06-20,New York,99.42,False
+2026-06-20,Philadelphia,103.33,False
+2026-06-20,Orlando,100.39,False
 2026-06-20,Seattle,104.78,False
-2026-06-20,Nashville,94.35,False
-2026-06-20,Austin,102.3,False
-2026-06-20,Los Angeles,101.48,False
-2026-06-20,Salinas/Monterey,103.67,False
-2026-06-20,Baltimore,101.22,False
-2026-06-20,Richmond,105.84,False
-2026-06-20,Portland,104.51,False
-2026-06-20,Miami/Fort Lauderdale,107.62,False
-2026-06-27,"Washington, DC",100.6425,True
-2026-06-27,Dallas/Fort Worth,102.535,True
-2026-06-27,Inland Empire,104.895,True
-2026-06-27,Orange County,101.7625,True
-2026-06-27,Boston,101.4675,True
-2026-06-27,Tampa,103.5875,True
-2026-06-27,San Francisco-East Bay,111.6775,True
-2026-06-27,New York,100.36,True
-2026-06-27,Orlando,100.7875,True
-2026-06-27,Philadelphia,103.555,True
+2026-06-20,Nashville,94.38,False
+2026-06-20,Austin,102.34,False
+2026-06-20,Los Angeles,101.49,False
+2026-06-20,Salinas/Monterey,103.69,False
+2026-06-20,Baltimore,101.21,False
+2026-06-20,Richmond,105.92,False
+2026-06-20,Portland,104.52,False
+2026-06-20,Miami/Fort Lauderdale,107.72,False
+2026-06-27,"Washington, DC",100.6775,True
+2026-06-27,Dallas/Fort Worth,102.585,True
+2026-06-27,Inland Empire,104.79,True
+2026-06-27,Orange County,101.76,True
+2026-06-27,Boston,101.4175,True
+2026-06-27,Tampa,103.6625,True
+2026-06-27,San Francisco-East Bay,111.6925,True
+2026-06-27,New York,100.385,True
+2026-06-27,Philadelphia,103.64,True
+2026-06-27,Orlando,100.835,True
 2026-06-27,Seattle,104.4075,True
-2026-06-27,Nashville,93.845,True
-2026-06-27,Austin,101.7425,True
-2026-06-27,Los Angeles,101.9025,True
-2026-06-27,Salinas/Monterey,103.4025,True
-2026-06-27,Baltimore,99.97,True
-2026-06-27,Richmond,104.5925,True
+2026-06-27,Nashville,93.87,True
+2026-06-27,Austin,101.7725,True
+2026-06-27,Los Angeles,101.9,True
+2026-06-27,Salinas/Monterey,103.4175,True
+2026-06-27,Baltimore,99.96,True
+2026-06-27,Richmond,104.6725,True
 2026-06-27,Portland,103.905,True
-2026-06-27,Miami/Fort Lauderdale,106.065,True
-2026-07-04,"Washington, DC",99.735,True
-2026-07-04,Dallas/Fort Worth,102.74,True
-2026-07-04,Inland Empire,104.09,True
-2026-07-04,Orange County,102.065,True
-2026-07-04,Boston,101.625,True
-2026-07-04,Tampa,103.085,True
-2026-07-04,San Francisco-East Bay,112.365,True
-2026-07-04,New York,101.34,True
-2026-07-04,Orlando,101.245,True
-2026-07-04,Philadelphia,103.86,True
+2026-06-27,Miami/Fort Lauderdale,106.16,True
+2026-07-04,"Washington, DC",99.775,True
+2026-07-04,Dallas/Fort Worth,102.79,True
+2026-07-04,Inland Empire,103.98,True
+2026-07-04,Orange County,102.07,True
+2026-07-04,Boston,101.565,True
+2026-07-04,Tampa,103.165,True
+2026-07-04,San Francisco-East Bay,112.385,True
+2026-07-04,New York,101.35,True
+2026-07-04,Philadelphia,103.95,True
+2026-07-04,Orlando,101.28,True
 2026-07-04,Seattle,104.035,True
-2026-07-04,Nashville,93.34,True
-2026-07-04,Austin,101.185,True
-2026-07-04,Los Angeles,102.325,True
-2026-07-04,Salinas/Monterey,103.135,True
-2026-07-04,Baltimore,98.72,True
-2026-07-04,Richmond,103.345,True
-2026-07-04,Portland,103.3,True
-2026-07-04,Miami/Fort Lauderdale,104.51,True
-2026-07-11,"Washington, DC",98.8275,True
-2026-07-11,Dallas/Fort Worth,102.945,True
-2026-07-11,Inland Empire,103.285,True
-2026-07-11,Orange County,102.3675,True
-2026-07-11,Boston,101.7825,True
-2026-07-11,Tampa,102.5825,True
-2026-07-11,San Francisco-East Bay,113.0525,True
-2026-07-11,New York,102.32,True
-2026-07-11,Orlando,101.7025,True
-2026-07-11,Philadelphia,104.165,True
+2026-07-04,Nashville,93.36,True
+2026-07-04,Austin,101.205,True
+2026-07-04,Los Angeles,102.31,True
+2026-07-04,Salinas/Monterey,103.145,True
+2026-07-04,Baltimore,98.71,True
+2026-07-04,Richmond,103.425,True
+2026-07-04,Portland,103.29,True
+2026-07-04,Miami/Fort Lauderdale,104.6,True
+2026-07-11,"Washington, DC",98.8725,True
+2026-07-11,Dallas/Fort Worth,102.995,True
+2026-07-11,Inland Empire,103.17,True
+2026-07-11,Orange County,102.38,True
+2026-07-11,Boston,101.7125,True
+2026-07-11,Tampa,102.6675,True
+2026-07-11,San Francisco-East Bay,113.0775,True
+2026-07-11,New York,102.315,True
+2026-07-11,Philadelphia,104.26,True
+2026-07-11,Orlando,101.725,True
 2026-07-11,Seattle,103.6625,True
-2026-07-11,Nashville,92.835,True
-2026-07-11,Austin,100.6275,True
-2026-07-11,Los Angeles,102.7475,True
-2026-07-11,Salinas/Monterey,102.8675,True
-2026-07-11,Baltimore,97.47,True
-2026-07-11,Richmond,102.0975,True
-2026-07-11,Portland,102.695,True
-2026-07-11,Miami/Fort Lauderdale,102.955,True
-2026-07-18,"Washington, DC",97.92,False
-2026-07-18,Dallas/Fort Worth,103.15,False
-2026-07-18,Inland Empire,102.48,False
-2026-07-18,Orange County,102.67,False
-2026-07-18,Boston,101.94,False
-2026-07-18,Tampa,102.08,False
-2026-07-18,San Francisco-East Bay,113.74,False
-2026-07-18,New York,103.3,False
-2026-07-18,Orlando,102.16,False
-2026-07-18,Philadelphia,104.47,False
+2026-07-11,Nashville,92.85,True
+2026-07-11,Austin,100.6375,True
+2026-07-11,Los Angeles,102.72,True
+2026-07-11,Salinas/Monterey,102.8725,True
+2026-07-11,Baltimore,97.46,True
+2026-07-11,Richmond,102.1775,True
+2026-07-11,Portland,102.675,True
+2026-07-11,Miami/Fort Lauderdale,103.04,True
+2026-07-18,"Washington, DC",97.97,False
+2026-07-18,Dallas/Fort Worth,103.2,False
+2026-07-18,Inland Empire,102.36,False
+2026-07-18,Orange County,102.69,False
+2026-07-18,Boston,101.86,False
+2026-07-18,Tampa,102.17,False
+2026-07-18,San Francisco-East Bay,113.77,False
+2026-07-18,New York,103.28,False
+2026-07-18,Philadelphia,104.57,False
+2026-07-18,Orlando,102.17,False
 2026-07-18,Seattle,103.29,False
-2026-07-18,Nashville,92.33,False
+2026-07-18,Nashville,92.34,False
 2026-07-18,Austin,100.07,False
-2026-07-18,Los Angeles,103.17,False
+2026-07-18,Los Angeles,103.13,False
 2026-07-18,Salinas/Monterey,102.6,False
-2026-07-18,Baltimore,96.22,False
-2026-07-18,Richmond,100.85,False
-2026-07-18,Portland,102.09,False
-2026-07-18,Miami/Fort Lauderdale,101.4,False
-2026-07-25,"Washington, DC",97.695,True
-2026-07-25,Dallas/Fort Worth,102.255,True
-2026-07-25,Inland Empire,102.5,True
-2026-07-25,Orange County,102.715,True
-2026-07-25,Boston,101.9,True
-2026-07-25,Tampa,101.945,True
-2026-07-25,San Francisco-East Bay,112.66,True
-2026-07-25,New York,102.185,True
-2026-07-25,Orlando,101.655,True
-2026-07-25,Philadelphia,102.8,True
-2026-07-25,Seattle,103.87,True
+2026-07-18,Baltimore,96.21,False
+2026-07-18,Richmond,100.93,False
+2026-07-18,Portland,102.06,False
+2026-07-18,Miami/Fort Lauderdale,101.48,False
+2026-07-25,"Washington, DC",97.755,True
+2026-07-25,Dallas/Fort Worth,102.3,True
+2026-07-25,Inland Empire,102.375,True
+2026-07-25,Orange County,102.735,True
+2026-07-25,Boston,101.855,True
+2026-07-25,Tampa,102.02,True
+2026-07-25,San Francisco-East Bay,112.685,True
+2026-07-25,New York,102.17,True
+2026-07-25,Philadelphia,102.935,True
+2026-07-25,Orlando,101.675,True
+2026-07-25,Seattle,103.845,True
 2026-07-25,Nashville,93.31,True
 2026-07-25,Austin,100.075,True
-2026-07-25,Los Angeles,102.34,True
-2026-07-25,Salinas/Monterey,102.21,True
-2026-07-25,Baltimore,96.105,True
-2026-07-25,Richmond,100.84,True
-2026-07-25,Portland,99.99,True
-2026-07-25,Miami/Fort Lauderdale,101.605,True
-2026-08-01,"Washington, DC",97.47,False
-2026-08-01,Dallas/Fort Worth,101.36,False
-2026-08-01,Inland Empire,102.52,False
-2026-08-01,Orange County,102.76,False
-2026-08-01,Boston,101.86,False
-2026-08-01,Tampa,101.81,False
-2026-08-01,San Francisco-East Bay,111.58,False
-2026-08-01,New York,101.07,False
-2026-08-01,Orlando,101.15,False
-2026-08-01,Philadelphia,101.13,False
-2026-08-01,Seattle,104.45,False
-2026-08-01,Nashville,94.29,False
+2026-07-25,Los Angeles,102.31,True
+2026-07-25,Salinas/Monterey,102.205,True
+2026-07-25,Baltimore,96.1,True
+2026-07-25,Richmond,100.87,True
+2026-07-25,Portland,99.96,True
+2026-07-25,Miami/Fort Lauderdale,101.685,True
+2026-08-01,"Washington, DC",97.54,False
+2026-08-01,Dallas/Fort Worth,101.4,False
+2026-08-01,Inland Empire,102.39,False
+2026-08-01,Orange County,102.78,False
+2026-08-01,Boston,101.85,False
+2026-08-01,Tampa,101.87,False
+2026-08-01,San Francisco-East Bay,111.6,False
+2026-08-01,New York,101.06,False
+2026-08-01,Philadelphia,101.3,False
+2026-08-01,Orlando,101.18,False
+2026-08-01,Seattle,104.4,False
+2026-08-01,Nashville,94.28,False
 2026-08-01,Austin,100.08,False
-2026-08-01,Los Angeles,101.51,False
-2026-08-01,Salinas/Monterey,101.82,False
+2026-08-01,Los Angeles,101.49,False
+2026-08-01,Salinas/Monterey,101.81,False
 2026-08-01,Baltimore,95.99,False
-2026-08-01,Richmond,100.83,False
-2026-08-01,Portland,97.89,False
-2026-08-01,Miami/Fort Lauderdale,101.81,False
-2026-08-08,"Washington, DC",96.93,False
-2026-08-08,Dallas/Fort Worth,99.64,False
-2026-08-08,Inland Empire,103.0,False
-2026-08-08,Orange County,104.21,False
-2026-08-08,Boston,101.22,False
-2026-08-08,Tampa,101.35,False
-2026-08-08,San Francisco-East Bay,110.76,False
-2026-08-08,New York,100.29,False
-2026-08-08,Orlando,99.82,False
-2026-08-08,Philadelphia,97.96,False
+2026-08-01,Richmond,100.81,False
+2026-08-01,Portland,97.86,False
+2026-08-01,Miami/Fort Lauderdale,101.89,False
+2026-08-08,"Washington, DC",97.0,False
+2026-08-08,Dallas/Fort Worth,99.69,False
+2026-08-08,Inland Empire,102.91,False
+2026-08-08,Orange County,104.24,False
+2026-08-08,Boston,101.19,False
+2026-08-08,Tampa,101.38,False
+2026-08-08,San Francisco-East Bay,110.77,False
+2026-08-08,New York,100.26,False
+2026-08-08,Philadelphia,98.08,False
+2026-08-08,Orlando,99.84,False
 2026-08-08,Seattle,101.52,False
-2026-08-08,Nashville,94.4,False
-2026-08-08,Austin,101.69,False
-2026-08-08,Los Angeles,102.86,False
-2026-08-08,Salinas/Monterey,102.23,False
+2026-08-08,Nashville,94.36,False
+2026-08-08,Austin,101.7,False
+2026-08-08,Los Angeles,102.88,False
+2026-08-08,Salinas/Monterey,102.22,False
 2026-08-08,Baltimore,95.55,False
-2026-08-08,Richmond,99.49,False
+2026-08-08,Richmond,99.56,False
 2026-08-08,Portland,100.45,False
-2026-08-08,Miami/Fort Lauderdale,99.13,False
-2026-08-15,"Washington, DC",96.37,False
-2026-08-15,Dallas/Fort Worth,98.89,False
-2026-08-15,Inland Empire,102.83,False
-2026-08-15,Orange County,103.42,False
-2026-08-15,Boston,100.2,False
-2026-08-15,Tampa,100.18,False
-2026-08-15,San Francisco-East Bay,109.95,False
-2026-08-15,New York,101.0,False
-2026-08-15,Orlando,99.09,False
-2026-08-15,Philadelphia,97.21,False
-2026-08-15,Seattle,101.83,False
-2026-08-15,Nashville,95.62,False
-2026-08-15,Austin,101.64,False
-2026-08-15,Los Angeles,104.92,False
+2026-08-08,Miami/Fort Lauderdale,99.2,False
+2026-08-15,"Washington, DC",96.45,False
+2026-08-15,Dallas/Fort Worth,98.93,False
+2026-08-15,Inland Empire,102.71,False
+2026-08-15,Orange County,103.44,False
+2026-08-15,Boston,100.17,False
+2026-08-15,Tampa,100.2,False
+2026-08-15,San Francisco-East Bay,109.98,False
+2026-08-15,New York,100.99,False
+2026-08-15,Philadelphia,97.33,False
+2026-08-15,Orlando,99.11,False
+2026-08-15,Seattle,101.82,False
+2026-08-15,Nashville,95.61,False
+2026-08-15,Austin,101.67,False
+2026-08-15,Los Angeles,104.97,False
 2026-08-15,Salinas/Monterey,102.81,False
 2026-08-15,Baltimore,94.34,False
-2026-08-15,Richmond,96.83,False
-2026-08-15,Portland,97.07,False
-2026-08-15,Miami/Fort Lauderdale,100.195,True
-2026-08-22,"Washington, DC",96.55,False
-2026-08-22,Dallas/Fort Worth,99.3,False
-2026-08-22,Inland Empire,102.93,False
-2026-08-22,Orange County,103.72,False
-2026-08-22,Boston,98.66,False
-2026-08-22,Tampa,99.34,False
-2026-08-22,San Francisco-East Bay,109.55,False
-2026-08-22,New York,98.71,False
-2026-08-22,Orlando,97.37,False
-2026-08-22,Philadelphia,98.62,False
+2026-08-15,Richmond,96.9,False
+2026-08-15,Portland,97.12,False
+2026-08-15,Miami/Fort Lauderdale,100.265,True
+2026-08-22,"Washington, DC",96.63,False
+2026-08-22,Dallas/Fort Worth,99.35,False
+2026-08-22,Inland Empire,102.81,False
+2026-08-22,Orange County,103.74,False
+2026-08-22,Boston,98.62,False
+2026-08-22,Tampa,99.35,False
+2026-08-22,San Francisco-East Bay,109.57,False
+2026-08-22,New York,98.68,False
+2026-08-22,Philadelphia,98.74,False
+2026-08-22,Orlando,97.4,False
 2026-08-22,Seattle,102.66,False
-2026-08-22,Nashville,97.12,False
+2026-08-22,Nashville,97.11,False
 2026-08-22,Austin,100.68,False
-2026-08-22,Los Angeles,103.72,False
-2026-08-22,Salinas/Monterey,103.11,False
-2026-08-22,Baltimore,94.22,False
-2026-08-22,Richmond,94.02,False
+2026-08-22,Los Angeles,103.75,False
+2026-08-22,Salinas/Monterey,103.12,False
+2026-08-22,Baltimore,94.21,False
+2026-08-22,Richmond,94.09,False
 2026-08-22,Portland,95.51,False
-2026-08-22,Miami/Fort Lauderdale,101.26,False
-2026-08-29,"Washington, DC",97.05,False
-2026-08-29,Dallas/Fort Worth,100.68,False
-2026-08-29,Inland Empire,104.69,False
-2026-08-29,Orange County,103.28,False
-2026-08-29,Boston,98.91,False
-2026-08-29,Tampa,98.28,False
-2026-08-29,San Francisco-East Bay,110.31,False
-2026-08-29,New York,100.25,False
+2026-08-22,Miami/Fort Lauderdale,101.33,False
+2026-08-29,"Washington, DC",97.06,False
+2026-08-29,Dallas/Fort Worth,100.72,False
+2026-08-29,Inland Empire,104.7,False
+2026-08-29,Orange County,103.29,False
+2026-08-29,Boston,98.87,False
+2026-08-29,Tampa,98.27,False
+2026-08-29,San Francisco-East Bay,110.33,False
+2026-08-29,New York,100.17,False
+2026-08-29,Philadelphia,99.46,False
 2026-08-29,Orlando,97.16,False
-2026-08-29,Philadelphia,99.51,False
-2026-08-29,Seattle,100.84,False
-2026-08-29,Nashville,99.3,False
-2026-08-29,Austin,101.47,False
-2026-08-29,Los Angeles,104.87,False
-2026-08-29,Salinas/Monterey,106.45,False
-2026-08-29,Baltimore,93.6,False
-2026-08-29,Richmond,95.56,False
-2026-08-29,Portland,94.34,False
-2026-08-29,Miami/Fort Lauderdale,103.28,False
-2026-09-05,"Washington, DC",96.71,False
-2026-09-05,Dallas/Fort Worth,99.05,False
-2026-09-05,Inland Empire,102.88,False
-2026-09-05,Orange County,102.57,False
-2026-09-05,Boston,98.84,False
-2026-09-05,Tampa,98.29,False
-2026-09-05,San Francisco-East Bay,110.7,False
-2026-09-05,New York,99.58,False
-2026-09-05,Orlando,97.63,False
-2026-09-05,Philadelphia,97.84,False
-2026-09-05,Seattle,97.38,False
-2026-09-05,Nashville,99.05,False
-2026-09-05,Austin,100.28,False
-2026-09-05,Los Angeles,104.55,False
-2026-09-05,Salinas/Monterey,107.54,False
-2026-09-05,Baltimore,95.53,False
-2026-09-05,Richmond,93.22,False
-2026-09-05,Portland,94.07,False
-2026-09-05,Miami/Fort Lauderdale,102.63,False
-2026-09-12,"Washington, DC",96.89,False
-2026-09-12,Dallas/Fort Worth,99.32,False
-2026-09-12,Inland Empire,103.04,False
-2026-09-12,Orange County,103.03,False
-2026-09-12,Boston,98.2,False
-2026-09-12,Tampa,98.57,False
-2026-09-12,San Francisco-East Bay,111.26,False
-2026-09-12,New York,100.26,False
-2026-09-12,Orlando,98.53,False
-2026-09-12,Philadelphia,96.37,False
+2026-08-29,Seattle,100.83,False
+2026-08-29,Nashville,99.31,False
+2026-08-29,Austin,101.46,False
+2026-08-29,Los Angeles,104.88,False
+2026-08-29,Salinas/Monterey,106.47,False
+2026-08-29,Baltimore,93.59,False
+2026-08-29,Richmond,95.58,False
+2026-08-29,Portland,94.33,False
+2026-08-29,Miami/Fort Lauderdale,103.34,False
+2026-09-05,"Washington, DC",96.78,False
+2026-09-05,Dallas/Fort Worth,99.08,False
+2026-09-05,Inland Empire,102.9,False
+2026-09-05,Orange County,102.59,False
+2026-09-05,Boston,98.82,False
+2026-09-05,Tampa,98.27,False
+2026-09-05,San Francisco-East Bay,110.72,False
+2026-09-05,New York,99.53,False
+2026-09-05,Philadelphia,97.98,False
+2026-09-05,Orlando,97.66,False
+2026-09-05,Seattle,97.37,False
+2026-09-05,Nashville,99.07,False
+2026-09-05,Austin,100.29,False
+2026-09-05,Los Angeles,104.63,False
+2026-09-05,Salinas/Monterey,107.56,False
+2026-09-05,Baltimore,95.52,False
+2026-09-05,Richmond,93.28,False
+2026-09-05,Portland,94.04,False
+2026-09-05,Miami/Fort Lauderdale,102.68,False
+2026-09-12,"Washington, DC",96.95,False
+2026-09-12,Dallas/Fort Worth,99.36,False
+2026-09-12,Inland Empire,103.06,False
+2026-09-12,Orange County,103.04,False
+2026-09-12,Boston,98.17,False
+2026-09-12,Tampa,98.56,False
+2026-09-12,San Francisco-East Bay,111.28,False
+2026-09-12,New York,100.24,False
+2026-09-12,Philadelphia,96.49,False
+2026-09-12,Orlando,98.55,False
 2026-09-12,Seattle,97.96,False
-2026-09-12,Nashville,100.96,False
-2026-09-12,Austin,100.7,False
-2026-09-12,Los Angeles,107.16,False
-2026-09-12,Salinas/Monterey,107.21,False
-2026-09-12,Baltimore,95.8,False
-2026-09-12,Richmond,95.1,False
-2026-09-12,Portland,94.41,False
-2026-09-12,Miami/Fort Lauderdale,101.13,False
-2026-09-19,"Washington, DC",97.23,False
-2026-09-19,Dallas/Fort Worth,99.81,False
-2026-09-19,Inland Empire,102.56,False
-2026-09-19,Orange County,102.79,False
-2026-09-19,Boston,96.83,False
-2026-09-19,Tampa,100.34,False
-2026-09-19,San Francisco-East Bay,110.91,False
-2026-09-19,New York,102.94,False
-2026-09-19,Orlando,97.56,False
-2026-09-19,Philadelphia,96.55,False
-2026-09-19,Seattle,98.82,False
-2026-09-19,Nashville,100.64,False
-2026-09-19,Austin,100.86,False
-2026-09-19,Los Angeles,107.26,False
-2026-09-19,Salinas/Monterey,108.58,False
-2026-09-19,Baltimore,96.73,False
-2026-09-19,Richmond,95.32,False
-2026-09-19,Portland,94.0,False
-2026-09-19,Miami/Fort Lauderdale,100.58,False
-2026-09-26,"Washington, DC",96.68,False
-2026-09-26,Dallas/Fort Worth,100.02,False
-2026-09-26,Inland Empire,102.3,False
-2026-09-26,Orange County,103.98,False
+2026-09-12,Nashville,100.97,False
+2026-09-12,Austin,100.74,False
+2026-09-12,Los Angeles,107.24,False
+2026-09-12,Salinas/Monterey,107.23,False
+2026-09-12,Baltimore,95.82,False
+2026-09-12,Richmond,95.2,False
+2026-09-12,Portland,94.4,False
+2026-09-12,Miami/Fort Lauderdale,101.19,False
+2026-09-19,"Washington, DC",97.31,False
+2026-09-19,Dallas/Fort Worth,99.84,False
+2026-09-19,Inland Empire,102.61,False
+2026-09-19,Orange County,102.8,False
+2026-09-19,Boston,96.81,False
+2026-09-19,Tampa,100.37,False
+2026-09-19,San Francisco-East Bay,110.93,False
+2026-09-19,New York,103.15,False
+2026-09-19,Philadelphia,96.67,False
+2026-09-19,Orlando,97.58,False
+2026-09-19,Seattle,98.8,False
+2026-09-19,Nashville,100.63,False
+2026-09-19,Austin,100.89,False
+2026-09-19,Los Angeles,107.35,False
+2026-09-19,Salinas/Monterey,108.61,False
+2026-09-19,Baltimore,96.71,False
+2026-09-19,Richmond,95.37,False
+2026-09-19,Portland,93.96,False
+2026-09-19,Miami/Fort Lauderdale,100.61,False
+2026-09-26,"Washington, DC",96.74,False
+2026-09-26,Dallas/Fort Worth,100.01,False
+2026-09-26,Inland Empire,102.35,False
+2026-09-26,Orange County,104.01,False
 2026-09-26,Boston,96.46,False
-2026-09-26,Tampa,103.3,False
-2026-09-26,San Francisco-East Bay,111.25,False
-2026-09-26,New York,104.56,False
-2026-09-26,Orlando,99.83,False
-2026-09-26,Philadelphia,103.79,False
-2026-09-26,Seattle,98.39,False
-2026-09-26,Nashville,102.62,False
-2026-09-26,Austin,100.12,False
-2026-09-26,Los Angeles,107.55,False
-2026-09-26,Salinas/Monterey,106.8,False
-2026-09-26,Baltimore,95.93,False
-2026-09-26,Richmond,97.38,False
-2026-09-26,Portland,94.71,False
-2026-09-26,Miami/Fort Lauderdale,98.33,False
-2026-10-03,"Washington, DC",97.365,True
-2026-10-03,Dallas/Fort Worth,100.18,True
-2026-10-03,Inland Empire,100.61,True
-2026-10-03,Orange County,103.855,True
+2026-09-26,Tampa,103.27,False
+2026-09-26,San Francisco-East Bay,111.27,False
+2026-09-26,New York,104.69,False
+2026-09-26,Philadelphia,103.91,False
+2026-09-26,Orlando,99.78,False
+2026-09-26,Seattle,98.38,False
+2026-09-26,Nashville,102.46,False
+2026-09-26,Austin,100.14,False
+2026-09-26,Los Angeles,107.63,False
+2026-09-26,Salinas/Monterey,106.81,False
+2026-09-26,Baltimore,95.91,False
+2026-09-26,Richmond,97.39,False
+2026-09-26,Portland,94.6,False
+2026-09-26,Miami/Fort Lauderdale,98.35,False
+2026-10-03,"Washington, DC",97.4,True
+2026-10-03,Dallas/Fort Worth,100.175,True
+2026-10-03,Inland Empire,100.66,True
+2026-10-03,Orange County,103.89,True
 2026-10-03,Boston,96.06,True
-2026-10-03,Tampa,103.4,True
-2026-10-03,San Francisco-East Bay,110.895,True
-2026-10-03,New York,104.725,True
+2026-10-03,Tampa,103.385,True
+2026-10-03,San Francisco-East Bay,110.915,True
+2026-10-03,New York,104.905,True
+2026-10-03,Philadelphia,103.055,True
 2026-10-03,Orlando,99.045,True
-2026-10-03,Philadelphia,102.93,True
-2026-10-03,Seattle,97.465,True
-2026-10-03,Nashville,100.955,True
-2026-10-03,Austin,100.83,True
-2026-10-03,Los Angeles,106.98,True
-2026-10-03,Salinas/Monterey,104.595,True
-2026-10-03,Baltimore,95.4,True
+2026-10-03,Seattle,97.45,True
+2026-10-03,Nashville,100.88,True
+2026-10-03,Austin,100.835,True
+2026-10-03,Los Angeles,107.08,True
+2026-10-03,Salinas/Monterey,104.61,True
+2026-10-03,Baltimore,95.37,True
 2026-10-03,Richmond,98.38,True
-2026-10-03,Portland,95.545,True
-2026-10-03,Miami/Fort Lauderdale,99.515,True
-2026-10-10,"Washington, DC",98.05,False
+2026-10-03,Portland,95.45,True
+2026-10-03,Miami/Fort Lauderdale,99.535,True
+2026-10-10,"Washington, DC",98.06,False
 2026-10-10,Dallas/Fort Worth,100.34,False
-2026-10-10,Inland Empire,98.92,False
-2026-10-10,Orange County,103.73,False
+2026-10-10,Inland Empire,98.97,False
+2026-10-10,Orange County,103.77,False
 2026-10-10,Boston,95.66,False
 2026-10-10,Tampa,103.5,False
-2026-10-10,San Francisco-East Bay,110.54,False
-2026-10-10,New York,104.89,False
-2026-10-10,Orlando,98.26,False
-2026-10-10,Philadelphia,102.07,False
-2026-10-10,Seattle,96.54,False
-2026-10-10,Nashville,99.29,False
-2026-10-10,Austin,101.54,False
-2026-10-10,Los Angeles,106.41,False
-2026-10-10,Salinas/Monterey,102.39,False
-2026-10-10,Baltimore,94.87,False
-2026-10-10,Richmond,99.38,False
-2026-10-10,Portland,96.38,False
-2026-10-10,Miami/Fort Lauderdale,100.7,False
-2026-10-17,"Washington, DC",101.56,False
-2026-10-17,Dallas/Fort Worth,100.68,False
-2026-10-17,Inland Empire,98.34,False
-2026-10-17,Orange County,103.46,False
-2026-10-17,Boston,93.85,False
+2026-10-10,San Francisco-East Bay,110.56,False
+2026-10-10,New York,105.12,False
+2026-10-10,Philadelphia,102.2,False
+2026-10-10,Orlando,98.31,False
+2026-10-10,Seattle,96.52,False
+2026-10-10,Nashville,99.3,False
+2026-10-10,Austin,101.53,False
+2026-10-10,Los Angeles,106.53,False
+2026-10-10,Salinas/Monterey,102.41,False
+2026-10-10,Baltimore,94.83,False
+2026-10-10,Richmond,99.37,False
+2026-10-10,Portland,96.3,False
+2026-10-10,Miami/Fort Lauderdale,100.72,False
+2026-10-17,"Washington, DC",101.59,False
+2026-10-17,Dallas/Fort Worth,100.71,False
+2026-10-17,Inland Empire,98.39,False
+2026-10-17,Orange County,103.49,False
+2026-10-17,Boston,93.86,False
 2026-10-17,Tampa,103.56,False
 2026-10-17,San Francisco-East Bay,110.17,False
-2026-10-17,New York,105.84,False
-2026-10-17,Orlando,98.15,False
-2026-10-17,Philadelphia,96.69,False
-2026-10-17,Seattle,95.68,False
-2026-10-17,Nashville,99.86,False
-2026-10-17,Austin,102.64,False
-2026-10-17,Los Angeles,107.6,False
-2026-10-17,Salinas/Monterey,102.72,False
-2026-10-17,Baltimore,94.67,False
-2026-10-17,Richmond,99.84,False
-2026-10-17,Portland,96.01,False
-2026-10-17,Miami/Fort Lauderdale,105.64,False
-2026-10-24,"Washington, DC",103.19,False
+2026-10-17,New York,106.07,False
+2026-10-17,Philadelphia,96.81,False
+2026-10-17,Orlando,98.21,False
+2026-10-17,Seattle,95.66,False
+2026-10-17,Nashville,99.81,False
+2026-10-17,Austin,102.74,False
+2026-10-17,Los Angeles,107.71,False
+2026-10-17,Salinas/Monterey,102.74,False
+2026-10-17,Baltimore,94.61,False
+2026-10-17,Richmond,99.79,False
+2026-10-17,Portland,95.93,False
+2026-10-17,Miami/Fort Lauderdale,105.66,False
+2026-10-24,"Washington, DC",103.22,False
 2026-10-24,Dallas/Fort Worth,102.48,False
-2026-10-24,Inland Empire,98.17,False
-2026-10-24,Orange County,102.48,False
-2026-10-24,Boston,93.04,False
-2026-10-24,Tampa,103.25,False
+2026-10-24,Inland Empire,98.19,False
+2026-10-24,Orange County,102.54,False
+2026-10-24,Boston,93.05,False
+2026-10-24,Tampa,103.27,False
 2026-10-24,San Francisco-East Bay,110.61,False
-2026-10-24,New York,105.71,False
-2026-10-24,Orlando,97.04,False
-2026-10-24,Philadelphia,97.05,False
-2026-10-24,Seattle,94.98,False
-2026-10-24,Nashville,97.43,False
-2026-10-24,Austin,99.8,False
-2026-10-24,Los Angeles,110.18,False
-2026-10-24,Salinas/Monterey,102.61,False
-2026-10-24,Baltimore,94.64,False
-2026-10-24,Richmond,99.16,False
-2026-10-24,Portland,95.36,False
-2026-10-24,Miami/Fort Lauderdale,108.14,False
-2026-10-31,"Washington, DC",102.92,False
+2026-10-24,New York,105.96,False
+2026-10-24,Philadelphia,97.19,False
+2026-10-24,Orlando,97.09,False
+2026-10-24,Seattle,94.94,False
+2026-10-24,Nashville,97.35,False
+2026-10-24,Austin,99.92,False
+2026-10-24,Los Angeles,110.33,False
+2026-10-24,Salinas/Monterey,102.64,False
+2026-10-24,Baltimore,94.59,False
+2026-10-24,Richmond,99.13,False
+2026-10-24,Portland,95.28,False
+2026-10-24,Miami/Fort Lauderdale,108.17,False
+2026-10-31,"Washington, DC",102.95,False
 2026-10-31,Dallas/Fort Worth,102.58,False
-2026-10-31,Inland Empire,98.2,False
-2026-10-31,Orange County,102.31,False
-2026-10-31,Boston,92.56,False
-2026-10-31,Tampa,103.24,False
-2026-10-31,San Francisco-East Bay,110.69,False
-2026-10-31,New York,105.89,False
-2026-10-31,Orlando,96.68,False
-2026-10-31,Philadelphia,96.98,False
-2026-10-31,Seattle,95.14,False
-2026-10-31,Nashville,96.84,False
-2026-10-31,Austin,100.97,False
-2026-10-31,Los Angeles,109.73,False
-2026-10-31,Salinas/Monterey,102.75,False
-2026-10-31,Baltimore,94.43,False
-2026-10-31,Richmond,97.6,False
-2026-10-31,Portland,96.94,False
-2026-10-31,Miami/Fort Lauderdale,109.54,False
-2026-11-07,"Washington, DC",102.12,False
-2026-11-07,Dallas/Fort Worth,102.35,False
-2026-11-07,Inland Empire,98.16,False
-2026-11-07,Orange County,102.0,False
-2026-11-07,Boston,92.12,False
-2026-11-07,Tampa,100.2,False
-2026-11-07,San Francisco-East Bay,109.93,False
-2026-11-07,New York,106.12,False
-2026-11-07,Orlando,97.45,False
-2026-11-07,Philadelphia,97.47,False
-2026-11-07,Seattle,91.54,False
-2026-11-07,Nashville,96.74,False
-2026-11-07,Austin,99.58,False
-2026-11-07,Los Angeles,108.16,False
-2026-11-07,Salinas/Monterey,102.01,False
-2026-11-07,Baltimore,94.33,False
-2026-11-07,Richmond,100.54,False
-2026-11-07,Portland,95.96,False
-2026-11-07,Miami/Fort Lauderdale,112.47,False
-2026-11-14,"Washington, DC",102.54,False
-2026-11-14,Dallas/Fort Worth,101.66,False
-2026-11-14,Inland Empire,97.23,False
-2026-11-14,Orange County,102.16,False
-2026-11-14,Boston,91.39,False
-2026-11-14,Tampa,101.93,False
-2026-11-14,San Francisco-East Bay,108.75,False
-2026-11-14,New York,104.17,False
+2026-10-31,Inland Empire,98.22,False
+2026-10-31,Orange County,102.36,False
+2026-10-31,Boston,92.57,False
+2026-10-31,Tampa,103.26,False
+2026-10-31,San Francisco-East Bay,110.67,False
+2026-10-31,New York,106.15,False
+2026-10-31,Philadelphia,97.12,False
+2026-10-31,Orlando,96.74,False
+2026-10-31,Seattle,95.1,False
+2026-10-31,Nashville,96.77,False
+2026-10-31,Austin,101.1,False
+2026-10-31,Los Angeles,109.87,False
+2026-10-31,Salinas/Monterey,102.82,False
+2026-10-31,Baltimore,94.38,False
+2026-10-31,Richmond,97.58,False
+2026-10-31,Portland,96.86,False
+2026-10-31,Miami/Fort Lauderdale,109.57,False
+2026-11-07,"Washington, DC",102.15,False
+2026-11-07,Dallas/Fort Worth,102.36,False
+2026-11-07,Inland Empire,98.3,False
+2026-11-07,Orange County,102.04,False
+2026-11-07,Boston,92.16,False
+2026-11-07,Tampa,100.22,False
+2026-11-07,San Francisco-East Bay,109.9,False
+2026-11-07,New York,106.36,False
+2026-11-07,Philadelphia,97.59,False
+2026-11-07,Orlando,97.46,False
+2026-11-07,Seattle,91.48,False
+2026-11-07,Nashville,96.7,False
+2026-11-07,Austin,99.62,False
+2026-11-07,Los Angeles,108.25,False
+2026-11-07,Salinas/Monterey,102.03,False
+2026-11-07,Baltimore,94.35,False
+2026-11-07,Richmond,100.53,False
+2026-11-07,Portland,95.89,False
+2026-11-07,Miami/Fort Lauderdale,112.5,False
+2026-11-14,"Washington, DC",102.6,False
+2026-11-14,Dallas/Fort Worth,101.67,False
+2026-11-14,Inland Empire,97.37,False
+2026-11-14,Orange County,102.2,False
+2026-11-14,Boston,91.42,False
+2026-11-14,Tampa,101.97,False
+2026-11-14,San Francisco-East Bay,108.74,False
+2026-11-14,New York,103.97,False
+2026-11-14,Philadelphia,98.53,False
 2026-11-14,Orlando,98.97,False
-2026-11-14,Philadelphia,98.19,False
-2026-11-14,Seattle,94.5,False
-2026-11-14,Nashville,96.92,False
-2026-11-14,Austin,100.48,False
-2026-11-14,Los Angeles,108.17,False
-2026-11-14,Salinas/Monterey,102.51,False
-2026-11-14,Baltimore,94.99,False
+2026-11-14,Seattle,94.46,False
+2026-11-14,Nashville,96.88,False
+2026-11-14,Austin,100.5,False
+2026-11-14,Los Angeles,108.27,False
+2026-11-14,Salinas/Monterey,102.53,False
+2026-11-14,Baltimore,94.97,False
 2026-11-14,Richmond,100.45,False
-2026-11-14,Portland,95.18,False
-2026-11-14,Miami/Fort Lauderdale,118.24,False
-2026-11-21,"Washington, DC",102.56,False
+2026-11-14,Portland,95.04,False
+2026-11-14,Miami/Fort Lauderdale,118.28,False
+2026-11-21,"Washington, DC",102.59,False
 2026-11-21,Dallas/Fort Worth,102.15,False
-2026-11-21,Inland Empire,96.43,False
-2026-11-21,Orange County,101.81,False
+2026-11-21,Inland Empire,96.58,False
+2026-11-21,Orange County,101.84,False
 2026-11-21,Boston,92.44,False
-2026-11-21,Tampa,102.7,False
-2026-11-21,San Francisco-East Bay,107.61,False
-2026-11-21,New York,103.05,False
-2026-11-21,Orlando,99.5,False
-2026-11-21,Philadelphia,99.07,False
-2026-11-21,Seattle,93.7,False
-2026-11-21,Nashville,97.85,False
-2026-11-21,Austin,98.98,False
-2026-11-21,Los Angeles,106.93,False
-2026-11-21,Salinas/Monterey,101.24,False
+2026-11-21,Tampa,102.97,False
+2026-11-21,San Francisco-East Bay,107.59,False
+2026-11-21,New York,102.91,False
+2026-11-21,Philadelphia,99.29,False
+2026-11-21,Orlando,99.49,False
+2026-11-21,Seattle,93.66,False
+2026-11-21,Nashville,97.81,False
+2026-11-21,Austin,99.02,False
+2026-11-21,Los Angeles,107.0,False
+2026-11-21,Salinas/Monterey,101.23,False
 2026-11-21,Baltimore,96.22,False
-2026-11-21,Richmond,100.03,False
-2026-11-21,Portland,100.47,False
-2026-11-21,Miami/Fort Lauderdale,120.76,False
+2026-11-21,Richmond,100.05,False
+2026-11-21,Portland,100.4,False
+2026-11-21,Miami/Fort Lauderdale,120.79,False
+2026-11-28,"Washington, DC",103.37,False
+2026-11-28,Dallas/Fort Worth,102.68,False
+2026-11-28,Inland Empire,96.52,False
+2026-11-28,Orange County,101.66,False
+2026-11-28,Boston,92.6,False
+2026-11-28,Tampa,102.03,False
+2026-11-28,San Francisco-East Bay,108.2,False
+2026-11-28,New York,101.55,False
+2026-11-28,Philadelphia,99.38,False
+2026-11-28,Orlando,99.31,False
+2026-11-28,Seattle,93.22,False
+2026-11-28,Nashville,97.88,False
+2026-11-28,Austin,97.57,False
+2026-11-28,Los Angeles,107.19,False
+2026-11-28,Salinas/Monterey,100.47,False
+2026-11-28,Baltimore,97.72,False
+2026-11-28,Richmond,98.41,False
+2026-11-28,Portland,103.27,False
+2026-11-28,Miami/Fort Lauderdale,120.4,False

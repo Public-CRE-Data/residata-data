@@ -1,720 +1,759 @@
 date,market,reit,value,thin,interpolated
 2026-08-08,Atlanta,MAA,100.0,False,False
-2026-08-15,Atlanta,MAA,99.989,False,False
-2026-08-22,Atlanta,MAA,99.488,False,False
-2026-08-29,Atlanta,MAA,99.37,False,False
-2026-09-05,Atlanta,MAA,99.16,False,False
-2026-09-12,Atlanta,MAA,99.071,False,False
-2026-09-19,Atlanta,MAA,99.249,False,True
-2026-09-26,Atlanta,MAA,99.428,False,False
-2026-10-03,Atlanta,MAA,99.261,False,True
-2026-10-10,Atlanta,MAA,99.095,False,False
-2026-10-17,Atlanta,MAA,98.92,False,False
-2026-10-24,Atlanta,MAA,99.265,False,False
-2026-10-31,Atlanta,MAA,99.702,False,False
-2026-11-07,Atlanta,MAA,100.168,False,False
-2026-11-14,Atlanta,MAA,100.169,False,False
-2026-11-21,Atlanta,MAA,99.064,False,False
+2026-08-15,Atlanta,MAA,99.991,False,False
+2026-08-22,Atlanta,MAA,99.494,False,False
+2026-08-29,Atlanta,MAA,99.385,False,False
+2026-09-05,Atlanta,MAA,99.175,False,False
+2026-09-12,Atlanta,MAA,99.081,False,False
+2026-09-19,Atlanta,MAA,99.255,False,True
+2026-09-26,Atlanta,MAA,99.43,False,False
+2026-10-03,Atlanta,MAA,99.254,False,True
+2026-10-10,Atlanta,MAA,99.079,False,False
+2026-10-17,Atlanta,MAA,98.929,False,False
+2026-10-24,Atlanta,MAA,99.267,False,False
+2026-10-31,Atlanta,MAA,99.707,False,False
+2026-11-07,Atlanta,MAA,100.164,False,False
+2026-11-14,Atlanta,MAA,100.161,False,False
+2026-11-21,Atlanta,MAA,99.081,False,False
+2026-11-28,Atlanta,MAA,98.558,False,False
 2026-08-08,Atlanta,CPT,100.0,True,False
-2026-08-15,Atlanta,CPT,100.019,True,False
-2026-08-22,Atlanta,CPT,99.928,True,False
-2026-08-29,Atlanta,CPT,99.895,True,False
-2026-09-05,Atlanta,CPT,99.669,True,False
-2026-09-12,Atlanta,CPT,98.611,True,False
-2026-09-19,Atlanta,CPT,97.219,True,False
-2026-09-26,Atlanta,CPT,96.385,True,False
-2026-10-03,Atlanta,CPT,96.683,True,True
-2026-10-10,Atlanta,CPT,96.981,True,False
-2026-10-17,Atlanta,CPT,97.61,True,False
-2026-10-24,Atlanta,CPT,97.257,True,False
-2026-10-31,Atlanta,CPT,96.5,True,False
-2026-11-07,Atlanta,CPT,96.159,True,False
-2026-11-14,Atlanta,CPT,94.917,True,False
-2026-11-21,Atlanta,CPT,94.283,True,False
+2026-08-15,Atlanta,CPT,100.03,True,False
+2026-08-22,Atlanta,CPT,99.951,True,False
+2026-08-29,Atlanta,CPT,99.912,True,False
+2026-09-05,Atlanta,CPT,99.697,True,False
+2026-09-12,Atlanta,CPT,98.661,True,False
+2026-09-19,Atlanta,CPT,97.272,True,False
+2026-09-26,Atlanta,CPT,96.444,True,False
+2026-10-03,Atlanta,CPT,96.74,True,True
+2026-10-10,Atlanta,CPT,97.037,True,False
+2026-10-17,Atlanta,CPT,97.647,True,False
+2026-10-24,Atlanta,CPT,97.281,True,False
+2026-10-31,Atlanta,CPT,96.515,True,False
+2026-11-07,Atlanta,CPT,96.17,True,False
+2026-11-14,Atlanta,CPT,94.921,True,False
+2026-11-21,Atlanta,CPT,94.305,True,False
+2026-11-28,Atlanta,CPT,94.744,True,False
 2026-08-08,Atlanta,INVH,100.0,False,False
-2026-08-15,Atlanta,INVH,100.328,False,False
-2026-08-22,Atlanta,INVH,100.031,False,False
-2026-08-29,Atlanta,INVH,99.831,False,False
-2026-09-05,Atlanta,INVH,99.703,False,False
-2026-09-12,Atlanta,INVH,99.619,False,False
-2026-09-19,Atlanta,INVH,100.04,False,False
-2026-09-26,Atlanta,INVH,100.386,False,False
-2026-10-03,Atlanta,INVH,100.534,False,True
-2026-10-10,Atlanta,INVH,100.681,False,False
-2026-10-17,Atlanta,INVH,100.012,False,False
-2026-10-24,Atlanta,INVH,99.367,False,False
-2026-10-31,Atlanta,INVH,98.582,False,False
-2026-11-07,Atlanta,INVH,98.46,False,False
-2026-11-14,Atlanta,INVH,98.181,False,False
-2026-11-21,Atlanta,INVH,97.44,False,False
+2026-08-15,Atlanta,INVH,100.37,False,False
+2026-08-22,Atlanta,INVH,100.065,False,False
+2026-08-29,Atlanta,INVH,99.857,False,False
+2026-09-05,Atlanta,INVH,99.738,False,False
+2026-09-12,Atlanta,INVH,99.661,False,False
+2026-09-19,Atlanta,INVH,100.107,False,False
+2026-09-26,Atlanta,INVH,100.482,False,False
+2026-10-03,Atlanta,INVH,100.624,False,True
+2026-10-10,Atlanta,INVH,100.766,False,False
+2026-10-17,Atlanta,INVH,100.074,False,False
+2026-10-24,Atlanta,INVH,99.421,False,False
+2026-10-31,Atlanta,INVH,98.659,False,False
+2026-11-07,Atlanta,INVH,98.548,False,False
+2026-11-14,Atlanta,INVH,98.315,False,False
+2026-11-21,Atlanta,INVH,97.629,False,False
+2026-11-28,Atlanta,INVH,97.048,False,False
 2026-08-08,Atlanta,AMH,100.0,True,False
-2026-08-15,Atlanta,AMH,100.478,True,False
-2026-08-22,Atlanta,AMH,100.477,True,False
-2026-08-29,Atlanta,AMH,100.732,True,False
-2026-09-05,Atlanta,AMH,101.213,True,False
-2026-09-12,Atlanta,AMH,100.955,True,False
-2026-09-19,Atlanta,AMH,101.201,True,False
-2026-09-26,Atlanta,AMH,100.895,True,False
-2026-10-03,Atlanta,AMH,100.616,True,True
-2026-10-10,Atlanta,AMH,100.336,True,False
-2026-10-17,Atlanta,AMH,99.892,True,False
-2026-10-24,Atlanta,AMH,100.333,True,False
-2026-10-31,Atlanta,AMH,101.17,True,False
-2026-11-07,Atlanta,AMH,100.815,True,False
-2026-11-14,Atlanta,AMH,101.003,True,False
-2026-11-21,Atlanta,AMH,100.522,True,False
+2026-08-15,Atlanta,AMH,100.494,True,False
+2026-08-22,Atlanta,AMH,100.494,True,False
+2026-08-29,Atlanta,AMH,100.749,True,False
+2026-09-05,Atlanta,AMH,101.23,True,False
+2026-09-12,Atlanta,AMH,100.976,True,False
+2026-09-19,Atlanta,AMH,101.217,True,False
+2026-09-26,Atlanta,AMH,100.905,True,False
+2026-10-03,Atlanta,AMH,100.621,True,True
+2026-10-10,Atlanta,AMH,100.337,True,False
+2026-10-17,Atlanta,AMH,99.878,True,False
+2026-10-24,Atlanta,AMH,100.309,True,False
+2026-10-31,Atlanta,AMH,101.148,True,False
+2026-11-07,Atlanta,AMH,100.802,True,False
+2026-11-14,Atlanta,AMH,100.991,True,False
+2026-11-21,Atlanta,AMH,100.528,True,False
+2026-11-28,Atlanta,AMH,100.528,True,False
 2026-08-08,Atlanta,VMRK,100.0,False,False
-2026-08-15,Atlanta,VMRK,99.209,False,False
-2026-08-22,Atlanta,VMRK,98.113,False,False
-2026-08-29,Atlanta,VMRK,98.41,False,False
-2026-09-05,Atlanta,VMRK,98.046,False,False
-2026-09-12,Atlanta,VMRK,98.448,False,True
-2026-09-19,Atlanta,VMRK,98.851,False,False
-2026-09-26,Atlanta,VMRK,100.118,False,False
-2026-10-03,Atlanta,VMRK,99.795,False,True
-2026-10-10,Atlanta,VMRK,99.472,False,False
-2026-10-17,Atlanta,VMRK,98.795,False,False
-2026-10-24,Atlanta,VMRK,98.024,False,False
-2026-10-31,Atlanta,VMRK,97.944,False,False
-2026-11-07,Atlanta,VMRK,98.239,False,False
-2026-11-14,Atlanta,VMRK,99.365,False,False
-2026-11-21,Atlanta,VMRK,99.621,False,False
+2026-08-15,Atlanta,VMRK,99.215,False,False
+2026-08-22,Atlanta,VMRK,98.097,False,False
+2026-08-29,Atlanta,VMRK,98.399,False,False
+2026-09-05,Atlanta,VMRK,98.04,False,False
+2026-09-12,Atlanta,VMRK,98.432,False,True
+2026-09-19,Atlanta,VMRK,98.824,False,False
+2026-09-26,Atlanta,VMRK,100.057,False,False
+2026-10-03,Atlanta,VMRK,99.727,False,True
+2026-10-10,Atlanta,VMRK,99.397,False,False
+2026-10-17,Atlanta,VMRK,98.687,False,False
+2026-10-24,Atlanta,VMRK,97.915,False,False
+2026-10-31,Atlanta,VMRK,97.833,False,False
+2026-11-07,Atlanta,VMRK,98.127,False,False
+2026-11-14,Atlanta,VMRK,99.269,False,False
+2026-11-21,Atlanta,VMRK,99.554,False,False
+2026-11-28,Atlanta,VMRK,99.299,False,False
 2026-08-08,Dallas/Fort Worth,MAA,100.0,False,False
-2026-08-15,Dallas/Fort Worth,MAA,99.926,False,False
-2026-08-22,Dallas/Fort Worth,MAA,99.93,False,False
-2026-08-29,Dallas/Fort Worth,MAA,100.372,False,False
-2026-09-05,Dallas/Fort Worth,MAA,100.192,False,False
-2026-09-12,Dallas/Fort Worth,MAA,100.254,False,False
-2026-09-19,Dallas/Fort Worth,MAA,100.273,False,True
-2026-09-26,Dallas/Fort Worth,MAA,100.292,False,False
-2026-10-03,Dallas/Fort Worth,MAA,100.535,False,True
-2026-10-10,Dallas/Fort Worth,MAA,100.778,False,False
-2026-10-17,Dallas/Fort Worth,MAA,101.824,False,False
-2026-10-24,Dallas/Fort Worth,MAA,101.626,False,False
-2026-10-31,Dallas/Fort Worth,MAA,100.74,False,False
-2026-11-07,Dallas/Fort Worth,MAA,100.386,False,False
-2026-11-14,Dallas/Fort Worth,MAA,99.632,False,False
-2026-11-21,Dallas/Fort Worth,MAA,99.086,False,False
+2026-08-15,Dallas/Fort Worth,MAA,99.943,False,False
+2026-08-22,Dallas/Fort Worth,MAA,99.99,False,False
+2026-08-29,Dallas/Fort Worth,MAA,100.418,False,False
+2026-09-05,Dallas/Fort Worth,MAA,100.254,False,False
+2026-09-12,Dallas/Fort Worth,MAA,100.311,False,False
+2026-09-19,Dallas/Fort Worth,MAA,100.312,False,True
+2026-09-26,Dallas/Fort Worth,MAA,100.313,False,False
+2026-10-03,Dallas/Fort Worth,MAA,100.542,False,True
+2026-10-10,Dallas/Fort Worth,MAA,100.771,False,False
+2026-10-17,Dallas/Fort Worth,MAA,101.785,False,False
+2026-10-24,Dallas/Fort Worth,MAA,101.6,False,False
+2026-10-31,Dallas/Fort Worth,MAA,100.721,False,False
+2026-11-07,Dallas/Fort Worth,MAA,100.388,False,False
+2026-11-14,Dallas/Fort Worth,MAA,99.653,False,False
+2026-11-21,Dallas/Fort Worth,MAA,99.116,False,False
+2026-11-28,Dallas/Fort Worth,MAA,98.678,False,False
 2026-08-08,Dallas/Fort Worth,CPT,100.0,True,False
-2026-08-15,Dallas/Fort Worth,CPT,99.891,True,False
-2026-08-22,Dallas/Fort Worth,CPT,99.105,True,False
-2026-08-29,Dallas/Fort Worth,CPT,98.917,True,False
-2026-09-05,Dallas/Fort Worth,CPT,98.109,True,False
-2026-09-12,Dallas/Fort Worth,CPT,97.254,True,False
-2026-09-19,Dallas/Fort Worth,CPT,96.937,True,False
-2026-09-26,Dallas/Fort Worth,CPT,96.7,True,False
-2026-10-03,Dallas/Fort Worth,CPT,96.85,True,True
-2026-10-10,Dallas/Fort Worth,CPT,96.999,True,False
-2026-10-17,Dallas/Fort Worth,CPT,97.821,True,False
-2026-10-24,Dallas/Fort Worth,CPT,97.674,True,False
-2026-10-31,Dallas/Fort Worth,CPT,97.382,True,False
-2026-11-07,Dallas/Fort Worth,CPT,96.817,True,False
-2026-11-14,Dallas/Fort Worth,CPT,96.379,True,False
-2026-11-21,Dallas/Fort Worth,CPT,96.038,True,False
+2026-08-15,Dallas/Fort Worth,CPT,99.901,True,False
+2026-08-22,Dallas/Fort Worth,CPT,99.12,True,False
+2026-08-29,Dallas/Fort Worth,CPT,98.947,True,False
+2026-09-05,Dallas/Fort Worth,CPT,98.146,True,False
+2026-09-12,Dallas/Fort Worth,CPT,97.299,True,False
+2026-09-19,Dallas/Fort Worth,CPT,96.99,True,False
+2026-09-26,Dallas/Fort Worth,CPT,96.752,True,False
+2026-10-03,Dallas/Fort Worth,CPT,96.899,True,True
+2026-10-10,Dallas/Fort Worth,CPT,97.047,True,False
+2026-10-17,Dallas/Fort Worth,CPT,97.855,True,False
+2026-10-24,Dallas/Fort Worth,CPT,97.696,True,False
+2026-10-31,Dallas/Fort Worth,CPT,97.406,True,False
+2026-11-07,Dallas/Fort Worth,CPT,96.841,True,False
+2026-11-14,Dallas/Fort Worth,CPT,96.398,True,False
+2026-11-21,Dallas/Fort Worth,CPT,96.052,True,False
+2026-11-28,Dallas/Fort Worth,CPT,95.892,True,False
 2026-08-08,Dallas/Fort Worth,UDR,100.0,False,False
-2026-08-15,Dallas/Fort Worth,UDR,99.267,False,False
-2026-08-22,Dallas/Fort Worth,UDR,98.193,False,False
-2026-08-29,Dallas/Fort Worth,UDR,98.086,False,False
-2026-09-05,Dallas/Fort Worth,UDR,97.859,False,False
-2026-09-12,Dallas/Fort Worth,UDR,97.941,False,False
-2026-09-19,Dallas/Fort Worth,UDR,98.071,False,False
-2026-09-26,Dallas/Fort Worth,UDR,98.562,False,False
-2026-10-03,Dallas/Fort Worth,UDR,98.408,False,True
-2026-10-10,Dallas/Fort Worth,UDR,98.254,False,False
-2026-10-17,Dallas/Fort Worth,UDR,98.465,False,False
-2026-10-24,Dallas/Fort Worth,UDR,98.05,False,False
-2026-10-31,Dallas/Fort Worth,UDR,98.305,False,False
+2026-08-15,Dallas/Fort Worth,UDR,99.266,False,False
+2026-08-22,Dallas/Fort Worth,UDR,98.18,False,False
+2026-08-29,Dallas/Fort Worth,UDR,98.078,False,False
+2026-09-05,Dallas/Fort Worth,UDR,97.853,False,False
+2026-09-12,Dallas/Fort Worth,UDR,97.94,False,False
+2026-09-19,Dallas/Fort Worth,UDR,98.077,False,False
+2026-09-26,Dallas/Fort Worth,UDR,98.569,False,False
+2026-10-03,Dallas/Fort Worth,UDR,98.413,False,True
+2026-10-10,Dallas/Fort Worth,UDR,98.257,False,False
+2026-10-17,Dallas/Fort Worth,UDR,98.467,False,False
+2026-10-24,Dallas/Fort Worth,UDR,98.048,False,False
+2026-10-31,Dallas/Fort Worth,UDR,98.307,False,False
 2026-11-07,Dallas/Fort Worth,UDR,99.855,False,False
-2026-11-14,Dallas/Fort Worth,UDR,100.309,False,False
-2026-11-21,Dallas/Fort Worth,UDR,100.399,False,False
+2026-11-14,Dallas/Fort Worth,UDR,100.3,False,False
+2026-11-21,Dallas/Fort Worth,UDR,100.389,False,False
+2026-11-28,Dallas/Fort Worth,UDR,100.032,False,False
 2026-08-08,Dallas/Fort Worth,INVH,100.0,True,False
-2026-08-15,Dallas/Fort Worth,INVH,99.64,True,False
-2026-08-22,Dallas/Fort Worth,INVH,99.235,True,False
-2026-08-29,Dallas/Fort Worth,INVH,99.139,True,False
-2026-09-05,Dallas/Fort Worth,INVH,98.852,True,False
-2026-09-12,Dallas/Fort Worth,INVH,98.29,True,False
-2026-09-19,Dallas/Fort Worth,INVH,97.947,True,False
-2026-09-26,Dallas/Fort Worth,INVH,97.676,True,False
-2026-10-03,Dallas/Fort Worth,INVH,97.853,True,True
-2026-10-10,Dallas/Fort Worth,INVH,98.03,True,False
-2026-10-17,Dallas/Fort Worth,INVH,98.256,True,False
-2026-10-24,Dallas/Fort Worth,INVH,98.804,True,False
-2026-10-31,Dallas/Fort Worth,INVH,98.661,True,False
-2026-11-07,Dallas/Fort Worth,INVH,98.241,True,False
-2026-11-14,Dallas/Fort Worth,INVH,97.826,True,False
-2026-11-21,Dallas/Fort Worth,INVH,96.812,True,False
+2026-08-15,Dallas/Fort Worth,INVH,99.624,True,False
+2026-08-22,Dallas/Fort Worth,INVH,99.347,True,False
+2026-08-29,Dallas/Fort Worth,INVH,99.202,True,False
+2026-09-05,Dallas/Fort Worth,INVH,98.935,True,False
+2026-09-12,Dallas/Fort Worth,INVH,98.418,True,False
+2026-09-19,Dallas/Fort Worth,INVH,97.983,True,False
+2026-09-26,Dallas/Fort Worth,INVH,97.709,True,False
+2026-10-03,Dallas/Fort Worth,INVH,97.877,True,True
+2026-10-10,Dallas/Fort Worth,INVH,98.045,True,False
+2026-10-17,Dallas/Fort Worth,INVH,98.175,True,False
+2026-10-24,Dallas/Fort Worth,INVH,98.682,True,False
+2026-10-31,Dallas/Fort Worth,INVH,98.498,True,False
+2026-11-07,Dallas/Fort Worth,INVH,98.053,True,False
+2026-11-14,Dallas/Fort Worth,INVH,97.657,True,False
+2026-11-21,Dallas/Fort Worth,INVH,96.675,True,False
+2026-11-28,Dallas/Fort Worth,INVH,96.442,True,False
 2026-08-08,Dallas/Fort Worth,VMRK,100.0,False,False
-2026-08-15,Dallas/Fort Worth,VMRK,99.757,False,False
-2026-08-22,Dallas/Fort Worth,VMRK,99.941,False,False
-2026-08-29,Dallas/Fort Worth,VMRK,99.41,False,False
-2026-09-05,Dallas/Fort Worth,VMRK,99.083,False,False
-2026-09-12,Dallas/Fort Worth,VMRK,99.129,False,True
-2026-09-19,Dallas/Fort Worth,VMRK,99.174,False,False
-2026-09-26,Dallas/Fort Worth,VMRK,99.274,False,False
-2026-10-03,Dallas/Fort Worth,VMRK,99.258,False,True
-2026-10-10,Dallas/Fort Worth,VMRK,99.242,False,False
-2026-10-17,Dallas/Fort Worth,VMRK,98.872,False,False
-2026-10-24,Dallas/Fort Worth,VMRK,98.612,False,False
+2026-08-15,Dallas/Fort Worth,VMRK,99.754,False,False
+2026-08-22,Dallas/Fort Worth,VMRK,99.95,False,False
+2026-08-29,Dallas/Fort Worth,VMRK,99.417,False,False
+2026-09-05,Dallas/Fort Worth,VMRK,99.094,False,False
+2026-09-12,Dallas/Fort Worth,VMRK,99.139,False,True
+2026-09-19,Dallas/Fort Worth,VMRK,99.185,False,False
+2026-09-26,Dallas/Fort Worth,VMRK,99.268,False,False
+2026-10-03,Dallas/Fort Worth,VMRK,99.257,False,True
+2026-10-10,Dallas/Fort Worth,VMRK,99.245,False,False
+2026-10-17,Dallas/Fort Worth,VMRK,98.881,False,False
+2026-10-24,Dallas/Fort Worth,VMRK,98.62,False,False
 2026-10-31,Dallas/Fort Worth,VMRK,98.532,False,False
-2026-11-07,Dallas/Fort Worth,VMRK,99.273,False,False
-2026-11-14,Dallas/Fort Worth,VMRK,98.839,False,False
-2026-11-21,Dallas/Fort Worth,VMRK,98.354,False,False
+2026-11-07,Dallas/Fort Worth,VMRK,99.263,False,False
+2026-11-14,Dallas/Fort Worth,VMRK,98.831,False,False
+2026-11-21,Dallas/Fort Worth,VMRK,98.331,False,False
+2026-11-28,Dallas/Fort Worth,VMRK,98.382,False,False
 2026-08-08,"Washington, DC",MAA,100.0,True,False
-2026-08-15,"Washington, DC",MAA,100.676,True,False
-2026-08-22,"Washington, DC",MAA,100.371,True,False
-2026-08-29,"Washington, DC",MAA,100.272,True,False
-2026-09-05,"Washington, DC",MAA,100.088,True,False
-2026-09-12,"Washington, DC",MAA,99.118,True,False
-2026-09-19,"Washington, DC",MAA,100.191,True,True
-2026-09-26,"Washington, DC",MAA,101.265,True,False
-2026-10-03,"Washington, DC",MAA,102.264,True,True
-2026-10-10,"Washington, DC",MAA,103.264,True,False
-2026-10-17,"Washington, DC",MAA,103.976,True,False
-2026-10-24,"Washington, DC",MAA,101.853,True,False
-2026-10-31,"Washington, DC",MAA,99.73,True,False
-2026-11-07,"Washington, DC",MAA,99.73,True,False
-2026-11-14,"Washington, DC",MAA,99.73,True,False
+2026-08-15,"Washington, DC",MAA,100.664,True,False
+2026-08-22,"Washington, DC",MAA,100.347,True,False
+2026-08-29,"Washington, DC",MAA,100.25,True,False
+2026-09-05,"Washington, DC",MAA,100.062,True,False
+2026-09-12,"Washington, DC",MAA,99.098,True,False
+2026-09-19,"Washington, DC",MAA,100.167,True,True
+2026-09-26,"Washington, DC",MAA,101.236,True,False
+2026-10-03,"Washington, DC",MAA,102.24,True,True
+2026-10-10,"Washington, DC",MAA,103.245,True,False
+2026-10-17,"Washington, DC",MAA,103.977,True,False
+2026-10-24,"Washington, DC",MAA,101.857,True,False
+2026-10-31,"Washington, DC",MAA,99.738,True,False
+2026-11-07,"Washington, DC",MAA,99.738,True,False
+2026-11-14,"Washington, DC",MAA,99.738,True,False
 2026-08-08,"Washington, DC",UDR,100.0,False,False
-2026-08-15,"Washington, DC",UDR,99.534,False,False
-2026-08-22,"Washington, DC",UDR,98.812,False,False
-2026-08-29,"Washington, DC",UDR,98.833,False,False
-2026-09-05,"Washington, DC",UDR,98.588,False,False
-2026-09-12,"Washington, DC",UDR,98.699,False,False
-2026-09-19,"Washington, DC",UDR,99.151,False,False
-2026-09-26,"Washington, DC",UDR,98.994,False,False
-2026-10-03,"Washington, DC",UDR,98.824,False,True
-2026-10-10,"Washington, DC",UDR,98.655,False,False
-2026-10-17,"Washington, DC",UDR,98.471,False,False
-2026-10-24,"Washington, DC",UDR,99.909,False,False
-2026-10-31,"Washington, DC",UDR,101.043,False,False
-2026-11-07,"Washington, DC",UDR,101.883,False,False
-2026-11-14,"Washington, DC",UDR,102.509,False,False
-2026-11-21,"Washington, DC",UDR,101.922,False,False
+2026-08-15,"Washington, DC",UDR,99.526,False,False
+2026-08-22,"Washington, DC",UDR,98.815,False,False
+2026-08-29,"Washington, DC",UDR,98.841,False,False
+2026-09-05,"Washington, DC",UDR,98.595,False,False
+2026-09-12,"Washington, DC",UDR,98.711,False,False
+2026-09-19,"Washington, DC",UDR,99.157,False,False
+2026-09-26,"Washington, DC",UDR,98.985,False,False
+2026-10-03,"Washington, DC",UDR,98.822,False,True
+2026-10-10,"Washington, DC",UDR,98.658,False,False
+2026-10-17,"Washington, DC",UDR,98.484,False,False
+2026-10-24,"Washington, DC",UDR,99.915,False,False
+2026-10-31,"Washington, DC",UDR,101.033,False,False
+2026-11-07,"Washington, DC",UDR,101.876,False,False
+2026-11-14,"Washington, DC",UDR,102.504,False,False
+2026-11-21,"Washington, DC",UDR,101.956,False,False
+2026-11-28,"Washington, DC",UDR,101.919,False,False
 2026-08-08,"Washington, DC",VMRK,100.0,False,False
-2026-08-15,"Washington, DC",VMRK,100.136,False,False
-2026-08-22,"Washington, DC",VMRK,100.017,False,False
-2026-08-29,"Washington, DC",VMRK,99.75,False,False
-2026-09-05,"Washington, DC",VMRK,99.242,False,False
-2026-09-12,"Washington, DC",VMRK,98.941,False,True
-2026-09-19,"Washington, DC",VMRK,98.64,False,False
-2026-09-26,"Washington, DC",VMRK,97.788,False,False
-2026-10-03,"Washington, DC",VMRK,97.47,False,True
-2026-10-10,"Washington, DC",VMRK,97.152,False,False
-2026-10-17,"Washington, DC",VMRK,96.707,False,False
-2026-10-24,"Washington, DC",VMRK,96.511,False,False
-2026-10-31,"Washington, DC",VMRK,96.495,False,False
-2026-11-07,"Washington, DC",VMRK,96.39,False,False
-2026-11-14,"Washington, DC",VMRK,96.498,False,False
-2026-11-21,"Washington, DC",VMRK,96.513,False,False
+2026-08-15,"Washington, DC",VMRK,100.139,False,False
+2026-08-22,"Washington, DC",VMRK,100.008,False,False
+2026-08-29,"Washington, DC",VMRK,99.738,False,False
+2026-09-05,"Washington, DC",VMRK,99.233,False,False
+2026-09-12,"Washington, DC",VMRK,98.931,False,True
+2026-09-19,"Washington, DC",VMRK,98.629,False,False
+2026-09-26,"Washington, DC",VMRK,97.782,False,False
+2026-10-03,"Washington, DC",VMRK,97.465,False,True
+2026-10-10,"Washington, DC",VMRK,97.148,False,False
+2026-10-17,"Washington, DC",VMRK,96.697,False,False
+2026-10-24,"Washington, DC",VMRK,96.493,False,False
+2026-10-31,"Washington, DC",VMRK,96.456,False,False
+2026-11-07,"Washington, DC",VMRK,96.358,False,False
+2026-11-14,"Washington, DC",VMRK,96.468,False,False
+2026-11-21,"Washington, DC",VMRK,96.495,False,False
+2026-11-28,"Washington, DC",VMRK,96.624,False,False
 2026-08-08,Tampa,MAA,100.0,True,False
-2026-08-15,Tampa,MAA,100.086,True,False
-2026-08-22,Tampa,MAA,100.43,True,False
-2026-08-29,Tampa,MAA,100.823,True,False
-2026-09-05,Tampa,MAA,101.078,True,False
-2026-09-12,Tampa,MAA,101.048,True,False
-2026-09-19,Tampa,MAA,101.252,True,True
-2026-09-26,Tampa,MAA,101.455,True,False
-2026-10-03,Tampa,MAA,101.212,True,True
-2026-10-10,Tampa,MAA,100.97,True,False
-2026-10-17,Tampa,MAA,99.699,True,False
-2026-10-24,Tampa,MAA,98.995,True,False
-2026-10-31,Tampa,MAA,98.22,True,False
-2026-11-07,Tampa,MAA,98.523,True,False
-2026-11-14,Tampa,MAA,98.742,True,False
-2026-11-21,Tampa,MAA,98.62,True,False
+2026-08-15,Tampa,MAA,100.066,True,False
+2026-08-22,Tampa,MAA,100.383,True,False
+2026-08-29,Tampa,MAA,100.781,True,False
+2026-09-05,Tampa,MAA,101.013,True,False
+2026-09-12,Tampa,MAA,100.983,True,False
+2026-09-19,Tampa,MAA,101.184,True,True
+2026-09-26,Tampa,MAA,101.385,True,False
+2026-10-03,Tampa,MAA,101.129,True,True
+2026-10-10,Tampa,MAA,100.873,True,False
+2026-10-17,Tampa,MAA,99.569,True,False
+2026-10-24,Tampa,MAA,98.891,True,False
+2026-10-31,Tampa,MAA,98.118,True,False
+2026-11-07,Tampa,MAA,98.437,True,False
+2026-11-14,Tampa,MAA,98.689,True,False
+2026-11-21,Tampa,MAA,98.596,True,False
+2026-11-28,Tampa,MAA,96.927,True,False
 2026-08-08,Tampa,CPT,100.0,True,False
 2026-08-15,Tampa,CPT,99.522,True,False
-2026-08-22,Tampa,CPT,100.062,True,False
-2026-08-29,Tampa,CPT,100.156,True,False
-2026-09-05,Tampa,CPT,99.444,True,False
-2026-09-12,Tampa,CPT,98.184,True,False
-2026-09-19,Tampa,CPT,97.322,True,False
-2026-09-26,Tampa,CPT,96.604,True,False
-2026-10-03,Tampa,CPT,96.797,True,True
-2026-10-10,Tampa,CPT,96.99,True,False
-2026-10-17,Tampa,CPT,98.216,True,False
-2026-10-24,Tampa,CPT,98.273,True,False
-2026-10-31,Tampa,CPT,98.398,True,False
-2026-11-07,Tampa,CPT,98.398,True,False
-2026-11-14,Tampa,CPT,98.398,True,False
+2026-08-22,Tampa,CPT,100.068,True,False
+2026-08-29,Tampa,CPT,100.154,True,False
+2026-09-05,Tampa,CPT,99.431,True,False
+2026-09-12,Tampa,CPT,98.189,True,False
+2026-09-19,Tampa,CPT,97.333,True,False
+2026-09-26,Tampa,CPT,96.621,True,False
+2026-10-03,Tampa,CPT,96.821,True,True
+2026-10-10,Tampa,CPT,97.022,True,False
+2026-10-17,Tampa,CPT,98.251,True,False
+2026-10-24,Tampa,CPT,98.309,True,False
+2026-10-31,Tampa,CPT,98.393,True,False
+2026-11-07,Tampa,CPT,98.393,True,False
+2026-11-14,Tampa,CPT,98.393,True,False
 2026-08-08,Tampa,UDR,100.0,True,False
-2026-08-15,Tampa,UDR,100.336,True,False
-2026-08-22,Tampa,UDR,99.777,True,False
-2026-08-29,Tampa,UDR,99.74,True,False
-2026-09-05,Tampa,UDR,99.74,True,False
-2026-09-12,Tampa,UDR,99.274,True,False
-2026-09-19,Tampa,UDR,98.392,True,False
-2026-09-26,Tampa,UDR,97.12,True,False
-2026-10-03,Tampa,UDR,97.12,True,True
-2026-10-10,Tampa,UDR,97.12,True,False
+2026-08-15,Tampa,UDR,100.331,True,False
+2026-08-22,Tampa,UDR,99.748,True,False
+2026-08-29,Tampa,UDR,99.713,True,False
+2026-09-05,Tampa,UDR,99.713,True,False
+2026-09-12,Tampa,UDR,99.24,True,False
+2026-09-19,Tampa,UDR,98.361,True,False
+2026-09-26,Tampa,UDR,97.075,True,False
+2026-10-03,Tampa,UDR,97.075,True,True
+2026-10-10,Tampa,UDR,97.075,True,False
 2026-08-08,Tampa,INVH,100.0,False,False
-2026-08-15,Tampa,INVH,100.047,False,False
-2026-08-22,Tampa,INVH,99.933,False,False
-2026-08-29,Tampa,INVH,99.844,False,False
-2026-09-05,Tampa,INVH,99.85,False,False
-2026-09-12,Tampa,INVH,100.182,False,False
-2026-09-19,Tampa,INVH,100.09,False,False
-2026-09-26,Tampa,INVH,100.313,False,False
-2026-10-03,Tampa,INVH,100.206,False,True
-2026-10-10,Tampa,INVH,100.098,False,False
-2026-10-17,Tampa,INVH,99.712,False,False
-2026-10-24,Tampa,INVH,99.358,False,False
-2026-10-31,Tampa,INVH,98.055,False,False
-2026-11-07,Tampa,INVH,98.058,False,False
-2026-11-14,Tampa,INVH,97.369,False,False
-2026-11-21,Tampa,INVH,96.796,False,False
+2026-08-15,Tampa,INVH,100.026,False,False
+2026-08-22,Tampa,INVH,99.897,False,False
+2026-08-29,Tampa,INVH,99.777,False,False
+2026-09-05,Tampa,INVH,99.758,False,False
+2026-09-12,Tampa,INVH,100.104,False,False
+2026-09-19,Tampa,INVH,100.008,False,False
+2026-09-26,Tampa,INVH,100.259,False,False
+2026-10-03,Tampa,INVH,100.161,False,True
+2026-10-10,Tampa,INVH,100.064,False,False
+2026-10-17,Tampa,INVH,99.708,False,False
+2026-10-24,Tampa,INVH,99.366,False,False
+2026-10-31,Tampa,INVH,98.06,False,False
+2026-11-07,Tampa,INVH,98.052,False,False
+2026-11-14,Tampa,INVH,97.373,False,False
+2026-11-21,Tampa,INVH,96.829,False,False
+2026-11-28,Tampa,INVH,97.109,False,False
 2026-08-08,Orlando,MAA,100.0,True,False
-2026-08-15,Orlando,MAA,99.898,True,False
-2026-08-22,Orlando,MAA,100.182,True,False
-2026-08-29,Orlando,MAA,99.943,True,False
-2026-09-05,Orlando,MAA,100.121,True,False
-2026-09-12,Orlando,MAA,99.628,True,False
-2026-09-19,Orlando,MAA,98.903,True,True
-2026-09-26,Orlando,MAA,98.177,True,False
-2026-10-03,Orlando,MAA,97.75,True,True
-2026-10-10,Orlando,MAA,97.323,True,False
-2026-10-17,Orlando,MAA,96.95,True,False
-2026-10-24,Orlando,MAA,97.223,True,False
-2026-10-31,Orlando,MAA,97.5,True,False
-2026-11-07,Orlando,MAA,97.745,True,False
-2026-11-14,Orlando,MAA,98.137,True,False
-2026-11-21,Orlando,MAA,97.859,True,False
+2026-08-15,Orlando,MAA,99.905,True,False
+2026-08-22,Orlando,MAA,100.204,True,False
+2026-08-29,Orlando,MAA,99.962,True,False
+2026-09-05,Orlando,MAA,100.138,True,False
+2026-09-12,Orlando,MAA,99.625,True,False
+2026-09-19,Orlando,MAA,98.89,True,True
+2026-09-26,Orlando,MAA,98.155,True,False
+2026-10-03,Orlando,MAA,97.716,True,True
+2026-10-10,Orlando,MAA,97.278,True,False
+2026-10-17,Orlando,MAA,96.941,True,False
+2026-10-24,Orlando,MAA,97.198,True,False
+2026-10-31,Orlando,MAA,97.493,True,False
+2026-11-07,Orlando,MAA,97.733,True,False
+2026-11-14,Orlando,MAA,98.117,True,False
+2026-11-21,Orlando,MAA,97.875,True,False
+2026-11-28,Orlando,MAA,97.367,True,False
 2026-08-08,Orlando,CPT,100.0,True,False
-2026-08-15,Orlando,CPT,100.361,True,False
-2026-08-22,Orlando,CPT,100.114,True,False
-2026-08-29,Orlando,CPT,99.801,True,False
-2026-09-05,Orlando,CPT,99.738,True,False
-2026-09-12,Orlando,CPT,98.141,True,False
-2026-09-19,Orlando,CPT,97.139,True,False
-2026-09-26,Orlando,CPT,97.154,True,False
-2026-10-03,Orlando,CPT,97.502,True,True
-2026-10-10,Orlando,CPT,97.849,True,False
-2026-10-17,Orlando,CPT,99.419,True,False
-2026-10-24,Orlando,CPT,99.608,True,False
-2026-10-31,Orlando,CPT,99.286,True,False
-2026-11-07,Orlando,CPT,98.967,True,False
-2026-11-14,Orlando,CPT,99.015,True,False
-2026-11-21,Orlando,CPT,98.886,True,False
+2026-08-15,Orlando,CPT,100.372,True,False
+2026-08-22,Orlando,CPT,100.137,True,False
+2026-08-29,Orlando,CPT,99.822,True,False
+2026-09-05,Orlando,CPT,99.765,True,False
+2026-09-12,Orlando,CPT,98.173,True,False
+2026-09-19,Orlando,CPT,97.179,True,False
+2026-09-26,Orlando,CPT,97.208,True,False
+2026-10-03,Orlando,CPT,97.557,True,True
+2026-10-10,Orlando,CPT,97.906,True,False
+2026-10-17,Orlando,CPT,99.485,True,False
+2026-10-24,Orlando,CPT,99.657,True,False
+2026-10-31,Orlando,CPT,99.312,True,False
+2026-11-07,Orlando,CPT,98.981,True,False
+2026-11-14,Orlando,CPT,99.023,True,False
+2026-11-21,Orlando,CPT,98.885,True,False
+2026-11-28,Orlando,CPT,98.885,True,False
 2026-08-08,Orlando,UDR,100.0,True,False
-2026-08-15,Orlando,UDR,98.002,True,False
-2026-08-22,Orlando,UDR,96.891,True,False
-2026-08-29,Orlando,UDR,96.773,True,False
-2026-09-05,Orlando,UDR,96.773,True,False
+2026-08-15,Orlando,UDR,97.996,True,False
+2026-08-22,Orlando,UDR,96.895,True,False
+2026-08-29,Orlando,UDR,96.771,True,False
+2026-09-05,Orlando,UDR,96.771,True,False
 2026-09-12,Orlando,UDR,97.159,True,False
-2026-09-19,Orlando,UDR,96.54,True,False
-2026-09-26,Orlando,UDR,95.798,True,False
-2026-10-03,Orlando,UDR,96.08,True,True
-2026-10-10,Orlando,UDR,96.363,True,False
-2026-10-17,Orlando,UDR,96.363,True,False
-2026-10-24,Orlando,UDR,96.968,True,False
-2026-10-31,Orlando,UDR,97.006,True,False
-2026-11-07,Orlando,UDR,97.006,True,False
-2026-11-14,Orlando,UDR,97.006,True,False
+2026-09-19,Orlando,UDR,96.521,True,False
+2026-09-26,Orlando,UDR,95.787,True,False
+2026-10-03,Orlando,UDR,96.064,True,True
+2026-10-10,Orlando,UDR,96.342,True,False
+2026-10-17,Orlando,UDR,96.342,True,False
+2026-10-24,Orlando,UDR,96.946,True,False
+2026-10-31,Orlando,UDR,96.995,True,False
+2026-11-07,Orlando,UDR,96.995,True,False
+2026-11-14,Orlando,UDR,96.995,True,False
 2026-08-08,Orlando,INVH,100.0,True,False
-2026-08-15,Orlando,INVH,100.158,True,False
-2026-08-22,Orlando,INVH,100.578,True,False
-2026-08-29,Orlando,INVH,100.578,True,False
-2026-09-05,Orlando,INVH,100.868,True,False
-2026-09-12,Orlando,INVH,101.712,True,False
-2026-09-19,Orlando,INVH,102.005,True,False
-2026-09-26,Orlando,INVH,101.528,True,False
-2026-10-03,Orlando,INVH,101.215,True,True
-2026-10-10,Orlando,INVH,100.901,True,False
-2026-10-17,Orlando,INVH,100.349,True,False
-2026-10-24,Orlando,INVH,99.246,True,False
-2026-10-31,Orlando,INVH,98.844,True,False
-2026-11-07,Orlando,INVH,98.682,True,False
-2026-11-14,Orlando,INVH,98.682,True,False
-2026-11-21,Orlando,INVH,98.498,True,False
+2026-08-15,Orlando,INVH,99.95,True,False
+2026-08-22,Orlando,INVH,100.518,True,False
+2026-08-29,Orlando,INVH,100.518,True,False
+2026-09-05,Orlando,INVH,100.776,True,False
+2026-09-12,Orlando,INVH,101.739,True,False
+2026-09-19,Orlando,INVH,101.827,True,False
+2026-09-26,Orlando,INVH,101.423,True,False
+2026-10-03,Orlando,INVH,101.124,True,True
+2026-10-10,Orlando,INVH,100.825,True,False
+2026-10-17,Orlando,INVH,100.324,True,False
+2026-10-24,Orlando,INVH,99.175,True,False
+2026-10-31,Orlando,INVH,98.72,True,False
+2026-11-07,Orlando,INVH,98.574,True,False
+2026-11-14,Orlando,INVH,98.574,True,False
+2026-11-21,Orlando,INVH,98.484,True,False
+2026-11-28,Orlando,INVH,98.484,True,False
 2026-08-08,Charlotte,MAA,100.0,False,False
-2026-08-15,Charlotte,MAA,99.729,False,False
-2026-08-22,Charlotte,MAA,99.186,False,False
-2026-08-29,Charlotte,MAA,98.618,False,False
-2026-09-05,Charlotte,MAA,97.028,False,False
-2026-09-12,Charlotte,MAA,95.918,False,False
-2026-09-19,Charlotte,MAA,95.632,False,True
-2026-09-26,Charlotte,MAA,95.345,False,False
-2026-10-03,Charlotte,MAA,95.709,False,True
-2026-10-10,Charlotte,MAA,96.073,False,False
-2026-10-17,Charlotte,MAA,97.068,False,False
-2026-10-24,Charlotte,MAA,97.635,False,False
-2026-10-31,Charlotte,MAA,98.008,False,False
-2026-11-07,Charlotte,MAA,96.698,False,False
-2026-11-14,Charlotte,MAA,95.846,False,False
-2026-11-21,Charlotte,MAA,93.883,False,False
+2026-08-15,Charlotte,MAA,99.718,False,False
+2026-08-22,Charlotte,MAA,99.149,False,False
+2026-08-29,Charlotte,MAA,98.585,False,False
+2026-09-05,Charlotte,MAA,97.0,False,False
+2026-09-12,Charlotte,MAA,95.896,False,False
+2026-09-19,Charlotte,MAA,95.627,False,True
+2026-09-26,Charlotte,MAA,95.358,False,False
+2026-10-03,Charlotte,MAA,95.744,False,True
+2026-10-10,Charlotte,MAA,96.13,False,False
+2026-10-17,Charlotte,MAA,97.137,False,False
+2026-10-24,Charlotte,MAA,97.705,False,False
+2026-10-31,Charlotte,MAA,98.062,False,False
+2026-11-07,Charlotte,MAA,96.768,False,False
+2026-11-14,Charlotte,MAA,95.926,False,False
+2026-11-21,Charlotte,MAA,93.991,False,False
+2026-11-28,Charlotte,MAA,94.646,False,False
 2026-08-08,Charlotte,CPT,100.0,True,False
 2026-08-15,Charlotte,CPT,100.0,True,False
-2026-08-22,Charlotte,CPT,99.995,True,False
-2026-08-29,Charlotte,CPT,100.718,True,False
-2026-09-05,Charlotte,CPT,100.718,True,False
-2026-09-12,Charlotte,CPT,99.66,True,False
-2026-09-19,Charlotte,CPT,98.847,True,False
-2026-09-26,Charlotte,CPT,98.07,True,False
-2026-10-03,Charlotte,CPT,97.948,True,True
-2026-10-10,Charlotte,CPT,97.826,True,False
-2026-10-17,Charlotte,CPT,98.101,True,False
-2026-10-24,Charlotte,CPT,96.692,True,False
-2026-10-31,Charlotte,CPT,96.293,True,False
-2026-11-07,Charlotte,CPT,95.799,True,False
-2026-11-14,Charlotte,CPT,95.799,True,False
-2026-11-21,Charlotte,CPT,95.303,True,False
+2026-08-22,Charlotte,CPT,100.002,True,False
+2026-08-29,Charlotte,CPT,100.731,True,False
+2026-09-05,Charlotte,CPT,100.731,True,False
+2026-09-12,Charlotte,CPT,99.676,True,False
+2026-09-19,Charlotte,CPT,98.869,True,False
+2026-09-26,Charlotte,CPT,98.093,True,False
+2026-10-03,Charlotte,CPT,97.969,True,True
+2026-10-10,Charlotte,CPT,97.844,True,False
+2026-10-17,Charlotte,CPT,98.115,True,False
+2026-10-24,Charlotte,CPT,96.723,True,False
+2026-10-31,Charlotte,CPT,96.347,True,False
+2026-11-07,Charlotte,CPT,95.846,True,False
+2026-11-14,Charlotte,CPT,95.846,True,False
+2026-11-21,Charlotte,CPT,95.344,True,False
+2026-11-28,Charlotte,CPT,95.344,True,False
 2026-08-08,Charlotte,INVH,100.0,True,False
-2026-08-15,Charlotte,INVH,99.796,True,False
-2026-08-22,Charlotte,INVH,99.316,True,False
-2026-08-29,Charlotte,INVH,99.523,True,False
-2026-09-05,Charlotte,INVH,99.364,True,False
-2026-09-12,Charlotte,INVH,99.688,True,False
-2026-09-19,Charlotte,INVH,100.615,True,False
-2026-09-26,Charlotte,INVH,99.759,True,False
-2026-10-03,Charlotte,INVH,99.573,True,True
-2026-10-10,Charlotte,INVH,99.388,True,False
-2026-10-17,Charlotte,INVH,97.367,True,False
-2026-10-24,Charlotte,INVH,97.04,True,False
-2026-10-31,Charlotte,INVH,96.423,True,False
-2026-11-07,Charlotte,INVH,96.092,True,False
-2026-11-14,Charlotte,INVH,95.628,True,False
-2026-11-21,Charlotte,INVH,95.41,True,False
+2026-08-15,Charlotte,INVH,99.697,True,False
+2026-08-22,Charlotte,INVH,99.212,True,False
+2026-08-29,Charlotte,INVH,99.408,True,False
+2026-09-05,Charlotte,INVH,99.21,True,False
+2026-09-12,Charlotte,INVH,99.582,True,False
+2026-09-19,Charlotte,INVH,100.543,True,False
+2026-09-26,Charlotte,INVH,99.734,True,False
+2026-10-03,Charlotte,INVH,99.55,True,True
+2026-10-10,Charlotte,INVH,99.366,True,False
+2026-10-17,Charlotte,INVH,97.382,True,False
+2026-10-24,Charlotte,INVH,97.049,True,False
+2026-10-31,Charlotte,INVH,96.441,True,False
+2026-11-07,Charlotte,INVH,96.116,True,False
+2026-11-14,Charlotte,INVH,95.693,True,False
+2026-11-21,Charlotte,INVH,95.503,True,False
+2026-11-28,Charlotte,INVH,95.582,True,False
 2026-08-08,Charlotte,AMH,100.0,True,False
-2026-08-15,Charlotte,AMH,100.023,True,False
-2026-08-22,Charlotte,AMH,99.414,True,False
-2026-08-29,Charlotte,AMH,99.473,True,False
-2026-09-05,Charlotte,AMH,99.549,True,False
-2026-09-12,Charlotte,AMH,99.289,True,False
-2026-09-19,Charlotte,AMH,99.649,True,False
-2026-09-26,Charlotte,AMH,99.115,True,False
-2026-10-03,Charlotte,AMH,98.762,True,True
-2026-10-10,Charlotte,AMH,98.408,True,False
-2026-10-17,Charlotte,AMH,98.408,True,False
-2026-10-24,Charlotte,AMH,98.037,True,False
-2026-10-31,Charlotte,AMH,98.372,True,False
-2026-11-07,Charlotte,AMH,98.372,True,False
-2026-11-14,Charlotte,AMH,98.372,True,False
+2026-08-15,Charlotte,AMH,100.005,True,False
+2026-08-22,Charlotte,AMH,99.384,True,False
+2026-08-29,Charlotte,AMH,99.455,True,False
+2026-09-05,Charlotte,AMH,99.507,True,False
+2026-09-12,Charlotte,AMH,99.254,True,False
+2026-09-19,Charlotte,AMH,99.666,True,False
+2026-09-26,Charlotte,AMH,99.082,True,False
+2026-10-03,Charlotte,AMH,98.773,True,True
+2026-10-10,Charlotte,AMH,98.464,True,False
+2026-10-17,Charlotte,AMH,98.464,True,False
+2026-10-24,Charlotte,AMH,98.115,True,False
+2026-10-31,Charlotte,AMH,98.384,True,False
+2026-11-07,Charlotte,AMH,98.384,True,False
+2026-11-14,Charlotte,AMH,98.384,True,False
 2026-08-08,Phoenix,MAA,100.0,True,False
-2026-08-15,Phoenix,MAA,99.6,True,False
-2026-08-22,Phoenix,MAA,100.301,True,False
-2026-08-29,Phoenix,MAA,100.149,True,False
-2026-09-05,Phoenix,MAA,100.149,True,False
-2026-09-12,Phoenix,MAA,100.623,True,False
-2026-09-19,Phoenix,MAA,100.272,True,True
-2026-09-26,Phoenix,MAA,99.921,True,False
-2026-10-03,Phoenix,MAA,99.959,True,True
-2026-10-10,Phoenix,MAA,99.998,True,False
+2026-08-15,Phoenix,MAA,99.606,True,False
+2026-08-22,Phoenix,MAA,100.295,True,False
+2026-08-29,Phoenix,MAA,100.133,True,False
+2026-09-05,Phoenix,MAA,100.133,True,False
+2026-09-12,Phoenix,MAA,100.595,True,False
+2026-09-19,Phoenix,MAA,100.246,True,True
+2026-09-26,Phoenix,MAA,99.896,True,False
+2026-10-03,Phoenix,MAA,99.94,True,True
+2026-10-10,Phoenix,MAA,99.983,True,False
 2026-08-08,Phoenix,CPT,100.0,True,False
-2026-08-15,Phoenix,CPT,99.871,True,False
-2026-08-22,Phoenix,CPT,99.678,True,False
-2026-08-29,Phoenix,CPT,99.164,True,False
-2026-09-05,Phoenix,CPT,98.943,True,False
-2026-09-12,Phoenix,CPT,98.471,True,False
-2026-09-19,Phoenix,CPT,97.292,True,False
-2026-09-26,Phoenix,CPT,97.544,True,False
-2026-10-03,Phoenix,CPT,97.83,True,True
-2026-10-10,Phoenix,CPT,98.116,True,False
-2026-10-17,Phoenix,CPT,99.064,True,False
-2026-10-24,Phoenix,CPT,99.348,True,False
-2026-10-31,Phoenix,CPT,99.106,True,False
-2026-11-07,Phoenix,CPT,99.148,True,False
-2026-11-14,Phoenix,CPT,99.055,True,False
-2026-11-21,Phoenix,CPT,98.959,True,False
+2026-08-15,Phoenix,CPT,99.854,True,False
+2026-08-22,Phoenix,CPT,99.685,True,False
+2026-08-29,Phoenix,CPT,99.171,True,False
+2026-09-05,Phoenix,CPT,98.924,True,False
+2026-09-12,Phoenix,CPT,98.49,True,False
+2026-09-19,Phoenix,CPT,97.306,True,False
+2026-09-26,Phoenix,CPT,97.571,True,False
+2026-10-03,Phoenix,CPT,97.854,True,True
+2026-10-10,Phoenix,CPT,98.137,True,False
+2026-10-17,Phoenix,CPT,99.066,True,False
+2026-10-24,Phoenix,CPT,99.34,True,False
+2026-10-31,Phoenix,CPT,99.091,True,False
+2026-11-07,Phoenix,CPT,99.109,True,False
+2026-11-14,Phoenix,CPT,98.984,True,False
+2026-11-21,Phoenix,CPT,98.851,True,False
+2026-11-28,Phoenix,CPT,98.604,True,False
 2026-08-08,Phoenix,INVH,100.0,False,False
-2026-08-15,Phoenix,INVH,98.992,False,False
-2026-08-22,Phoenix,INVH,98.174,False,False
-2026-08-29,Phoenix,INVH,98.152,False,False
-2026-09-05,Phoenix,INVH,97.537,False,False
-2026-09-12,Phoenix,INVH,97.266,False,False
-2026-09-19,Phoenix,INVH,97.761,False,False
-2026-09-26,Phoenix,INVH,97.353,False,False
-2026-10-03,Phoenix,INVH,97.281,False,True
-2026-10-10,Phoenix,INVH,97.209,False,False
-2026-10-17,Phoenix,INVH,96.649,False,False
-2026-10-24,Phoenix,INVH,97.157,False,False
-2026-10-31,Phoenix,INVH,97.346,False,False
-2026-11-07,Phoenix,INVH,97.112,False,False
-2026-11-14,Phoenix,INVH,96.748,False,False
-2026-11-21,Phoenix,INVH,95.914,False,False
+2026-08-15,Phoenix,INVH,98.97,False,False
+2026-08-22,Phoenix,INVH,98.159,False,False
+2026-08-29,Phoenix,INVH,98.119,False,False
+2026-09-05,Phoenix,INVH,97.492,False,False
+2026-09-12,Phoenix,INVH,97.087,False,False
+2026-09-19,Phoenix,INVH,97.566,False,False
+2026-09-26,Phoenix,INVH,97.147,False,False
+2026-10-03,Phoenix,INVH,97.072,False,True
+2026-10-10,Phoenix,INVH,96.997,False,False
+2026-10-17,Phoenix,INVH,96.488,False,False
+2026-10-24,Phoenix,INVH,97.001,False,False
+2026-10-31,Phoenix,INVH,97.227,False,False
+2026-11-07,Phoenix,INVH,97.006,False,False
+2026-11-14,Phoenix,INVH,96.651,False,False
+2026-11-21,Phoenix,INVH,95.844,False,False
+2026-11-28,Phoenix,INVH,95.878,False,False
 2026-08-08,Boston,UDR,100.0,True,False
-2026-08-15,Boston,UDR,99.334,True,False
-2026-08-22,Boston,UDR,98.422,True,False
-2026-08-29,Boston,UDR,97.642,True,False
-2026-09-05,Boston,UDR,96.979,True,False
-2026-09-12,Boston,UDR,96.485,True,False
-2026-09-19,Boston,UDR,95.998,True,False
-2026-09-26,Boston,UDR,95.972,True,False
-2026-10-03,Boston,UDR,95.636,True,True
-2026-10-10,Boston,UDR,95.301,True,False
-2026-10-17,Boston,UDR,94.703,True,False
-2026-10-24,Boston,UDR,93.929,True,False
-2026-10-31,Boston,UDR,94.248,True,False
-2026-11-07,Boston,UDR,93.604,True,False
-2026-11-14,Boston,UDR,92.577,True,False
-2026-11-21,Boston,UDR,92.193,True,False
+2026-08-15,Boston,UDR,99.337,True,False
+2026-08-22,Boston,UDR,98.437,True,False
+2026-08-29,Boston,UDR,97.667,True,False
+2026-09-05,Boston,UDR,97.019,True,False
+2026-09-12,Boston,UDR,96.545,True,False
+2026-09-19,Boston,UDR,96.069,True,False
+2026-09-26,Boston,UDR,96.042,True,False
+2026-10-03,Boston,UDR,95.704,True,True
+2026-10-10,Boston,UDR,95.366,True,False
+2026-10-17,Boston,UDR,94.747,True,False
+2026-10-24,Boston,UDR,93.984,True,False
+2026-10-31,Boston,UDR,94.305,True,False
+2026-11-07,Boston,UDR,93.666,True,False
+2026-11-14,Boston,UDR,92.659,True,False
+2026-11-21,Boston,UDR,92.265,True,False
+2026-11-28,Boston,UDR,92.088,True,False
 2026-08-08,Boston,VMRK,100.0,False,False
-2026-08-15,Boston,VMRK,100.034,False,False
-2026-08-22,Boston,VMRK,99.93,False,False
-2026-08-29,Boston,VMRK,99.992,False,False
-2026-09-05,Boston,VMRK,100.162,False,False
-2026-09-12,Boston,VMRK,99.976,False,True
-2026-09-19,Boston,VMRK,99.79,False,False
-2026-09-26,Boston,VMRK,98.803,False,False
-2026-10-03,Boston,VMRK,98.026,False,True
-2026-10-10,Boston,VMRK,97.249,False,False
-2026-10-17,Boston,VMRK,95.914,False,False
-2026-10-24,Boston,VMRK,95.036,False,False
-2026-10-31,Boston,VMRK,94.58,False,False
-2026-11-07,Boston,VMRK,94.57,False,False
-2026-11-14,Boston,VMRK,94.808,False,False
-2026-11-21,Boston,VMRK,94.455,False,False
+2026-08-15,Boston,VMRK,100.017,False,False
+2026-08-22,Boston,VMRK,99.928,False,False
+2026-08-29,Boston,VMRK,99.985,False,False
+2026-09-05,Boston,VMRK,100.133,False,False
+2026-09-12,Boston,VMRK,99.946,False,True
+2026-09-19,Boston,VMRK,99.76,False,False
+2026-09-26,Boston,VMRK,98.744,False,False
+2026-10-03,Boston,VMRK,97.975,False,True
+2026-10-10,Boston,VMRK,97.206,False,False
+2026-10-17,Boston,VMRK,95.882,False,False
+2026-10-24,Boston,VMRK,95.01,False,False
+2026-10-31,Boston,VMRK,94.555,False,False
+2026-11-07,Boston,VMRK,94.553,False,False
+2026-11-14,Boston,VMRK,94.794,False,False
+2026-11-21,Boston,VMRK,94.485,False,False
+2026-11-28,Boston,VMRK,94.108,False,False
 2026-08-08,Houston,MAA,100.0,True,False
 2026-08-15,Houston,MAA,100.4,True,False
-2026-08-22,Houston,MAA,99.956,True,False
-2026-08-29,Houston,MAA,99.445,True,False
-2026-09-05,Houston,MAA,98.937,True,False
-2026-09-12,Houston,MAA,97.566,True,False
-2026-09-19,Houston,MAA,97.241,True,True
-2026-09-26,Houston,MAA,96.915,True,False
-2026-10-03,Houston,MAA,96.61,True,True
-2026-10-10,Houston,MAA,96.305,True,False
-2026-10-17,Houston,MAA,94.977,True,False
-2026-10-24,Houston,MAA,95.65,True,False
-2026-10-31,Houston,MAA,95.436,True,False
-2026-11-07,Houston,MAA,95.917,True,False
-2026-11-14,Houston,MAA,97.444,True,False
-2026-11-21,Houston,MAA,96.892,True,False
+2026-08-22,Houston,MAA,99.946,True,False
+2026-08-29,Houston,MAA,99.431,True,False
+2026-09-05,Houston,MAA,98.918,True,False
+2026-09-12,Houston,MAA,97.542,True,False
+2026-09-19,Houston,MAA,97.217,True,True
+2026-09-26,Houston,MAA,96.893,True,False
+2026-10-03,Houston,MAA,96.58,True,True
+2026-10-10,Houston,MAA,96.266,True,False
+2026-10-17,Houston,MAA,94.935,True,False
+2026-10-24,Houston,MAA,95.615,True,False
+2026-10-31,Houston,MAA,95.42,True,False
+2026-11-07,Houston,MAA,95.904,True,False
+2026-11-14,Houston,MAA,97.43,True,False
+2026-11-21,Houston,MAA,96.876,True,False
+2026-11-28,Houston,MAA,96.876,True,False
 2026-08-08,Houston,CPT,100.0,False,False
-2026-08-15,Houston,CPT,100.213,False,False
-2026-08-22,Houston,CPT,99.981,False,False
-2026-08-29,Houston,CPT,99.857,False,False
-2026-09-05,Houston,CPT,99.387,False,False
-2026-09-12,Houston,CPT,98.651,False,False
-2026-09-19,Houston,CPT,97.902,False,False
-2026-09-26,Houston,CPT,97.724,False,False
-2026-10-03,Houston,CPT,97.94,False,True
-2026-10-10,Houston,CPT,98.156,False,False
-2026-10-17,Houston,CPT,98.983,False,False
-2026-10-24,Houston,CPT,98.488,False,False
-2026-10-31,Houston,CPT,97.962,False,False
-2026-11-07,Houston,CPT,97.566,False,False
-2026-11-14,Houston,CPT,96.667,False,False
-2026-11-21,Houston,CPT,96.436,False,False
+2026-08-15,Houston,CPT,100.207,False,False
+2026-08-22,Houston,CPT,99.988,False,False
+2026-08-29,Houston,CPT,99.876,False,False
+2026-09-05,Houston,CPT,99.409,False,False
+2026-09-12,Houston,CPT,98.691,False,False
+2026-09-19,Houston,CPT,97.944,False,False
+2026-09-26,Houston,CPT,97.759,False,False
+2026-10-03,Houston,CPT,97.978,False,True
+2026-10-10,Houston,CPT,98.196,False,False
+2026-10-17,Houston,CPT,99.021,False,False
+2026-10-24,Houston,CPT,98.53,False,False
+2026-10-31,Houston,CPT,98.0,False,False
+2026-11-07,Houston,CPT,97.599,False,False
+2026-11-14,Houston,CPT,96.686,False,False
+2026-11-21,Houston,CPT,96.453,False,False
+2026-11-28,Houston,CPT,96.846,False,False
 2026-08-08,Orange County,UDR,100.0,True,False
-2026-08-15,Orange County,UDR,100.542,True,False
-2026-08-22,Orange County,UDR,100.851,True,False
-2026-08-29,Orange County,UDR,100.991,True,False
-2026-09-05,Orange County,UDR,101.119,True,False
-2026-09-12,Orange County,UDR,100.517,True,False
-2026-09-19,Orange County,UDR,100.637,True,False
-2026-09-26,Orange County,UDR,100.071,True,False
-2026-10-03,Orange County,UDR,100.34,True,True
-2026-10-10,Orange County,UDR,100.61,True,False
-2026-10-17,Orange County,UDR,100.971,True,False
-2026-10-24,Orange County,UDR,101.415,True,False
-2026-10-31,Orange County,UDR,100.6,True,False
-2026-11-07,Orange County,UDR,99.935,True,False
-2026-11-14,Orange County,UDR,99.908,True,False
-2026-11-21,Orange County,UDR,99.501,True,False
+2026-08-15,Orange County,UDR,100.541,True,False
+2026-08-22,Orange County,UDR,100.858,True,False
+2026-08-29,Orange County,UDR,100.998,True,False
+2026-09-05,Orange County,UDR,101.127,True,False
+2026-09-12,Orange County,UDR,100.529,True,False
+2026-09-19,Orange County,UDR,100.645,True,False
+2026-09-26,Orange County,UDR,100.078,True,False
+2026-10-03,Orange County,UDR,100.345,True,True
+2026-10-10,Orange County,UDR,100.612,True,False
+2026-10-17,Orange County,UDR,100.966,True,False
+2026-10-24,Orange County,UDR,101.403,True,False
+2026-10-31,Orange County,UDR,100.594,True,False
+2026-11-07,Orange County,UDR,99.928,True,False
+2026-11-14,Orange County,UDR,99.897,True,False
+2026-11-21,Orange County,UDR,99.486,True,False
+2026-11-28,Orange County,UDR,99.486,True,False
 2026-08-08,Orange County,VMRK,100.0,False,False
-2026-08-15,Orange County,VMRK,100.234,False,False
-2026-08-22,Orange County,VMRK,100.009,False,False
+2026-08-15,Orange County,VMRK,100.233,False,False
+2026-08-22,Orange County,VMRK,100.01,False,False
 2026-08-29,Orange County,VMRK,99.791,False,False
-2026-09-05,Orange County,VMRK,99.531,False,False
-2026-09-12,Orange County,VMRK,99.359,False,True
-2026-09-19,Orange County,VMRK,99.186,False,False
-2026-09-26,Orange County,VMRK,98.767,False,False
-2026-10-03,Orange County,VMRK,98.939,False,True
-2026-10-10,Orange County,VMRK,99.111,False,False
-2026-10-17,Orange County,VMRK,99.422,False,False
-2026-10-24,Orange County,VMRK,100.03,False,False
-2026-10-31,Orange County,VMRK,100.051,False,False
-2026-11-07,Orange County,VMRK,99.681,False,False
-2026-11-14,Orange County,VMRK,99.198,False,False
+2026-09-05,Orange County,VMRK,99.536,False,False
+2026-09-12,Orange County,VMRK,99.364,False,True
+2026-09-19,Orange County,VMRK,99.192,False,False
+2026-09-26,Orange County,VMRK,98.769,False,False
+2026-10-03,Orange County,VMRK,98.937,False,True
+2026-10-10,Orange County,VMRK,99.105,False,False
+2026-10-17,Orange County,VMRK,99.417,False,False
+2026-10-24,Orange County,VMRK,100.029,False,False
+2026-10-31,Orange County,VMRK,100.054,False,False
+2026-11-07,Orange County,VMRK,99.677,False,False
+2026-11-14,Orange County,VMRK,99.199,False,False
 2026-11-21,Orange County,VMRK,98.784,False,False
+2026-11-28,Orange County,VMRK,99.363,False,False
 2026-08-08,San Francisco-East Bay,UDR,100.0,True,False
-2026-08-15,San Francisco-East Bay,UDR,99.274,True,False
-2026-08-22,San Francisco-East Bay,UDR,98.311,True,False
-2026-08-29,San Francisco-East Bay,UDR,98.165,True,False
-2026-09-05,San Francisco-East Bay,UDR,97.689,True,False
-2026-09-12,San Francisco-East Bay,UDR,97.58,True,False
-2026-09-19,San Francisco-East Bay,UDR,98.841,True,False
-2026-09-26,San Francisco-East Bay,UDR,99.47,True,False
-2026-10-03,San Francisco-East Bay,UDR,99.695,True,True
-2026-10-10,San Francisco-East Bay,UDR,99.921,True,False
-2026-10-17,San Francisco-East Bay,UDR,100.443,True,False
-2026-10-24,San Francisco-East Bay,UDR,99.689,True,False
-2026-10-31,San Francisco-East Bay,UDR,98.104,True,False
-2026-11-07,San Francisco-East Bay,UDR,98.104,True,False
-2026-11-14,San Francisco-East Bay,UDR,98.104,True,False
-2026-11-21,San Francisco-East Bay,UDR,98.069,True,False
+2026-08-15,San Francisco-East Bay,UDR,99.291,True,False
+2026-08-22,San Francisco-East Bay,UDR,98.347,True,False
+2026-08-29,San Francisco-East Bay,UDR,98.211,True,False
+2026-09-05,San Francisco-East Bay,UDR,97.762,True,False
+2026-09-12,San Francisco-East Bay,UDR,97.648,True,False
+2026-09-19,San Francisco-East Bay,UDR,98.882,True,False
+2026-09-26,San Francisco-East Bay,UDR,99.493,True,False
+2026-10-03,San Francisco-East Bay,UDR,99.718,True,True
+2026-10-10,San Francisco-East Bay,UDR,99.943,True,False
+2026-10-17,San Francisco-East Bay,UDR,100.467,True,False
+2026-10-24,San Francisco-East Bay,UDR,99.704,True,False
+2026-10-31,San Francisco-East Bay,UDR,98.115,True,False
+2026-11-07,San Francisco-East Bay,UDR,98.115,True,False
+2026-11-14,San Francisco-East Bay,UDR,98.115,True,False
+2026-11-21,San Francisco-East Bay,UDR,98.203,True,False
+2026-11-28,San Francisco-East Bay,UDR,98.203,True,False
 2026-08-08,San Francisco-East Bay,VMRK,100.0,True,False
-2026-08-15,San Francisco-East Bay,VMRK,99.985,True,False
-2026-08-22,San Francisco-East Bay,VMRK,100.476,True,False
-2026-08-29,San Francisco-East Bay,VMRK,100.547,True,False
-2026-09-05,San Francisco-East Bay,VMRK,100.674,True,False
-2026-09-12,San Francisco-East Bay,VMRK,100.656,True,True
-2026-09-19,San Francisco-East Bay,VMRK,100.638,True,False
-2026-09-26,San Francisco-East Bay,VMRK,100.612,True,False
-2026-10-03,San Francisco-East Bay,VMRK,100.493,True,True
-2026-10-10,San Francisco-East Bay,VMRK,100.375,True,False
-2026-10-17,San Francisco-East Bay,VMRK,100.272,True,False
-2026-10-24,San Francisco-East Bay,VMRK,99.398,True,False
-2026-10-31,San Francisco-East Bay,VMRK,99.147,True,False
-2026-11-07,San Francisco-East Bay,VMRK,98.445,True,False
-2026-11-14,San Francisco-East Bay,VMRK,97.744,True,False
-2026-11-21,San Francisco-East Bay,VMRK,96.656,True,False
+2026-08-15,San Francisco-East Bay,VMRK,99.978,True,False
+2026-08-22,San Francisco-East Bay,VMRK,100.465,True,False
+2026-08-29,San Francisco-East Bay,VMRK,100.537,True,False
+2026-09-05,San Francisco-East Bay,VMRK,100.66,True,False
+2026-09-12,San Francisco-East Bay,VMRK,100.644,True,True
+2026-09-19,San Francisco-East Bay,VMRK,100.628,True,False
+2026-09-26,San Francisco-East Bay,VMRK,100.615,True,False
+2026-10-03,San Francisco-East Bay,VMRK,100.501,True,True
+2026-10-10,San Francisco-East Bay,VMRK,100.386,True,False
+2026-10-17,San Francisco-East Bay,VMRK,100.28,True,False
+2026-10-24,San Francisco-East Bay,VMRK,99.4,True,False
+2026-10-31,San Francisco-East Bay,VMRK,99.134,True,False
+2026-11-07,San Francisco-East Bay,VMRK,98.437,True,False
+2026-11-14,San Francisco-East Bay,VMRK,97.75,True,False
+2026-11-21,San Francisco-East Bay,VMRK,96.652,True,False
+2026-11-28,San Francisco-East Bay,VMRK,96.359,True,False
 2026-08-08,Los Angeles,ESS,100.0,True,False
-2026-08-15,Los Angeles,ESS,100.034,True,False
-2026-08-22,Los Angeles,ESS,100.793,True,False
-2026-08-29,Los Angeles,ESS,100.816,True,False
-2026-09-05,Los Angeles,ESS,100.849,True,False
-2026-09-12,Los Angeles,ESS,100.949,True,False
-2026-09-19,Los Angeles,ESS,100.823,True,False
-2026-09-26,Los Angeles,ESS,100.294,True,False
-2026-10-03,Los Angeles,ESS,100.264,True,True
-2026-10-10,Los Angeles,ESS,100.235,True,False
-2026-10-17,Los Angeles,ESS,99.679,True,False
-2026-10-24,Los Angeles,ESS,100.206,True,False
-2026-10-31,Los Angeles,ESS,100.352,True,False
-2026-11-07,Los Angeles,ESS,99.788,True,False
-2026-11-14,Los Angeles,ESS,99.788,True,False
-2026-11-21,Los Angeles,ESS,99.224,True,False
+2026-08-15,Los Angeles,ESS,100.047,True,False
+2026-08-22,Los Angeles,ESS,100.839,True,False
+2026-08-29,Los Angeles,ESS,100.936,True,False
+2026-09-05,Los Angeles,ESS,101.0,True,False
+2026-09-12,Los Angeles,ESS,101.133,True,False
+2026-09-19,Los Angeles,ESS,101.0,True,False
+2026-09-26,Los Angeles,ESS,100.325,True,False
+2026-10-03,Los Angeles,ESS,100.305,True,True
+2026-10-10,Los Angeles,ESS,100.285,True,False
+2026-10-17,Los Angeles,ESS,99.683,True,False
+2026-10-24,Los Angeles,ESS,100.269,True,False
+2026-10-31,Los Angeles,ESS,100.373,True,False
+2026-11-07,Los Angeles,ESS,99.853,True,False
+2026-11-14,Los Angeles,ESS,99.853,True,False
+2026-11-21,Los Angeles,ESS,99.334,True,False
+2026-11-28,Los Angeles,ESS,99.334,True,False
 2026-08-08,Los Angeles,VMRK,100.0,False,False
-2026-08-15,Los Angeles,VMRK,100.007,False,False
-2026-08-22,Los Angeles,VMRK,99.941,False,False
-2026-08-29,Los Angeles,VMRK,99.786,False,False
-2026-09-05,Los Angeles,VMRK,99.464,False,False
-2026-09-12,Los Angeles,VMRK,99.297,False,True
-2026-09-19,Los Angeles,VMRK,99.129,False,False
-2026-09-26,Los Angeles,VMRK,99.36,False,False
-2026-10-03,Los Angeles,VMRK,99.478,False,True
-2026-10-10,Los Angeles,VMRK,99.596,False,False
-2026-10-17,Los Angeles,VMRK,99.51,False,False
-2026-10-24,Los Angeles,VMRK,99.002,False,False
-2026-10-31,Los Angeles,VMRK,98.113,False,False
-2026-11-07,Los Angeles,VMRK,97.931,False,False
-2026-11-14,Los Angeles,VMRK,97.657,False,False
-2026-11-21,Los Angeles,VMRK,97.3,False,False
+2026-08-15,Los Angeles,VMRK,100.003,False,False
+2026-08-22,Los Angeles,VMRK,99.939,False,False
+2026-08-29,Los Angeles,VMRK,99.79,False,False
+2026-09-05,Los Angeles,VMRK,99.476,False,False
+2026-09-12,Los Angeles,VMRK,99.308,False,True
+2026-09-19,Los Angeles,VMRK,99.139,False,False
+2026-09-26,Los Angeles,VMRK,99.367,False,False
+2026-10-03,Los Angeles,VMRK,99.482,False,True
+2026-10-10,Los Angeles,VMRK,99.597,False,False
+2026-10-17,Los Angeles,VMRK,99.511,False,False
+2026-10-24,Los Angeles,VMRK,98.988,False,False
+2026-10-31,Los Angeles,VMRK,98.065,False,False
+2026-11-07,Los Angeles,VMRK,97.903,False,False
+2026-11-14,Los Angeles,VMRK,97.643,False,False
+2026-11-21,Los Angeles,VMRK,97.312,False,False
+2026-11-28,Los Angeles,VMRK,97.104,False,False
 2026-08-08,Seattle,ESS,100.0,True,False
-2026-08-15,Seattle,ESS,99.502,True,False
-2026-08-22,Seattle,ESS,98.482,True,False
-2026-08-29,Seattle,ESS,98.058,True,False
-2026-09-05,Seattle,ESS,97.856,True,False
-2026-09-12,Seattle,ESS,96.217,True,False
-2026-09-19,Seattle,ESS,95.518,True,False
-2026-09-26,Seattle,ESS,94.596,True,False
-2026-10-03,Seattle,ESS,94.508,True,True
-2026-10-10,Seattle,ESS,94.419,True,False
-2026-10-17,Seattle,ESS,94.166,True,False
-2026-10-24,Seattle,ESS,92.887,True,False
-2026-10-31,Seattle,ESS,91.885,True,False
-2026-11-07,Seattle,ESS,91.885,True,False
-2026-11-14,Seattle,ESS,91.885,True,False
+2026-08-15,Seattle,ESS,99.546,True,False
+2026-08-22,Seattle,ESS,98.48,True,False
+2026-08-29,Seattle,ESS,98.131,True,False
+2026-09-05,Seattle,ESS,98.034,True,False
+2026-09-12,Seattle,ESS,96.384,True,False
+2026-09-19,Seattle,ESS,95.69,True,False
+2026-09-26,Seattle,ESS,94.756,True,False
+2026-10-03,Seattle,ESS,94.666,True,True
+2026-10-10,Seattle,ESS,94.576,True,False
+2026-10-17,Seattle,ESS,94.335,True,False
+2026-10-24,Seattle,ESS,93.067,True,False
+2026-10-31,Seattle,ESS,92.097,True,False
+2026-11-07,Seattle,ESS,92.097,True,False
+2026-11-14,Seattle,ESS,92.097,True,False
 2026-08-08,Seattle,VMRK,100.0,False,False
-2026-08-15,Seattle,VMRK,99.295,False,False
-2026-08-22,Seattle,VMRK,98.335,False,False
-2026-08-29,Seattle,VMRK,98.092,False,False
-2026-09-05,Seattle,VMRK,97.553,False,False
-2026-09-12,Seattle,VMRK,97.376,False,True
-2026-09-19,Seattle,VMRK,97.2,False,False
-2026-09-26,Seattle,VMRK,97.127,False,False
-2026-10-03,Seattle,VMRK,96.855,False,True
-2026-10-10,Seattle,VMRK,96.584,False,False
-2026-10-17,Seattle,VMRK,96.934,False,False
-2026-10-24,Seattle,VMRK,95.932,False,False
-2026-10-31,Seattle,VMRK,95.734,False,False
-2026-11-07,Seattle,VMRK,94.86,False,False
-2026-11-14,Seattle,VMRK,92.878,False,False
-2026-11-21,Seattle,VMRK,91.805,False,False
+2026-08-15,Seattle,VMRK,99.297,False,False
+2026-08-22,Seattle,VMRK,98.345,False,False
+2026-08-29,Seattle,VMRK,98.11,False,False
+2026-09-05,Seattle,VMRK,97.584,False,False
+2026-09-12,Seattle,VMRK,97.398,False,True
+2026-09-19,Seattle,VMRK,97.212,False,False
+2026-09-26,Seattle,VMRK,97.125,False,False
+2026-10-03,Seattle,VMRK,96.836,False,True
+2026-10-10,Seattle,VMRK,96.548,False,False
+2026-10-17,Seattle,VMRK,96.909,False,False
+2026-10-24,Seattle,VMRK,95.897,False,False
+2026-10-31,Seattle,VMRK,95.71,False,False
+2026-11-07,Seattle,VMRK,94.828,False,False
+2026-11-14,Seattle,VMRK,92.84,False,False
+2026-11-21,Seattle,VMRK,91.781,False,False
+2026-11-28,Seattle,VMRK,91.575,False,False
 2026-08-08,Austin,MAA,100.0,False,False
-2026-08-15,Austin,MAA,99.678,False,False
-2026-08-22,Austin,MAA,98.949,False,False
-2026-08-29,Austin,MAA,99.265,False,False
-2026-09-05,Austin,MAA,99.506,False,False
-2026-09-12,Austin,MAA,99.187,False,False
-2026-09-19,Austin,MAA,98.94,False,True
-2026-09-26,Austin,MAA,98.693,False,False
-2026-10-03,Austin,MAA,98.296,False,True
-2026-10-10,Austin,MAA,97.898,False,False
-2026-10-17,Austin,MAA,97.028,False,False
-2026-10-24,Austin,MAA,97.026,False,False
-2026-10-31,Austin,MAA,96.3,False,False
-2026-11-07,Austin,MAA,95.821,False,False
-2026-11-14,Austin,MAA,96.228,False,False
-2026-11-21,Austin,MAA,96.292,False,False
+2026-08-15,Austin,MAA,99.699,False,False
+2026-08-22,Austin,MAA,99.01,False,False
+2026-08-29,Austin,MAA,99.328,False,False
+2026-09-05,Austin,MAA,99.568,False,False
+2026-09-12,Austin,MAA,99.237,False,False
+2026-09-19,Austin,MAA,98.979,False,True
+2026-09-26,Austin,MAA,98.72,False,False
+2026-10-03,Austin,MAA,98.322,False,True
+2026-10-10,Austin,MAA,97.923,False,False
+2026-10-17,Austin,MAA,97.057,False,False
+2026-10-24,Austin,MAA,97.047,False,False
+2026-10-31,Austin,MAA,96.304,False,False
+2026-11-07,Austin,MAA,95.849,False,False
+2026-11-14,Austin,MAA,96.302,False,False
+2026-11-21,Austin,MAA,96.368,False,False
+2026-11-28,Austin,MAA,96.514,False,False
 2026-08-08,Austin,CPT,100.0,True,False
-2026-08-15,Austin,CPT,99.269,True,False
-2026-08-22,Austin,CPT,99.242,True,False
-2026-08-29,Austin,CPT,99.873,True,False
-2026-09-05,Austin,CPT,99.471,True,False
-2026-09-12,Austin,CPT,99.109,True,False
-2026-09-19,Austin,CPT,97.93,True,False
-2026-09-26,Austin,CPT,96.273,True,False
-2026-10-03,Austin,CPT,96.361,True,True
-2026-10-10,Austin,CPT,96.448,True,False
-2026-10-17,Austin,CPT,96.568,True,False
-2026-10-24,Austin,CPT,95.666,True,False
-2026-10-31,Austin,CPT,94.358,True,False
-2026-11-07,Austin,CPT,92.161,True,False
-2026-11-14,Austin,CPT,92.35,True,False
-2026-11-21,Austin,CPT,91.346,True,False
+2026-08-15,Austin,CPT,99.287,True,False
+2026-08-22,Austin,CPT,99.273,True,False
+2026-08-29,Austin,CPT,99.907,True,False
+2026-09-05,Austin,CPT,99.516,True,False
+2026-09-12,Austin,CPT,99.18,True,False
+2026-09-19,Austin,CPT,98.002,True,False
+2026-09-26,Austin,CPT,96.338,True,False
+2026-10-03,Austin,CPT,96.428,True,True
+2026-10-10,Austin,CPT,96.518,True,False
+2026-10-17,Austin,CPT,96.62,True,False
+2026-10-24,Austin,CPT,95.729,True,False
+2026-10-31,Austin,CPT,94.4,True,False
+2026-11-07,Austin,CPT,92.186,True,False
+2026-11-14,Austin,CPT,92.372,True,False
+2026-11-21,Austin,CPT,91.357,True,False
+2026-11-28,Austin,CPT,91.357,True,False
 2026-08-08,Miami/Fort Lauderdale,INVH,100.0,True,False
 2026-08-15,Miami/Fort Lauderdale,INVH,100.0,True,False
 2026-08-22,Miami/Fort Lauderdale,INVH,100.0,True,False
-2026-08-29,Miami/Fort Lauderdale,INVH,99.714,True,False
-2026-09-05,Miami/Fort Lauderdale,INVH,99.428,True,False
-2026-09-12,Miami/Fort Lauderdale,INVH,99.398,True,False
-2026-09-19,Miami/Fort Lauderdale,INVH,99.685,True,False
-2026-09-26,Miami/Fort Lauderdale,INVH,100.152,True,False
-2026-10-03,Miami/Fort Lauderdale,INVH,99.977,True,True
-2026-10-10,Miami/Fort Lauderdale,INVH,99.801,True,False
-2026-10-17,Miami/Fort Lauderdale,INVH,99.788,True,False
-2026-10-24,Miami/Fort Lauderdale,INVH,100.483,True,False
-2026-10-31,Miami/Fort Lauderdale,INVH,102.219,True,False
-2026-11-07,Miami/Fort Lauderdale,INVH,101.312,True,False
-2026-11-14,Miami/Fort Lauderdale,INVH,100.281,True,False
-2026-11-21,Miami/Fort Lauderdale,INVH,99.312,True,False
+2026-08-29,Miami/Fort Lauderdale,INVH,99.787,True,False
+2026-09-05,Miami/Fort Lauderdale,INVH,99.574,True,False
+2026-09-12,Miami/Fort Lauderdale,INVH,99.546,True,False
+2026-09-19,Miami/Fort Lauderdale,INVH,99.784,True,False
+2026-09-26,Miami/Fort Lauderdale,INVH,100.194,True,False
+2026-10-03,Miami/Fort Lauderdale,INVH,100.042,True,True
+2026-10-10,Miami/Fort Lauderdale,INVH,99.89,True,False
+2026-10-17,Miami/Fort Lauderdale,INVH,99.89,True,False
+2026-10-24,Miami/Fort Lauderdale,INVH,100.652,True,False
+2026-10-31,Miami/Fort Lauderdale,INVH,102.325,True,False
+2026-11-07,Miami/Fort Lauderdale,INVH,101.352,True,False
+2026-11-14,Miami/Fort Lauderdale,INVH,100.33,True,False
+2026-11-21,Miami/Fort Lauderdale,INVH,99.333,True,False
+2026-11-28,Miami/Fort Lauderdale,INVH,99.615,True,False
 2026-08-08,Miami/Fort Lauderdale,VMRK,100.0,True,False
-2026-08-15,Miami/Fort Lauderdale,VMRK,100.4,True,False
-2026-08-22,Miami/Fort Lauderdale,VMRK,100.885,True,False
-2026-08-29,Miami/Fort Lauderdale,VMRK,100.641,True,False
-2026-09-05,Miami/Fort Lauderdale,VMRK,100.709,True,False
-2026-09-12,Miami/Fort Lauderdale,VMRK,100.515,True,True
-2026-09-19,Miami/Fort Lauderdale,VMRK,100.322,True,False
-2026-09-26,Miami/Fort Lauderdale,VMRK,99.529,True,False
-2026-10-03,Miami/Fort Lauderdale,VMRK,99.97,True,True
-2026-10-10,Miami/Fort Lauderdale,VMRK,100.41,True,False
-2026-10-17,Miami/Fort Lauderdale,VMRK,99.85,True,False
-2026-10-24,Miami/Fort Lauderdale,VMRK,99.444,True,False
-2026-10-31,Miami/Fort Lauderdale,VMRK,98.079,True,False
-2026-11-07,Miami/Fort Lauderdale,VMRK,98.079,True,False
-2026-11-14,Miami/Fort Lauderdale,VMRK,97.807,True,False
-2026-11-21,Miami/Fort Lauderdale,VMRK,99.664,True,False
+2026-08-15,Miami/Fort Lauderdale,VMRK,100.35,True,False
+2026-08-22,Miami/Fort Lauderdale,VMRK,100.837,True,False
+2026-08-29,Miami/Fort Lauderdale,VMRK,100.613,True,False
+2026-09-05,Miami/Fort Lauderdale,VMRK,100.676,True,False
+2026-09-12,Miami/Fort Lauderdale,VMRK,100.512,True,True
+2026-09-19,Miami/Fort Lauderdale,VMRK,100.348,True,False
+2026-09-26,Miami/Fort Lauderdale,VMRK,99.551,True,False
+2026-10-03,Miami/Fort Lauderdale,VMRK,99.994,True,True
+2026-10-10,Miami/Fort Lauderdale,VMRK,100.438,True,False
+2026-10-17,Miami/Fort Lauderdale,VMRK,99.843,True,False
+2026-10-24,Miami/Fort Lauderdale,VMRK,99.426,True,False
+2026-10-31,Miami/Fort Lauderdale,VMRK,98.035,True,False
+2026-11-07,Miami/Fort Lauderdale,VMRK,98.035,True,False
+2026-11-14,Miami/Fort Lauderdale,VMRK,97.781,True,False
+2026-11-21,Miami/Fort Lauderdale,VMRK,99.603,True,False
+2026-11-28,Miami/Fort Lauderdale,VMRK,98.049,True,False
 2026-08-08,Raleigh/Durham,MAA,100.0,True,False
-2026-08-15,Raleigh/Durham,MAA,99.947,True,False
-2026-08-22,Raleigh/Durham,MAA,100.148,True,False
-2026-08-29,Raleigh/Durham,MAA,99.754,True,False
-2026-09-05,Raleigh/Durham,MAA,99.863,True,False
-2026-09-12,Raleigh/Durham,MAA,99.078,True,False
-2026-09-19,Raleigh/Durham,MAA,98.234,True,True
-2026-09-26,Raleigh/Durham,MAA,97.39,True,False
-2026-10-03,Raleigh/Durham,MAA,97.424,True,True
-2026-10-10,Raleigh/Durham,MAA,97.457,True,False
-2026-10-17,Raleigh/Durham,MAA,98.687,True,False
-2026-10-24,Raleigh/Durham,MAA,98.953,True,False
-2026-10-31,Raleigh/Durham,MAA,99.042,True,False
-2026-11-07,Raleigh/Durham,MAA,98.663,True,False
-2026-11-14,Raleigh/Durham,MAA,97.126,True,False
-2026-11-21,Raleigh/Durham,MAA,96.224,True,False
+2026-08-15,Raleigh/Durham,MAA,99.925,True,False
+2026-08-22,Raleigh/Durham,MAA,100.096,True,False
+2026-08-29,Raleigh/Durham,MAA,99.713,True,False
+2026-09-05,Raleigh/Durham,MAA,99.822,True,False
+2026-09-12,Raleigh/Durham,MAA,99.05,True,False
+2026-09-19,Raleigh/Durham,MAA,98.211,True,True
+2026-09-26,Raleigh/Durham,MAA,97.373,True,False
+2026-10-03,Raleigh/Durham,MAA,97.403,True,True
+2026-10-10,Raleigh/Durham,MAA,97.434,True,False
+2026-10-17,Raleigh/Durham,MAA,98.672,True,False
+2026-10-24,Raleigh/Durham,MAA,98.934,True,False
+2026-10-31,Raleigh/Durham,MAA,99.026,True,False
+2026-11-07,Raleigh/Durham,MAA,98.636,True,False
+2026-11-14,Raleigh/Durham,MAA,97.125,True,False
+2026-11-21,Raleigh/Durham,MAA,96.253,True,False
+2026-11-28,Raleigh/Durham,MAA,96.374,True,False
 2026-08-08,Raleigh/Durham,CPT,100.0,True,False
-2026-08-15,Raleigh/Durham,CPT,99.7,True,False
-2026-08-22,Raleigh/Durham,CPT,98.826,True,False
-2026-08-29,Raleigh/Durham,CPT,98.784,True,False
-2026-09-05,Raleigh/Durham,CPT,98.523,True,False
-2026-09-12,Raleigh/Durham,CPT,96.773,True,False
-2026-09-19,Raleigh/Durham,CPT,96.193,True,False
-2026-09-26,Raleigh/Durham,CPT,95.56,True,False
-2026-10-03,Raleigh/Durham,CPT,95.653,True,True
-2026-10-10,Raleigh/Durham,CPT,95.747,True,False
-2026-10-17,Raleigh/Durham,CPT,96.532,True,False
-2026-10-24,Raleigh/Durham,CPT,94.234,True,False
-2026-10-31,Raleigh/Durham,CPT,92.162,True,False
-2026-11-07,Raleigh/Durham,CPT,92.162,True,False
-2026-11-14,Raleigh/Durham,CPT,92.77,True,False
-2026-11-21,Raleigh/Durham,CPT,93.961,True,False
+2026-08-15,Raleigh/Durham,CPT,99.71,True,False
+2026-08-22,Raleigh/Durham,CPT,98.848,True,False
+2026-08-29,Raleigh/Durham,CPT,98.808,True,False
+2026-09-05,Raleigh/Durham,CPT,98.55,True,False
+2026-09-12,Raleigh/Durham,CPT,96.813,True,False
+2026-09-19,Raleigh/Durham,CPT,96.234,True,False
+2026-09-26,Raleigh/Durham,CPT,95.606,True,False
+2026-10-03,Raleigh/Durham,CPT,95.702,True,True
+2026-10-10,Raleigh/Durham,CPT,95.799,True,False
+2026-10-17,Raleigh/Durham,CPT,96.593,True,False
+2026-10-24,Raleigh/Durham,CPT,94.304,True,False
+2026-10-31,Raleigh/Durham,CPT,92.231,True,False
+2026-11-07,Raleigh/Durham,CPT,92.231,True,False
+2026-11-14,Raleigh/Durham,CPT,92.825,True,False
+2026-11-21,Raleigh/Durham,CPT,93.999,True,False
+2026-11-28,Raleigh/Durham,CPT,93.999,True,False
